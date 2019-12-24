@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="" group-title="",Musiq'3
+http://radios.rtbf.be/musiq3-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",VivaCité Bruxelles
+http://radios.rtbf.be/vivabxl-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",Pure FM
+http://radios.rtbf.be/pure-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="" group-title="",La Première Wallonie
+http://radios.rtbf.be/laprem1ere-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="93.2" tvg-logo="" group-title="",Classic 21
+http://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",Antipode FM
+http://antipode.belstream.net/antipode128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",Maximum FM
+http://maximum.belstream.net/maximum.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",Nostalgie
+http://streamingp.shoutcast.com/NostalgiePremium-mp3
+#EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="" group-title="",Contact
+http://audiostream.rtl.be/contactfr192
+#EXTINF:-1 tvg-id="" tvg-name="103.2" tvg-logo="" group-title="",DH Radio
+http://dhradio.ice.infomaniak.ch/dhradio-192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="103.7" tvg-logo="" group-title="",NRJ
+http://streamingp.shoutcast.com/NRJ
+#EXTINF:-1 tvg-id="" tvg-name="104.0" tvg-logo="" group-title="",Bel RTL
+http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.0" tvg-logo="" group-title="",Must FM
+http://mustfm.ice.infomaniak.ch/mustfm-192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.6" tvg-logo="" group-title="",R.C.F. Bruxelles
+http://rcf.streamakaci.com/rcfbruxelles.mp3
