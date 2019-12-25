@@ -29,3 +29,7 @@ http://mustfm.ice.infomaniak.ch/mustfm-192.mp3
 http://rcf.streamakaci.com/rcfbruxelles.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",JAM
 http://radios.rtbf.be/musiclab-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",Nostalgie Plus
+http://streamingp.shoutcast.com/nostaplus-mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",RTBF Mix
+http://radios.rtbf.be/rtbfmix-128.mp3
