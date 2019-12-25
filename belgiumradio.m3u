@@ -9,6 +9,8 @@ http://radios.rtbf.be/pure-128.mp3
 http://radios.rtbf.be/laprem1ere-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="93.2" tvg-logo="" group-title="",Classic 21
 http://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="93.8" tvg-logo="" group-title="",R.C.F. Liège
+http://rcf.streamakaci.com/rcfliege.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",Antipode FM
 http://antipode.belstream.net/antipode128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",Maximum FM
@@ -33,3 +35,5 @@ http://radios.rtbf.be/musiclab-128.mp3
 http://streamingp.shoutcast.com/nostaplus-mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",RTBF Mix
 http://radios.rtbf.be/rtbfmix-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",1R.C.F. Belgique
+https://rcf.streamakaci.com/rcfbe.mp3
