@@ -23,13 +23,11 @@ http://ch1.ice.infomaniak.ch/ch1-32.aac
 http://ch2.ice.infomaniak.ch/ch2-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Chaabia
 http://188.165.242.25:8012/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair
-http://radio-dzair.net:8012/;stream.nsv
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Orientale
 http://188.165.242.25:8006/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hawana Constantine
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hawana
 https://streamingv2.shoutcast.com/Radio-Hawana
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hchicha
 http://listen.radionomy.com/radiohchicha1
@@ -37,5 +35,3 @@ http://listen.radionomy.com/radiohchicha1
 http://radio-dzair.net:8032/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",KSUN 66
 http://37.187.77.45:9072/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Izures
-http://radio-dzair.net:8032/stream/1/
