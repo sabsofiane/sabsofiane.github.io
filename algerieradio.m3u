@@ -3,14 +3,14 @@
 http://ch3.ice.infomaniak.ch/ch3-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="90.6" tvg-logo="" group-title="",Radio Tipaza
 http://tipaza.ice.infomaniak.ch/42.aac
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",Radio El Bahdja
+http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",Radio Boumerdes
 http://boumerdes.ice.infomaniak.ch/35.aac
 #EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",Radio Coran
 http://coran.ice.infomaniak.ch/coran.aac
 #EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",Radio Culture
 http://culture.ice.infomaniak.ch/culture.aac
-#EXTINF:-1 tvg-id="" tvg-name="94.2" tvg-logo="" group-title="",El Bahdja
-http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="" group-title="",Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
 #EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="" group-title="",Radio Algérie Inter
@@ -21,5 +21,21 @@ http://blida.ice.infomaniak.ch/09.aac
 http://ch1.ice.infomaniak.ch/ch1-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
-
-
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Chaabia
+http://188.165.242.25:8012/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair
+http://radio-dzair.net:8012/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Orientale
+http://188.165.242.25:8006/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Aures
+http://188.165.242.25:8000/;listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hawana Constantine
+https://streamingv2.shoutcast.com/Radio-Hawana
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hchicha
+http://listen.radionomy.com/radiohchicha1
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Izures
+http://radio-dzair.net:8032/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",KSUN 66
+http://37.187.77.45:9072/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Izures
+http://radio-dzair.net:8032/stream/1/
