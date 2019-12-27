@@ -1,37 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="" group-title="",Chaine 3
+#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="" group-title="",01- Chaine 3
 http://ch3.ice.infomaniak.ch/ch3-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="90.6" tvg-logo="" group-title="",Radio Tipaza
+#EXTINF:-1 tvg-id="" tvg-name="90.6" tvg-logo="" group-title="",02- Radio Tipaza
 http://tipaza.ice.infomaniak.ch/42.aac
-#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",Radio El Bahdja
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",03- Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",Radio Boumerdes
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",04- Radio Boumerdes
 http://boumerdes.ice.infomaniak.ch/35.aac
-#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",Radio Coran
+#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",05- Radio Coran
 http://coran.ice.infomaniak.ch/coran.aac
-#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",Radio Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",06- Radio Culture
 http://culture.ice.infomaniak.ch/culture.aac
-#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="" group-title="",Jil FM
+#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="" group-title="",07- Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
-#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="" group-title="",Radio Algérie Inter
+#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="" group-title="",08- Radio Algérie Inter
 http://rai.ice.infomaniak.ch/rai-64.aac
-#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",Radio Blida
+#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",09- Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
-#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="" group-title="",Chaine 1
+#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="" group-title="",10- Chaine 1
 http://ch1.ice.infomaniak.ch/ch1-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",Chaine 2
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",11- Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Chaabia
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",12- Radio Dzair Chaabia
 http://188.165.242.25:8012/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Orientale
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",13- Radio Dzair Orientale
 http://188.165.242.25:8006/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Aures
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",14- Radio Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hawana
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",15- Radio Hawana
 https://streamingv2.shoutcast.com/Radio-Hawana
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Hchicha
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",16- Radio Hchicha
 http://listen.radionomy.com/radiohchicha1
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",Radio Dzair Izures
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- Radio Dzair Izures
 http://radio-dzair.net:8032/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",KSUN 66
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",18- KSUN 66
 http://37.187.77.45:9072/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",20- Adrar
+http://adrar.ice.infomaniak.ch/01.aac
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",21- Chlef
+http://chlef.ice.infomaniak.ch/02.aac
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",22- Laghouat
+http://laghouat.ice.infomaniak.ch/03.aac
