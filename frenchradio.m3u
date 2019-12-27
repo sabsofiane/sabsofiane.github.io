@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="87.6" tvg-logo="" group-title="",France Inter
+#EXTINF:-1 tvg-id="" tvg-name="87.6" tvg-logo="" group-title="",01- France Inter
 http://direct.franceinter.fr/live/franceculture-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",RFI Afrique
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",02- RFI Afrique
 http://live02.rfi.fr/rfiafrique-96k.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",RFI Monde
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",03- RFI Monde
 http://live02.rfi.fr/rfimonde-96k.mp3
-#EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="" group-title="",Nostalgie France
+#EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="" group-title="",04 -Nostalgie France
 http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="" group-title="",Chérie FM
+#EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="" group-title="",05- Chérie FM
 http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="" group-title="",France Musique
+#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="" group-title="",06- France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",Mouv'
+#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",07- Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="" group-title="",France Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="" group-title="",08- France Culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",Jazz
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",09- Jazz
 http://broadcast.infomaniak.net/jazzradio-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="" group-title="",Orient
+#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="" group-title="",10- Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
-#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",BFM Business
+#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",11- BFM Business
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
-#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="" group-title="",Skyrock
+#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="" group-title="",12- Skyrock
 http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",Rire & Chansons
+#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",13- Rire & Chansons
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",Latina
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",14- Latina
 http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",NRJ
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",15- NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",Classique
+#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",16- Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",Nova
+#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",17- Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",Fun Radio
+#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",18- Fun Radio
 http://streaming.radio.funradio.fr/fun-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="" group-title="",Oui FM
+#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="" group-title="",19- Oui FM
 http://stream.ouifm.fr/ouifm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="" group-title="",MFM
+#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="" group-title="",20- MFM
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",RMC Info
+#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",21- RMC Info
 http://chai5she.cdn.dvmr.fr/rmcinfo
-#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="" group-title="",Virgin
+#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="" group-title="",22- Virgin
 http://ais-live.cloud-services.paris:8000/virgin.mp3
-#EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",RFM
+#EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",23- RFM
 http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",RTL
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",24- RTL
 http://streaming.radio.rtl.fr/rtl-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",Europe 1
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",25- Europe 1
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",Fip
+#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",26- Fip
 http://direct.fipradio.fr/live/fip-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="" group-title="",France Info
+#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="" group-title="",27- France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",RTL2
+#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",28- RTL2
 http://icecast.rtl2.fr/rtl2-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="" group-title="",Beur FM
+#EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="" group-title="",29- Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",France Bleu
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",30- France Bleu
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
