@@ -31,9 +31,13 @@ https://streamingv2.shoutcast.com/Radio-Hawana
 http://listen.radionomy.com/radiohchicha1
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",16- Radio Dzair Izures
 http://radio-dzair.net:8032/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- KSUN 66
-http://37.187.77.45:9072/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- Radio Alhak
+http://91.121.162.224:9067/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",18- Adrar
 http://adrar.ice.infomaniak.ch/01.aac
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",19- Chlef
 http://chlef.ice.infomaniak.ch/02.aac
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",20- Tamanrasset
+http://tamanrasset.ice.infomaniak.ch/11.aac
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",21- Tizi Ouzou
+http://tiziouzou.ice.infomaniak.ch/15.aac
