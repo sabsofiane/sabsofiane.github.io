@@ -30,7 +30,7 @@ http://188.165.242.25:8020/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",15- Radio Dzair Izures
 http://radio-dzair.net:8032/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",16- Radio Dzair Sahara
-http://188.165.242.25:8026/stream/1
+http://188.165.242.25:8012/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- Radio Murjdado
 https://streamingv2.shoutcast.com/Murdjajo
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",18- Radio Andalousse
