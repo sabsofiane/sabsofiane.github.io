@@ -3,10 +3,10 @@
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="" group-title="",02- Radio Mars
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="" group-title="",03- Atlantic Radio
-http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",04- Radio Plus Agadir
+#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="" group-title="",03- Radio Plus Agadir
 http://rpc.ice.infomaniak.ch/rpc-agadir.mp3
+#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="" group-title="",04- Atlantic Radio
+http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",05- Radio Sawa
 http://n06.radiojar.com/whbvyphna3quv?rj=&rj-ttl=5
 #EXTINF:-1 tvg-id="" tvg-name="92.9" tvg-logo="" group-title="",06- Medina FM
