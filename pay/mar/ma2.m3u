@@ -63,5 +63,9 @@ http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 http://icecast.rtl2.fr/rtl2-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="" group-title="",32- Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="" group-title="",33- Africa Radio
+http://broadcast.infomaniak.net:80/african1paris-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",34- France Bleu
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",35- Crooner Radio
+http://stream.crooner.fr/crooner.aac
