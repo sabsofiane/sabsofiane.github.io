@@ -45,9 +45,27 @@ http://gold.ice.infomaniak.ch/gold-128.mp3
 http://icepe1.infomaniak.ch/mgharba-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",23- Hit Radio Pop
 http://poprock.ice.infomaniak.ch/poprock-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",24- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",24- Medi1 Maghreb
+http://streaming07.mit.ovea.com/medi1
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",25- Medi1 Andalouse
+http://live.medi1.com/Andalouse
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",26- Medi1 Dance
+http://live.medi1.com/Dj
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",27- Medi1 Hits
+http://live.medi1.com/Hits
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",28- Medi1 Jazz
+http://live.medi1.com/Jazz
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",29- Medi1 Latino
+http://live.medi1.com/Latino
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",30- Medi1 Lounge
+http://live.medi1.com/Lounge
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",31- Medi1 Soufi
+http://live.medi1.com/Soufi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",32- Medi1 Tarab
+http://live.medi1.com/Tarab
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",33- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",25- Manganimema Radio
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",34- Manganimema Radio
 https://streamingv2.shoutcast.com/Manganimema
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",26- Max Radio
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",35- Max Radio
 http://srv4.ipstm.net:10564/;
