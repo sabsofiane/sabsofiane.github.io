@@ -47,3 +47,7 @@ http://icepe1.infomaniak.ch/mgharba-128.mp3
 http://poprock.ice.infomaniak.ch/poprock-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",24- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",25- Manganimema Radio
+https://streamingv2.shoutcast.com/Manganimema
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",26- Max Radio
+http://srv4.ipstm.net:10564/;
