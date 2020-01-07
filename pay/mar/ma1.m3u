@@ -23,13 +23,15 @@ http://live.medi1.com/medi1
 http://media.yabiladi.com:8000/;
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",12- Hit Radio Metal
 http://icepe12.infomaniak.ch/rockmetal-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",13- Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",13- Hit Radio Soul
+http://icepe12.infomaniak.ch/rockmetal-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",14- Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",14- Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",15- Chada FM
 http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",15- Aswat
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",16- Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",16- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",17- Azawan Amazigh
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",18- Azawan Amazigh
 http://151.80.33.75:9000/;
