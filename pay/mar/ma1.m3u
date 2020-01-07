@@ -17,11 +17,13 @@ http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 http://eu8.fastcast4u.com:5636/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="" group-title="",09- Medi 1 Radio
 http://live.medi1.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",10- Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",10- Arabic FM
+http://media.yabiladi.com:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",11- Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",11- Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",12- Chada FM
 http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",12- Aswat
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",13- Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",13- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",14- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
