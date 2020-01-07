@@ -31,13 +31,19 @@ http://icepe11.infomaniak.ch/buzz-128.mp3
 http://cover2.ice.infomaniak.ch/cover2-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",16- Hit Radio Dance
 http://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",17- Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",17- Hit Radio Gold
+http://gold.ice.infomaniak.ch/gold-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",18- Hit Radio Mgharba
+http://icepe1.infomaniak.ch/mgharba-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",19- Hit Radio Pop
+http://poprock.ice.infomaniak.ch/poprock-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",20- Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",18- Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",21- Chada FM
 http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",19- Aswat
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",22- Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",20- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",23- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",21- Azawan Amazigh
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",24- Azawan Amazigh
 http://151.80.33.75:9000/;
