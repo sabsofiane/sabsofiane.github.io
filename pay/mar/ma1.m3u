@@ -47,3 +47,5 @@ http://broadcast.ice.infomaniak.ch/aswat-high.mp3
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
 #EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",24- Azawan Amazigh
 http://151.80.33.75:9000/;
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",25- Love Maroc
+http://audio.marlowfm.co.uk:8288/;
