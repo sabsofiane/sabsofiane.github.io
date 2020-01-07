@@ -13,19 +13,21 @@ http://n06.radiojar.com/whbvyphna3quv?rj=&rj-ttl=5
 http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.0" tvg-logo="" group-title="",07- Radio Plus Casa
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",08- Cap FM
+#EXTINF:-1 tvg-id="" tvg-name="96.1" tvg-logo="" group-title="",08- Hit Radio Latino
+http://latino.ice.infomaniak.ch/latino-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",09- Cap FM
 http://eu8.fastcast4u.com:5636/;stream/1
-#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="" group-title="",09- Medi 1 Radio
+#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="" group-title="",10- Medi 1 Radio
 http://live.medi1.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",10- Arabic FM
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",11- Arabic FM
 http://media.yabiladi.com:8000/;
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",11- Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",12- Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",12- Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",13- Chada FM
 http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",13- Aswat
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",14- Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",14- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",15- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",15- Azawan Amazigh
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="" group-title="",16- Azawan Amazigh
 http://151.80.33.75:9000/;
