@@ -15,3 +15,5 @@ http://rtstream.tanitweb.com/tataouine
 http://rtstream.tanitweb.com/rtci
 #EXTINF:-1 tvg-id="" tvg-name="100.7" tvg-logo="" group-title="",08- Radio Zitouna FM
 http://stream8.tanitweb.com/zitounafm
+#EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="" group-title="",09- Shems FM
+http://stream6.tanitweb.com/shems
