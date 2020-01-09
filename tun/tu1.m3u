@@ -1,9 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="90.3" tvg-logo="" group-title="",01- RTT Jeunes
 http://rtstream.tanitweb.com/jeunes
-#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="" group-title="",02- RTT Culture
-http://rtstream.tanitweb.com/culturelle
-#EXTINF:-1 tvg-id="" tvg-name="97.2" tvg-logo="" group-title="",03- RTT Chaîne Inter
+#EXTINF:-1 tvg-id="" tvg-name="92.2" tvg-logo="" group-title="",02- RTT Kef
 http://rtstream.tanitweb.com/rtci
-#EXTINF:-1 tvg-id="" tvg-name="100.7" tvg-logo="" group-title="",04- Radio Zitouna FM
+#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="" group-title="",03- RTT Culture
+http://rtstream.tanitweb.com/culturelle
+#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="" group-title="",04- RTT Radio Nationale
+http://rtstream.tanitweb.com/nationale
+#EXTINF:-1 tvg-id="" tvg-name="95.3" tvg-logo="" group-title="",05- Mosaïque FM
+http://radio.mosaiquefm.net:8000/mosalive
+#EXTINF:-1 tvg-id="" tvg-name="96.6" tvg-logo="" group-title="",06- RTT Tatouine
+http://rtstream.tanitweb.com/tataouine
+#EXTINF:-1 tvg-id="" tvg-name="97.2" tvg-logo="" group-title="",07- RTT Chaîne Inter
+http://rtstream.tanitweb.com/rtci
+#EXTINF:-1 tvg-id="" tvg-name="100.7" tvg-logo="" group-title="",08- Radio Zitouna FM
 http://stream8.tanitweb.com/zitounafm
