@@ -41,11 +41,9 @@ http://stream6.tanitweb.com/radiomed
 http://live.ulysse-fm.net:9990/;
 #EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",21- RTT Monastir
 http://rtstream.tanitweb.com/monastir
-#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",22- Kn OOz FM
-http://streaming.knoozfm.net:8000/knoozfm
-#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",23- Cap FM
+#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",22- Cap FM
 http://stream8.tanitweb.com/capfm
-#EXTINF:-1 tvg-id="" tvg-name="106.6" tvg-logo="" group-title="",24- RTT Sfax
+#EXTINF:-1 tvg-id="" tvg-name="106.6" tvg-logo="" group-title="",23- RTT Sfax
 http://rtstream.tanitweb.com/sfax
-#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="" group-title="",25- Misk FM
+#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="" group-title="",24- Misk FM
 http://178.32.253.134:8000/stream
