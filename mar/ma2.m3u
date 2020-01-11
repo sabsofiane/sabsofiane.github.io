@@ -9,67 +9,73 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="" group-title="",05- Nostalgie France
 http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="" group-title="",06- Chérie FM
+#EXTINF:-1 tvg-id="" tvg-name="90.9" tvg-logo="" group-title="",06- Chante France
+http://stream1.chantefrance.com/Chante_France
+#EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="" group-title="",07- Chérie FM
 http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="" group-title="",07- France Musique
+#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="" group-title="",08- France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",08- Mouv'
+#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",09- Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",09- Tropiques FM
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",10- Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
-#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="" group-title="",10- France Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="" group-title="",11- France Culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",11- Jazz
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",12- Jazz
 http://broadcast.infomaniak.net/jazzradio-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="" group-title="",12- Radio Orient
+#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="" group-title="",13- Radio Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
-#EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="" group-title="",13- Skyrock
+#EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="" group-title="",14- Skyrock
 http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",14- BFM Business
+#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",15- BFM Business
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
-#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="" group-title="",15- Voltage
+#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="" group-title="",16- Voltage
 http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",16- Rire & Chansons
+#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",17- Rire & Chansons
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",17- Latina
+#EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="" group-title="",18- Radio FG
+http://radiofg.impek.com/fg.mp3
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",19- Latina
 http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="" group-title="",18- France Maghreb
+#EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="" group-title="",20- France Maghreb
 http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",19- NRJ
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",21- NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",20- Contact FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",22- Contact FM
 http://radio-contact.ice.infomaniak.ch/radio-contact-high
-#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="" group-title="",21- Hit West FM
+#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="" group-title="",23- Hit West FM
 http://broadcast.infomaniak.net/hitwest-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",22- Classique
+#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",24- Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",23- Nova
+#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",25- Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",24- Fun Radio
+#EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="" group-title="",26- Vibration FM
+http://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",27- Fun Radio
 http://streaming.radio.funradio.fr/fun-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="" group-title="",25- Oui FM
+#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="" group-title="",28- Oui FM
 http://stream.ouifm.fr/ouifm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="" group-title="",26- MFM
+#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="" group-title="",29- MFM
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",27- RMC Info
+#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",30- RMC Info
 http://chai5she.cdn.dvmr.fr/rmcinfo
-#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="" group-title="",28- Virgin
+#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="" group-title="",31- Virgin
 http://ais-live.cloud-services.paris:8000/virgin.mp3
-#EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",29- RFM
+#EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",32- RFM
 http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",30- RTL
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="" group-title="",33- RTL
 http://streaming.radio.rtl.fr/rtl-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",31- Europe 1
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",34- Europe 1
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",32- Fip
+#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",35- Fip
 http://direct.fipradio.fr/live/fip-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="" group-title="",33- France Info
+#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="" group-title="",36- France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",34- RTL2
+#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="" group-title="",37- RTL2
 http://icecast.rtl2.fr/rtl2-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="" group-title="",35- Beur FM
+#EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="" group-title="",38- Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="" group-title="",36- Africa Radio
+#EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="" group-title="",39- Africa Radio
 http://broadcast.infomaniak.net:80/african1paris-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",37- France Bleu
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",40- France Bleu
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
