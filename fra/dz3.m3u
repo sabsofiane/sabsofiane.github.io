@@ -25,19 +25,21 @@ http://dhradio.ice.infomaniak.ch/dhradio-192.mp3
 http://streamingp.shoutcast.com/NRJ
 #EXTINF:-1 tvg-id="" tvg-name="104.0" tvg-logo="" group-title="",13- Bel RTL
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.0" tvg-logo="" group-title="",14- Must FM
+#EXTINF:-1 tvg-id="" tvg-name="104.5" tvg-logo="" group-title="",14- Zen FM
+http://lb.zenfm.be/zenfm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.0" tvg-logo="" group-title="",15- Must FM
 http://mustfm.ice.infomaniak.ch/mustfm-192.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.6" tvg-logo="" group-title="",15- R.C.F. Bruxelles
+#EXTINF:-1 tvg-id="" tvg-name="107.6" tvg-logo="" group-title="",16- R.C.F. Bruxelles
 http://rcf.streamakaci.com/rcfbruxelles.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",16- Jam
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",17- Jam
 http://radios.rtbf.be/musiclab-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",17- Nostalgie Plus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",18- Nostalgie Plus
 http://streamingp.shoutcast.com/nostaplus-mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",18- RTBF Mix
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",19- RTBF Mix
 http://radios.rtbf.be/rtbfmix-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",19- Tarmac
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",20- Tarmac
 http://radios.rtbf.be/tarmac-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",20- Viva Plus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",21- Viva Plus
 http://radios.rtbf.be/tarmac-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",21- 1R.C.F. Belgique
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",22- 1R.C.F. Belgique
 https://rcf.streamakaci.com/rcfbe.mp3
