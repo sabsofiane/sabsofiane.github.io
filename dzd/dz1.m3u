@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="" group-title="",01- Chaine 3
+#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="" group-title="",01- Alger Chaine 3
 http://ch3.ice.infomaniak.ch/ch3-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",02- Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
@@ -15,9 +15,9 @@ http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
 http://rai.ice.infomaniak.ch/rai-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",08- Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
-#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="" group-title="",09- Chaine 1
+#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="" group-title="",09- Alger Chaine 1
 http://ch1.ice.infomaniak.ch/ch1-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",10- Chaine 2
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",10- Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",11- Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
