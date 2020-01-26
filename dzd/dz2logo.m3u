@@ -35,7 +35,7 @@ http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
 http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="rire.jpg" group-title="",18- Rire & Chansons
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="97.8" tvg-logo="swigg.png" group-title="",19- Swigg
+#EXTINF:-1 tvg-id="" tvg-name="97.8" tvg-logo="swigg.jpg" group-title="",19- Swigg
 http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="radiofg.png" group-title="",20- Radio FG
 http://radiofg.impek.com/fg.mp3
@@ -95,13 +95,13 @@ http://80.82.229.202/euradio.mp3
 http://www.larg.fr:8000/larg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="maritima.jpg" group-title="",48- Maritima Radio
 http://radiomaritima.streamakaci.com/radiomaritima.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="swigg.jpg",49- Swigg 93
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",49- Swigg 93
 https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="swigg.jpg",50- Swigg FR
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",50- Swigg FR
 https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="swigg.jpg",51- Swigg Marseille
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",51- Swigg Marseille
 https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="swigg.jpg",52- Swigg US
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",52- Swigg US
 https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="swigg.jpg",53- Swigg Work
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",53- Swigg Work
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
