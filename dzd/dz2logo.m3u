@@ -33,11 +33,11 @@ http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
 #EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="voltage.jpg" group-title="",17- Voltage
 http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",18- Rire & Chansons
+#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="rire.jpg" group-title="",18- Rire & Chansons
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="97.8" tvg-logo="" group-title="",19- Ado FM
+#EXTINF:-1 tvg-id="" tvg-name="97.8" tvg-logo="swigg.png" group-title="",19- Swigg
 http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="" group-title="",20- Radio FG
+#EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="radiofg.png" group-title="",20- Radio FG
 http://radiofg.impek.com/fg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",21- Latina
 http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
