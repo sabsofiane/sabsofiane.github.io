@@ -43,7 +43,7 @@ http://radiofg.impek.com/fg.mp3
 http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="frmaghreb.png" group-title="",22- France Maghreb
 http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="Nrj2014.png" group-title="",23- NRJ
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="Nrj2014.jpg" group-title="",23- NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="" group-title="",24- Contact FM
 http://radio-contact.ice.infomaniak.ch/radio-contact-high
