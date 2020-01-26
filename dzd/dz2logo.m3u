@@ -49,7 +49,7 @@ http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
 http://radio-contact.ice.infomaniak.ch/radio-contact-high
 #EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="hitwest.jpg" group-title="",25- Hit West FM
 http://broadcast.infomaniak.net/hitwest-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",26- Classique
+#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="classique.png" group-title="",26- Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",27- Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
