@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="Musiq3.png" group-title="",01- Musiq'3
 http://radios.rtbf.be/musiq3-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",02- VivaCité Bruxelles
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="vivacite.png" group-title="",02- VivaCité Bruxelles
 http://radios.rtbf.be/vivabxl-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",03- Pure FM
 http://radios.rtbf.be/pure-128.mp3
