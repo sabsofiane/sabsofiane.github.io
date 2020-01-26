@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="jilfm_logo.png" group-title="",01- Alger Chaine 3
+#EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="Chaine3.jpg" group-title="",01- Alger Chaine 3
 http://ch3.ice.infomaniak.ch/ch3-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="" group-title="",02- Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
@@ -9,7 +9,7 @@ http://boumerdes.ice.infomaniak.ch/35.aac
 http://coran.ice.infomaniak.ch/coran.aac
 #EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="" group-title="",05- Radio Culture
 http://culture.ice.infomaniak.ch/culture.aac
-#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="" group-title="",06- Jil FM
+#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="jilfm_logo.png" group-title="",06- Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
 #EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="" group-title="",07- Radio Algérie Inter
 http://rai.ice.infomaniak.ch/rai-64.aac
