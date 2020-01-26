@@ -83,9 +83,9 @@ http://broadcast.infomaniak.ch/beurfm-high.mp3
 http://broadcast.infomaniak.net:80/african1paris-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="francebleu.png" group-title="",42- France Bleu
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",43- ABC Lounge Radio
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="abc.jpg" group-title="",43- ABC Lounge Radio
 http://str1.openstream.co/589
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",44- Crooner Radio
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="crooner.png" group-title="",44- Crooner Radio
 http://stream.crooner.fr/crooner.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",45- CFM Radio
 http://www.larg.fr:8000/larg.mp3
