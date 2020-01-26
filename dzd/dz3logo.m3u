@@ -11,11 +11,11 @@ http://radios.rtbf.be/laprem1ere-128.mp3
 http://radios.rtbf.be/classic21-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="93.8" tvg-logo="rcf.jpg" group-title="",06- R.C.F. Liège
 http://rcf.streamakaci.com/rcfliege.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",07- Antipode FM
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="antipode.png" group-title="",07- Antipode FM
 http://antipode.belstream.net/antipode128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",08- Maximum FM
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="maximum.png" group-title="",08- Maximum FM
 http://maximum.belstream.net/maximum.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",09- Nostalgie
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgie.png" group-title="",09- Nostalgie
 http://streamingp.shoutcast.com/NostalgiePremium-mp3
 #EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="" group-title="",10- Contact
 http://audiostream.rtl.be/contactfr192
