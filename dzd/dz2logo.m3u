@@ -27,7 +27,7 @@ http://direct.franceculture.fr/live/franceculture-midfi.mp3
 http://broadcast.infomaniak.net/jazzradio-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="radioorient.png" group-title="",14- Radio Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
-#EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="" group-title="",15- Skyrock
+#EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="skyrock.png" group-title="",15- Skyrock
 http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
 #EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",16- BFM Business
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
