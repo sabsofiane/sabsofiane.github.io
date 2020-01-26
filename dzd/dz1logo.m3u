@@ -17,7 +17,7 @@ http://rai.ice.infomaniak.ch/rai-64.aac
 http://blida.ice.infomaniak.ch/09.aac
 #EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="Chaine1.png" group-title="",09- Alger Chaine 1
 http://ch1.ice.infomaniak.ch/ch1-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="default_logo.jpg" group-title="",10- Alger Chaine 2
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="Chaine2.png" group-title="",10- Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",11- Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
