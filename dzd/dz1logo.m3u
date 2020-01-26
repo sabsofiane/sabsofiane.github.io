@@ -1,101 +1,101 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="88.4" tvg-logo="Chaine3.jpg" group-title="",01- Alger Chaine 3
 http://ch3.ice.infomaniak.ch/ch3-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="default_logo.png" group-title="",02- Radio El Bahdja
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="default_logo.jpg" group-title="",02- Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="default_logo.png" group-title="",03- Radio Boumerdes
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="default_logo.jpg" group-title="",03- Radio Boumerdes
 http://boumerdes.ice.infomaniak.ch/35.aac
-#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="default_logo.png" group-title="",04- Radio Coran
+#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="default_logo.jpg" group-title="",04- Radio Coran
 http://coran.ice.infomaniak.ch/coran.aac
-#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="default_logo.png" group-title="",05- Radio Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="default_logo.jpg" group-title="",05- Radio Culture
 http://culture.ice.infomaniak.ch/culture.aac
-#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="default_logo.png" group-title="",06- Jil FM
+#EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="default_logo.jpg" group-title="",06- Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
-#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="default_logo.png" group-title="",07- Radio Algérie Inter
+#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="default_logo.jpg" group-title="",07- Radio Algérie Inter
 http://rai.ice.infomaniak.ch/rai-64.aac
-#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="default_logo.png" group-title="",08- Radio Blida
+#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="default_logo.jpg" group-title="",08- Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
-#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="default_logo.png" group-title="",09- Alger Chaine 1
+#EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="default_logo.jpg" group-title="",09- Alger Chaine 1
 http://ch1.ice.infomaniak.ch/ch1-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="default_logo.png" group-title="",10- Alger Chaine 2
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="default_logo.jpg" group-title="",10- Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",11- Dzair Aures
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",11- Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",12- Dzair Andaloussia
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",12- Dzair Andaloussia
 http://radio-dzair.net:8038/;
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",13- Dzair Chaabia
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",13- Dzair Chaabia
 http://188.165.242.25:8012/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",14- Dzair Izuran
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",14- Dzair Izuran
 http://radio-dzair.net:8032/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",15- Dzair Raina
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",15- Dzair Raina
 http://188.165.242.25:8020/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",16- Dzair Orientale
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",16- Dzair Orientale
 http://188.165.242.25:8006/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",17- Dzair Sahara
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",17- Dzair Sahara
 http://188.165.242.25:8012/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",18- Radio Andalousse
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",18- Radio Andalousse
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",19- Radio Alhak
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",19- Radio Alhak
 http://91.121.162.224:9067/stream/1/
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",20- Radio Gazelle
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",20- Radio Gazelle
 http://srv2.streaming-ingenierie.fr:8134/;stream.nsv
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",21- Radio Hawana
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",21- Radio Hawana
 https://streamingv2.shoutcast.com/Radio-Hawana
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",22- Radio Hchicha
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",22- Radio Hchicha
 http://listen.radionomy.com/radiohchicha1
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",23- Radio Hnawelhik
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",23- Radio Hnawelhik
 http://hermes.bcs-systems.de/leipzig-beatzz_simulcast_192k_mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.png" group-title="",24- Radio Murjdado
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",24- Radio Murjdado
 https://streamingv2.shoutcast.com/Murdjajo
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",25- Adrar
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",25- Adrar
 http://adrar.ice.infomaniak.ch/01.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",26- Ain Temouchent
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",26- Ain Temouchent
 http://aintemouchent.ice.infomaniak.ch/46.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",27- Anaba
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",27- Anaba
 http://annaba.ice.infomaniak.ch/23.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",28- Batna
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",28- Batna
 http://batna.ice.infomaniak.ch/05.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",29- Béchar
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",29- Béchar
 http://bechar.ice.infomaniak.ch/08.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",30- Bejaia
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",30- Bejaia
 http://bejaia.ice.infomaniak.ch/06.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",31- Biskra
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",31- Biskra
 http://biskra.ice.infomaniak.ch/07.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",32- Blida
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",32- Blida
 http://blida.ice.infomaniak.ch/09.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",33- Chlef
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",33- Chlef
 http://chlef.ice.infomaniak.ch/02.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",34- Djelfa
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",34- Djelfa
 http://djelfa.ice.infomaniak.ch/17.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",35- El Oued Souf
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",35- El Oued Souf
 http://eloued.ice.infomaniak.ch/39.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",36- Laghouat
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",36- Laghouat
 http://laghouat.ice.infomaniak.ch/03.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",37- Médéa
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",37- Médéa
 http://medea.ice.infomaniak.ch/26.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",38- Mostaganem
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",38- Mostaganem
 http://setif.ice.infomaniak.ch/27.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",39- Mascara
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",39- Mascara
 http://mascara.ice.infomaniak.ch/29.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",40- Msila
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",40- Msila
 http://msila.ice.infomaniak.ch/28.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",41- Naama
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",41- Naama
 http://naama.ice.infomaniak.ch/45.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",42- Oran
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",42- Oran
 http://oran.ice.infomaniak.ch/31.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",43- Ouargla
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",43- Ouargla
 http://ouargla.ice.infomaniak.ch/30.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",44- Relizane
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",44- Relizane
 http://relizane.ice.infomaniak.ch/48.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",45- Sidi Bel Abbes
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",45- Sidi Bel Abbes
 http://setif.ice.infomaniak.ch/22.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",46- Soumm
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",46- Soumm
 http://bejaia.ice.infomaniak.ch/06.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",47- Tamanrasset
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",47- Tamanrasset
 http://tamanrasset.ice.infomaniak.ch/11.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",48- Tiaret
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",48- Tiaret
 http://tiaret.ice.infomaniak.ch/14.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",49- Tlemcen
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",49- Tlemcen
 http://tlemcen.ice.infomaniak.ch/13.aac
-#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.png" group-title="",50- Tizi Ouzou
+#EXTINF:-1 tvg-id="" tvg-name="N/A" tvg-logo="default_logo.jpg" group-title="",50- Tizi Ouzou
 http://tiziouzou.ice.infomaniak.ch/15.aac
