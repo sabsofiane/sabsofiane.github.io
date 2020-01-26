@@ -69,11 +69,11 @@ http://ais-live.cloud-services.paris:8000/virgin.mp3
 http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
 #EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="rtl1.png" group-title="",35- RTL1
 http://streaming.radio.rtl.fr/rtl-1-48-192
-#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="" group-title="",36- Europe 1
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="europe1.png" group-title="",36- Europe 1
 http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="" group-title="",37- Fip
+#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="fip.png" group-title="",37- Fip
 http://direct.fipradio.fr/live/fip-midfi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="" group-title="",38- France Info
+#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="franceinfo.png" group-title="",38- France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="rtl2.jpg" group-title="",39- RTL2
 http://icecast.rtl2.fr/rtl2-1-48-192
