@@ -59,7 +59,7 @@ http://vibration.ice.infomaniak.ch/vibration-high.mp3
 http://streaming.radio.funradio.fr/fun-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="ouifm.png" group-title="",30- Oui FM
 http://stream.ouifm.fr/ouifm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="" group-title="",31- MFM
+#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="mradio.png" group-title="",31- M Radio
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",32- RMC Info
 http://chai5she.cdn.dvmr.fr/rmcinfo
