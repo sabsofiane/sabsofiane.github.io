@@ -3,9 +3,9 @@
 http://direct.franceinter.fr/live/franceculture-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="generation.jpg" group-title="",02- Génération
 http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",03- RFI Afrique
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfiafrique.png" group-title="",03- RFI Afrique
 http://live02.rfi.fr/rfiafrique-96k.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="" group-title="",04- RFI Monde
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfimonde.png" group-title="",04- RFI Monde
 http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="" group-title="",05- TSF Jazz
 http://broadcast.infomaniak.net/tsfjazz-high.mp3
