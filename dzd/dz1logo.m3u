@@ -11,7 +11,7 @@ http://coran.ice.infomaniak.ch/coran.aac
 http://culture.ice.infomaniak.ch/culture.aac
 #EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="jilfm.jpg" group-title="",06- Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
-#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="default_logo.jpg" group-title="",07- Radio Algérie Inter
+#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="rai.png" group-title="",07- Radio Algérie Inter
 http://rai.ice.infomaniak.ch/rai-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="default_logo.jpg" group-title="",08- Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
