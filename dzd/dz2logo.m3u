@@ -29,9 +29,9 @@ http://broadcast.infomaniak.net/jazzradio-high.mp3
 http://stream3.broadcast-associes.com:8405/Radio-Orient
 #EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="skyrock.png" group-title="",15- Skyrock
 http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
-#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="" group-title="",16- BFM Business
+#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="BFMBusiness.png" group-title="",16- BFM Business
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
-#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="" group-title="",17- Voltage
+#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="voltage.jpg" group-title="",17- Voltage
 http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="" group-title="",18- Rire & Chansons
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
