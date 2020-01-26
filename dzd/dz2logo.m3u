@@ -47,7 +47,7 @@ http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="contact.png" group-title="",24- Contact FM
 http://radio-contact.ice.infomaniak.ch/radio-contact-high
-#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="" group-title="",25- Hit West FM
+#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="hitwest.jpg" group-title="",25- Hit West FM
 http://broadcast.infomaniak.net/hitwest-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="" group-title="",26- Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
