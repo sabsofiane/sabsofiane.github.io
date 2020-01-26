@@ -51,7 +51,7 @@ http://radio-contact.ice.infomaniak.ch/radio-contact-high
 http://broadcast.infomaniak.net/hitwest-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="classique.png" group-title="",26- Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="" group-title="",27- Nova
+#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="Nova_radio.jpg" group-title="",27- Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="" group-title="",28- Vibration FM
 http://vibration.ice.infomaniak.ch/vibration-high.mp3
