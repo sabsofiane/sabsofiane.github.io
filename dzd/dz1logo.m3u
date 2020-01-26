@@ -7,7 +7,7 @@ http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 http://boumerdes.ice.infomaniak.ch/35.aac
 #EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="radiocoran.jpg" group-title="",04- Radio Coran
 http://coran.ice.infomaniak.ch/coran.aac
-#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="default_logo.jpg" group-title="",05- Radio Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.6" tvg-logo="radioculture.png" group-title="",05- Radio Culture
 http://culture.ice.infomaniak.ch/culture.aac
 #EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="jilfm.jpg" group-title="",06- Jil FM
 http://jil-fm.ice.infomaniak.ch/jil-fm2.aac
