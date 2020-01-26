@@ -15,9 +15,9 @@ http://rcf.streamakaci.com/rcfliege.mp3
 http://antipode.belstream.net/antipode128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="maximum.png" group-title="",08- Maximum FM
 http://maximum.belstream.net/maximum.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgie.png" group-title="",09- Nostalgie
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgieblg.jpg" group-title="",09- Nostalgie
 http://streamingp.shoutcast.com/NostalgiePremium-mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="" group-title="",10- Contact
+#EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="radiocontact.jpg" group-title="",10- Radio Contact
 http://audiostream.rtl.be/contactfr192
 #EXTINF:-1 tvg-id="" tvg-name="103.2" tvg-logo="" group-title="",11- DH Radio
 http://dhradio.ice.infomaniak.ch/dhradio-192.mp3
