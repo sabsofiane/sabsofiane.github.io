@@ -61,9 +61,9 @@ http://streaming.radio.funradio.fr/fun-1-48-192
 http://stream.ouifm.fr/ouifm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="mradio.png" group-title="",31- M Radio
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="" group-title="",32- RMC Info
+#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="rmcinfo.png" group-title="",32- RMC Info
 http://chai5she.cdn.dvmr.fr/rmcinfo
-#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="" group-title="",33- Virgin
+#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="virgin.png" group-title="",33- Virgin
 http://ais-live.cloud-services.paris:8000/virgin.mp3
 #EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",34- RFM
 http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
