@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="" group-title="",Montréal (CKBE-FM)
+#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="ckbe.png" group-title="",Montréal (CKBE-FM)
 http://cogecomedia.leanstream.co/CKBEFM-MP3
 #EXTINF:-1 tvg-id="" tvg-name="93.3" tvg-logo="" group-title="",Québec (CJMF-FM)
 http://cogecomedia.leanstream.co/CJMFFM-MP3
