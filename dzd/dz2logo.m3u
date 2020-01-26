@@ -53,7 +53,7 @@ http://broadcast.infomaniak.net/hitwest-high.mp3
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="Nova_radio.jpg" group-title="",27- Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="" group-title="",28- Vibration FM
+#EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="Vibration.jpg" group-title="",28- Vibration FM
 http://vibration.ice.infomaniak.ch/vibration-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",29- Fun Radio
 http://streaming.radio.funradio.fr/fun-1-48-192
