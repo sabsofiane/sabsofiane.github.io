@@ -15,13 +15,13 @@ http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
 http://stream1.chantefrance.com/Chante_France
 #EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="cheriefm.png" group-title="",08- Chérie FM
 http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="" group-title="",09- France Musique
+#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="francemusique.png" group-title="",09- France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="" group-title="",10- Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",11- Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
-#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="" group-title="",12- France Culture
+#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="franceculture.png" group-title="",12- France Culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="" group-title="",13- Jazz
 http://broadcast.infomaniak.net/jazzradio-high.mp3
