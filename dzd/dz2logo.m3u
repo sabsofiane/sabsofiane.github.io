@@ -87,7 +87,7 @@ http://direct.francebleu.fr/live/fb1071-midfi.mp3
 http://str1.openstream.co/589
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="crooner.png" group-title="",44- Crooner Radio
 http://stream.crooner.fr/crooner.aac
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",45- CFM Radio
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="cfm.png" group-title="",45- CFM Radio
 http://www.larg.fr:8000/larg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="" group-title="",46- Euradio
 http://80.82.229.202/euradio.mp3
