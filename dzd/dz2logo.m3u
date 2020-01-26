@@ -39,9 +39,9 @@ http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
 http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="radiofg.png" group-title="",20- Radio FG
 http://radiofg.impek.com/fg.mp3
-#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="" group-title="",21- Latina
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="latina.png" group-title="",21- Latina
 http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="" group-title="",22- France Maghreb
+#EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="frmaghreb.png" group-title="",22- France Maghreb
 http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="" group-title="",23- NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
