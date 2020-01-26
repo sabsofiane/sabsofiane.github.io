@@ -55,7 +55,7 @@ http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="Vibration.jpg" group-title="",28- Vibration FM
 http://vibration.ice.infomaniak.ch/vibration-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="" group-title="",29- Fun Radio
+#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="funradio.jpg" group-title="",29- Fun Radio
 http://streaming.radio.funradio.fr/fun-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="" group-title="",30- Oui FM
 http://stream.ouifm.fr/ouifm-high.mp3
