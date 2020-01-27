@@ -61,11 +61,11 @@ http://streaming07.mit.ovea.com/medi1
 http://live.medi1.com/Soufi
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",31- Medi1 Tarab
 http://live.medi1.com/Tarab
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",32- Azawan Amazigh
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="amazigh.png" group-title="",32- Azawan Amazigh
 http://151.80.33.75:9000/;
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",33- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiosoleil.jpg" group-title="",33- Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",34- Manganimema Radio
 https://streamingv2.shoutcast.com/Manganimema
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="" group-title="",35- Max Radio
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="maxradio.jpg" group-title="",35- Max Radio
 http://srv4.ipstm.net:10564/;
