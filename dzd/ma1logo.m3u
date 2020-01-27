@@ -15,7 +15,7 @@ http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="cap.png" group-title="",08- Cap FM
 http://eu8.fastcast4u.com:5636/;stream/1
-#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="" group-title="",09- Medi 1 Radio
+#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="medi1radio.png" group-title="",09- Medi 1 Radio
 http://live.medi1.com/medi1
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",10- Arabic FM
 http://media.yabiladi.com:8000/;
