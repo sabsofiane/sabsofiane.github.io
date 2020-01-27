@@ -7,13 +7,13 @@ http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 http://rpc.ice.infomaniak.ch/rpc-agadir.mp3
 #EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="atlantic.jpg" group-title="",04- Atlantic Radio
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="" group-title="",05- Radio Sawa
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="sawa.png" group-title="",05- Radio Sawa
 http://n06.radiojar.com/whbvyphna3quv?rj=&rj-ttl=5
-#EXTINF:-1 tvg-id="" tvg-name="92.9" tvg-logo="" group-title="",06- Medina FM
+#EXTINF:-1 tvg-id="" tvg-name="92.9" tvg-logo="medinafm.png" group-title="",06- Medina FM
 http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.0" tvg-logo="" group-title="",07- Radio Plus Casa
+#EXTINF:-1 tvg-id="" tvg-name="94.0" tvg-logo="radioplusagadir.jpg" group-title="",07- Radio Plus Casa
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="" group-title="",08- Cap FM
+#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="cap.png" group-title="",08- Cap FM
 http://eu8.fastcast4u.com:5636/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="" group-title="",09- Medi 1 Radio
 http://live.medi1.com/medi1
