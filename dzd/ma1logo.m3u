@@ -17,7 +17,7 @@ http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
 http://eu8.fastcast4u.com:5636/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="medi1radio.png" group-title="",09- Medi 1 Radio
 http://live.medi1.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="" group-title="",10- Arabic FM
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="arabicfm.png" group-title="",10- Arabic FM
 http://media.yabiladi.com:8000/;
 #EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="hitradio.png" group-title="",11- Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
