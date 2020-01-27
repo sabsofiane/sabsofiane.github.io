@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="radiomed.jpg" group-title="",01- Med Radio
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="" group-title="",02- Radio Mars
+#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="radiomars.jpg" group-title="",02- Radio Mars
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="" group-title="",03- Radio Plus Agadir
+#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="radioplusagadir.jpg" group-title="",03- Radio Plus Agadir
 http://rpc.ice.infomaniak.ch/rpc-agadir.mp3
 #EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="" group-title="",04- Atlantic Radio
 http://streaming.radionomy.com/JamendoLounge
