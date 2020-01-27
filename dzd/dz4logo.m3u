@@ -7,11 +7,11 @@ http://cogecomedia.leanstream.co/CJMFFM-MP3
 http://cogecomedia.leanstream.co/CFGEFM-MP3
 #EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="CKOIFM.jpg" group-title="",Montréal (CKOI-FM)
 http://cogecomedia.leanstream.co/CKOIFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="98.5" tvg-logo="" group-title="",Montréal (CHMP-FM)
+#EXTINF:-1 tvg-id="" tvg-name="98.5" tvg-logo="CHMPFM.png" group-title="",Montréal (CHMP-FM)
 http://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="100.1" tvg-logo="" group-title="",Mauricie (CJEB-FM)
+#EXTINF:-1 tvg-id="" tvg-name="100.1" tvg-logo="CJEBFM.png" group-title="",Mauricie (CJEB-FM)
 http://cogecomedia.leanstream.co/CJEBFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="102.9" tvg-logo="" group-title="",Québec (CFOM-FM)
+#EXTINF:-1 tvg-id="" tvg-name="102.9" tvg-logo="CFOMFM.png" group-title="",Québec (CFOM-FM)
 http://cogecomedia.leanstream.co/CFOMFM-MP3
 #EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="" group-title="",Laurentides (CIME-FM)
 http://cogecomedia.leanstream.co/CIMEFM-MP3
