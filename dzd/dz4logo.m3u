@@ -17,11 +17,11 @@ http://cogecomedia.leanstream.co/CFOMFM-MP3
 http://cogecomedia.leanstream.co/CIMEFM-MP3
 #EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="CKOFFM.jpg" group-title="",Gatineau (CKOF-FM)
 http://cogecomedia.leanstream.co/CKOFFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="105.7" tvg-logo="" group-title="",Montréal (CFGL-FM)
+#EXTINF:-1 tvg-id="" tvg-name="105.7" tvg-logo="CFGLFM.png" group-title="",Montréal (CFGL-FM)
 http://cogecomedia.leanstream.co/CFGLFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="" group-title="",3-Rivières (CKOB-FM)
+#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="ckobfm.png" group-title="",3-Rivières (CKOB-FM)
 http://cogecomedia.leanstream.co/CKOBFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="" group-title="",Sherbrooke (CKOY-FM)
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="CKOYFM.jpg" group-title="",Sherbrooke (CKOY-FM)
 http://cogecomedia.leanstream.co/CKOYFM-MP3
-#EXTINF:-1 tvg-id="" tvg-name="730" tvg-logo="" group-title="",Montréal (CKAC-AM)
+#EXTINF:-1 tvg-id="" tvg-name="730" tvg-logo="CKACAM.png" group-title="",Montréal (CKAC-AM)
 http://cogecomedia.leanstream.co/CKACAM-MP3
