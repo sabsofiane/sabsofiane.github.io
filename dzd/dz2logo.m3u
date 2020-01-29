@@ -107,3 +107,5 @@ https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
 https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",54- Swigg Work
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="aligre.jpg" group-title="",55- Aligre
+http://live3.vestaradio.com/aligrefm
