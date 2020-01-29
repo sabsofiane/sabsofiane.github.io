@@ -109,3 +109,7 @@ https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="aligre.jpg" group-title="",55- Aligre
 http://live3.vestaradio.com/aligrefm
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="espacefm.jpg" group-title="",56- Espace FM
+http://listen.radioking.com/radio/16769/stream/49487
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="espacefm.jpg" group-title="",57- Radio Courtoisie
+http://radiocourtoisie.nex-informatique.com/;
