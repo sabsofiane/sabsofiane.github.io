@@ -71,12 +71,12 @@ http://djelfa.ice.infomaniak.ch/17.aac
 http://eloued.ice.infomaniak.ch/39.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",36- Laghouat
 http://laghouat.ice.infomaniak.ch/03.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",37- Médéa
-http://medea.ice.infomaniak.ch/26.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",38- Mostaganem
-http://setif.ice.infomaniak.ch/27.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",39- Mascara
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",37- Mascara
 http://mascara.ice.infomaniak.ch/29.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",38- Médéa
+http://medea.ice.infomaniak.ch/26.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",39- Mostaganem
+http://setif.ice.infomaniak.ch/27.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",40- Msila
 http://msila.ice.infomaniak.ch/28.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",41- Naama
