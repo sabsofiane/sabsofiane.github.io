@@ -101,7 +101,7 @@ http://80.82.229.202/euradio.mp3
 http://www.larg.fr:8000/larg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="maritima.jpg" group-title="",51- Maritima Radio
 http://radiomaritima.streamakaci.com/radiomaritima.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.png" group-title="",52- Playloud
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",52- Playloud
 http://91.121.59.45:8280/stream
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",53- Swigg 93
 https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
