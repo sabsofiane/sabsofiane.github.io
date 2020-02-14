@@ -105,21 +105,23 @@ http://www.larg.fr:8000/larg.mp3
 http://radiomaritima.streamakaci.com/radiomaritima.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="melodyvintage.png" group-title="",53- Melody Vintage
 http://str0.creacast.com/melody2
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="planetefm.jpg" group-title="",54- Planete FM
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="monafm.jpg" group-title="",54- Mona FM
+http://broadcast.infomaniak.net/monafm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="planetefm.jpg" group-title="",55- Planete FM
 http://broadcast.infomaniak.ch/planetefm-64.aac
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",55- Playloud
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",56- Playloud
 http://91.121.59.45:8280/stream
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="radioplus.jpg" group-title="",56- Radio Plus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="radioplus.jpg" group-title="",57- Radio Plus
 http://radioplus2.ice.infomaniak.ch/radioplus.aac
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rplradio.png" group-title="",57- RPL Radio
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rplradio.png" group-title="",58- RPL Radio
 http://listen.radioking.com/radio/2966/stream/63127
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",58- Swigg 93
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",59- Swigg 93
 https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",59- Swigg FR
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",60- Swigg FR
 https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",60- Swigg Marseille
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",61- Swigg Marseille
 https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",61- Swigg US
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",62- Swigg US
 https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",62- Swigg Work
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",63- Swigg Work
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
