@@ -103,15 +103,17 @@ http://80.82.229.202/euradio.mp3
 http://www.larg.fr:8000/larg.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="maritima.jpg" group-title="",52- Maritima Radio
 http://radiomaritima.streamakaci.com/radiomaritima.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",53- Playloud
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="melodyvintage.png" group-title="",53- Melody Vintage Radio
+http://str0.creacast.com/melody2
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",54- Playloud
 http://91.121.59.45:8280/stream
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",54- Swigg 93
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",55- Swigg 93
 https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",55- Swigg FR
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",56- Swigg FR
 https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",56- Swigg Marseille
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",57- Swigg Marseille
 https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",57- Swigg US
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",58- Swigg US
 https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",58- Swigg Work
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",59- Swigg Work
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
