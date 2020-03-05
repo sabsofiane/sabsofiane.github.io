@@ -72,7 +72,7 @@ http://chai5she.cdn.dvmr.fr/rmcinfo
 #EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="virgin.png" group-title="",36- Virgin
 http://ais-live.cloud-services.paris:8000/virgin.mp3
 #EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="rfm.jpg" group-title="",37- RFM
-http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
+https://ais-live.cloud-services.paris:8443/rfm.aac
 #EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="rtl1.png" group-title="",38- RTL1
 http://streaming.radio.rtl.fr/rtl-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="europe1.png" group-title="",39- Europe 1
