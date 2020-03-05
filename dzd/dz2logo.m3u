@@ -76,7 +76,7 @@ https://ais-live.cloud-services.paris:8443/rfm.aac
 #EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="rtl1.png" group-title="",38- RTL1
 http://streaming.radio.rtl.fr/rtl-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="europe1.png" group-title="",39- Europe 1
-http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3
+https://ais-live.cloud-services.paris:8443/europe1.aac
 #EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="fip.png" group-title="",40- Fip
 http://direct.fipradio.fr/live/fip-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="franceinfo.png" group-title="",41- France Info
