@@ -28,7 +28,7 @@ http://broadcast.infomaniak.net/jazzradio-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="radioorient.png" group-title="",14- Radio Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
 #EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="radiocourtoisie.jpg" group-title="",15- Radio Courtoisie
-http://radiocourtoisie.nex-informatique.com/;
+http://radiocourtoisie.nex-informatique.com/;stream.nsv
 #EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="skyrock.png" group-title="",16- Skyrock
 http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
 #EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="BFMBusiness.png" group-title="",17- BFM Business
