@@ -114,7 +114,7 @@ http://broadcast.infomaniak.ch/planetefm-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",57- Playloud
 http://91.121.59.45:8280/stream
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="radioplus.jpg" group-title="",58- Radio Plus
-http://radioplus2.ice.infomaniak.ch/radioplus.aac
+http://stream.radios-arra.fr:8000/fmplus
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rplradio.png" group-title="",59- RPL Radio
 http://listen.radioking.com/radio/2966/stream/63127
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",60- Swigg 93
