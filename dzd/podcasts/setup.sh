@@ -1,1 +1,1 @@
-curl -L -O -C - https://ia801209.us.archive.org/12/items/money-vf/money-vf.ogv
+curl -L -O -C - https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1817af1d-10c8-4ab7-9852-f046ab3f0231.mp3
