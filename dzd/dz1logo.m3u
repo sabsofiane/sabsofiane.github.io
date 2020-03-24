@@ -47,7 +47,7 @@ https://streamingv2.shoutcast.com/Radio-Hawana
 http://listen.radionomy.com/radiohchicha1
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",24- Radio Hnawelhik
 http://hermes.bcs-systems.de/leipzig-beatzz_simulcast_192k_mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jijel.png" group-title="",25- Radio Jijel
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",25- Radio Jijel
 http://jijel.ice.infomaniak.ch/18.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",26- Radio Murjdado
 https://streamingv2.shoutcast.com/Murdjajo
