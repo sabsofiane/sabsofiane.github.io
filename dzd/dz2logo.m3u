@@ -127,3 +127,7 @@ https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
 https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",64- Swigg Work
 https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="blackbox.png" group-title="",65- BlackBox Marseille
+https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="kissfm-logo.gif" group-title="",66- Kiss FM Marseille
+http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
