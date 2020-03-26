@@ -51,3 +51,5 @@ https://scdn.nrjaudio.fm/fr/30605/mp3_128.mp3?origine=radio.net&cdn_path=adswizz
 https://streamingp.shoutcast.com/Nostalgie90-aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",26- Nostalgie Love
 https://streamingp.shoutcast.com/NostalgieLove-aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Kifbe.png" group-title="",27- KIF
+http://live.kif.be/kif_aac
