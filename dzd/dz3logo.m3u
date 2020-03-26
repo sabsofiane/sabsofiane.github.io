@@ -41,7 +41,11 @@ http://radios.rtbf.be/rtbfmix-128.mp3
 http://radios.rtbf.be/tarmac-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="vivaplus.png" group-title="",21- Viva Plus
 http://radios.rtbf.be/vivaplus-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",22- Nostalgie 80
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",22- Nostalgie 60
+https://streamingp.shoutcast.com/Nostalgie60-aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",23- Nostalgie 70
+https://streamingp.shoutcast.com/Nostalgie70-aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",24- Nostalgie 80
 https://scdn.nrjaudio.fm/fr/30605/mp3_128.mp3?origine=radio.net&cdn_path=adswizz_lbs7&adws_out_a2
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",23- Nostalgie 90
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",25- Nostalgie 90
 https://streamingp.shoutcast.com/Nostalgie90-aac
