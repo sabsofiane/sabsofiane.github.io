@@ -43,15 +43,17 @@ http://radios.rtbf.be/tarmac-128.mp3
 http://radios.rtbf.be/vivaplus-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kifbe.jpg" group-title="",22- KIF
 http://live.kif.be/kif_aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",23- Nostalgie 60
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjnouveaute.png" group-title="",23- NRJ Nouveautés
+https://streamingp.shoutcast.com/NRJNouveautesBelgique
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",24- Nostalgie 60
 https://streamingp.shoutcast.com/Nostalgie60-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",24- Nostalgie 70
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",25- Nostalgie 70
 https://streamingp.shoutcast.com/Nostalgie-70_aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",25- Nostalgie 80
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",26- Nostalgie 80
 https://scdn.nrjaudio.fm/fr/30605/mp3_128.mp3?origine=radio.net&cdn_path=adswizz_lbs7&adws_out_a2
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",26- Nostalgie 90
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",27- Nostalgie 90
 https://streamingp.shoutcast.com/Nostalgie90-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",27- Nostalgie Love
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",28- Nostalgie Love
 https://streamingp.shoutcast.com/NostalgieLove-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaCinema.png" group-title="",28- Nostalgie Cinema
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaCinema.png" group-title="",29- Nostalgie Cinema
 https://streamingp.shoutcast.com/NostalgieCinema-aac
