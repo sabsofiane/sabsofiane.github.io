@@ -43,8 +43,8 @@ http://radios.rtbf.be/tarmac-128.mp3
 http://radios.rtbf.be/vivaplus-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kifbe.jpg" group-title="",22- KIF
 http://live.kif.be/kif_aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjatwork.png" group-title="",23- NRJ At Work
-http://scdn.nrjaudio.fm/adwz1/be/56923/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjatwork.jpg" group-title="",23- NRJ At Work
+http://scdn.nrjaudio.fm/adwz1/be/56923/aac_64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjbesthitsever.png" group-title="",24- NRJ Best Hits
 http://cdn.nrjaudio.fm/adwz1/be/34003/mp3_128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjnouveaute.png" group-title="",25- NRJ Nouveautés
