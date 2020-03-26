@@ -20,7 +20,7 @@ http://streamingp.shoutcast.com/NostalgiePremium-mp3
 #EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="radiocontact.jpg" group-title="",10- Radio Contact
 http://audiostream.rtl.be/contactfr192
 #EXTINF:-1 tvg-id="" tvg-name="103.2" tvg-logo="dhradio.jpg" group-title="",11- DH Radio
-http://dhradio.ice.infomaniak.ch/dhradio-192.mp3
+https://dhradio.ice.infomaniak.ch/dhradio-96.aac
 #EXTINF:-1 tvg-id="" tvg-name="103.7" tvg-logo="nrjblg.png" group-title="",12- NRJ
 http://streamingp.shoutcast.com/NRJ
 #EXTINF:-1 tvg-id="" tvg-name="104.0" tvg-logo="belrtl.png" group-title="",13- Bel RTL
@@ -49,3 +49,5 @@ https://streamingp.shoutcast.com/Nostalgie70-aac
 https://scdn.nrjaudio.fm/fr/30605/mp3_128.mp3?origine=radio.net&cdn_path=adswizz_lbs7&adws_out_a2
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",25- Nostalgie 90
 https://streamingp.shoutcast.com/Nostalgie90-aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",26- Nostalgie Love
+https://streamingp.shoutcast.com/NostalgieLove-aac
