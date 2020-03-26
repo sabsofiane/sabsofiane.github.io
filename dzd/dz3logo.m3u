@@ -51,8 +51,8 @@ http://cdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=fluxradios
 http://cdn.nrjaudio.fm/adwz1/be/56177/mp3_128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjpourlesport.png" group-title="",26- NRJ Sport
 http://cdn.nrjaudio.fm/adwz1/be/55527/mp3_128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjteletravail.png" group-title="",27- NRJ Télétravail
-https://scdn.nrjaudio.fm/be/57173/aac_64.mp3?gdpr=true&cdn_path=adswizz_lbs9&adws_out_a1
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjhitsweek.png" group-title="",27- NRJ Hits Week
+http://cdn.nrjaudio.fm/adwz1/be/34011/mp3_128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",28- Nostalgie 60
 https://streamingp.shoutcast.com/Nostalgie60-aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",29- Nostalgie 70
