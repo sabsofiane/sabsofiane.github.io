@@ -133,3 +133,5 @@ https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="mistralfm.png" group-title="",67- Mistral FM
 https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiostar.png" group-title="",68- Radio Star
+https://listen.radioking.com/radio/11606/stream/49337
