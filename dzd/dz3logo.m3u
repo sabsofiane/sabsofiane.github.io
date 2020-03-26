@@ -46,13 +46,13 @@ http://live.kif.be/kif_aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjnouveaute.png" group-title="",23- NRJ Nouveautés
 https://streamingp.shoutcast.com/NRJNouveautesBelgique
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrap.png" group-title="",24- NRJ Rap
-https://scdn.nrjaudio.fm/be/34039/aac_64.mp3
+https://scdn.nrjaudio.fm/be/34039/aac_64.mp3?gdpr=true&cdn_path=adswizz_lbs9&adws_out_a1
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrelax.png" group-title="",25- NRJ Relax
-https://scdn.nrjaudio.fm/be/56177/aac_64.mp3
+https://scdn.nrjaudio.fm/be/56177/aac_64.mp3?gdpr=true&cdn_path=adswizz_lbs9&adws_out_a1
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjpourlesport.png" group-title="",26- NRJ Sport
-https://scdn.nrjaudio.fm/be/55527/aac_64.mp3
+https://scdn.nrjaudio.fm/be/55527/aac_64.mp3?gdpr=true&cdn_path=adswizz_lbs9&adws_out_a1
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjteletravail.png" group-title="",27- NRJ Télétravail
-https://scdn.nrjaudio.fm/be/57173/aac_64.mp3
+https://scdn.nrjaudio.fm/be/57173/aac_64.mp3?gdpr=true&cdn_path=adswizz_lbs9&adws_out_a1
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",28- Nostalgie 60
 https://streamingp.shoutcast.com/Nostalgie60-aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",29- Nostalgie 70
