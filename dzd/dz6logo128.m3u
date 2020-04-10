@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="09/04/2020<>31'14" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Rachid Belhadj
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/d6f11067-9d2e-4f27-a83b-0bf5d1ea8243.mp3
+#EXTINF:-1 tvg-id="" tvg-name="08/04/2020<>32'25" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Salim Labatcha
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/48cb48d9-95f5-4e5d-81f6-d789ce6f8306.mp3
 #EXTINF:-1 tvg-id="" tvg-name="07/04/2020<>33'41" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Mohamed Belmiloud
 https://sabsofiane.github.io/dzd/podcasts/b370d796-f7ae-4f13-8fee-55c4258f962b.aac
 #EXTINF:-1 tvg-id="" tvg-name="06/04/2020<>34'56" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Mohamed Belhocine
