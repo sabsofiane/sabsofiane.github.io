@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="27/04/2020<>34'40" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Mohamed Berkani
+https://sabsofiane.github.io/dzd/podcasts/938cc40f-cb09-4ab3-9184-09ca0a444777.aac
 #EXTINF:-1 tvg-id="" tvg-name="26/04/2020<>34'38" tvg-logo="Chaine3.jpg" group-title="Energie",L'invité Mohamed Arkab
 https://sabsofiane.github.io/dzd/podcasts/10b677ff-ff34-4088-9b31-ee51fa94c22e.aac
 #EXTINF:-1 tvg-id="" tvg-name="23/04/2020<>34'38" tvg-logo="Chaine3.jpg" group-title="Commerce",L'invité Karim Gueche
