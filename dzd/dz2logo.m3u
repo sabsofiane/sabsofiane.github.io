@@ -12,7 +12,7 @@ http://broadcast.infomaniak.net/tsfjazz-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="nostalgie.png" group-title="",06- Nostalgie France
 http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="90.9" tvg-logo="chante.jpg" group-title="",07- Chante France
-http://stream.chantefrance.com/Chante_France-32k.mp3
+https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="cheriefm.png" group-title="",08- Chérie FM
 http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="francemusique.png" group-title="",09- France Musique
