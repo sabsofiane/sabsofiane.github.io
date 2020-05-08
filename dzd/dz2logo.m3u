@@ -92,7 +92,7 @@ http://direct.francebleu.fr/live/fb1071-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="abc.jpg" group-title="",46- ABC Lounge Radio
 http://str1.openstream.co/589
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="banquisefm.jpg" group-title="",47- Banquise FM
-http://94.23.21.126:10050/;
+http://stream.banquisefm.com:10050/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="deltafm.png" group-title="",48- Delta FM
 http://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="crooner.png" group-title="",49- Crooner Radio
