@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="Musiq3.png" group-title="",01- Musiq'3
+#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="Musiq3.png" group-title="",Musiq'3
 http://radios.rtbf.be/musiq3-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="vivacite.png" group-title="",02- VivaCité Bruxelles
+#EXTINF:-1 tvg-id="" tvg-name="91.5" tvg-logo="vivacite.png" group-title="",VivaCité Bruxelles
 http://radios.rtbf.be/vivabxl-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="purefm.png" group-title="",03- Pure FM
+#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="purefm.png" group-title="",Pure FM
 http://radios.rtbf.be/pure-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="la1walonnie.png" group-title="",04- La Première Wallonie
+#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="la1walonnie.png" group-title="",La Première Wallonie
 http://radios.rtbf.be/laprem1ere-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="93.2" tvg-logo="classic21.jpg" group-title="",05- Classic 21
+#EXTINF:-1 tvg-id="" tvg-name="93.2" tvg-logo="classic21.jpg" group-title="",Classic 21
 http://radios.rtbf.be/classic21-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="93.8" tvg-logo="rcf.jpg" group-title="",06- R.C.F. Liège
+#EXTINF:-1 tvg-id="" tvg-name="93.8" tvg-logo="rcf.jpg" group-title="",R.C.F. Liège
 http://rcf.streamakaci.com/rcfliege.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="antipode.png" group-title="",07- Antipode FM
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="antipode.png" group-title="",Antipode FM
 http://antipode.belstream.net/antipode128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="maximum.png" group-title="",08- Maximum FM
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="maximum.png" group-title="",Maximum FM
 http://maximum.belstream.net/maximum.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgieblg.jpg" group-title="",09- Nostalgie
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgieblg.jpg" group-title="",Nostalgie
 http://streamingp.shoutcast.com/NostalgiePremium-mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="radiocontact.jpg" group-title="",10- Radio Contact
+#EXTINF:-1 tvg-id="" tvg-name="102.2" tvg-logo="radiocontact.jpg" group-title="",Radio Contact
 http://audiostream.rtl.be/contactfr192
-#EXTINF:-1 tvg-id="" tvg-name="103.2" tvg-logo="dhradio.jpg" group-title="",11- DH Radio
+#EXTINF:-1 tvg-id="" tvg-name="103.2" tvg-logo="dhradio.jpg" group-title="",DH Radio
 https://dhradio.ice.infomaniak.ch/dhradio-96.aac
-#EXTINF:-1 tvg-id="" tvg-name="103.7" tvg-logo="nrjblg.png" group-title="",12- NRJ
+#EXTINF:-1 tvg-id="" tvg-name="103.7" tvg-logo="nrjblg.png" group-title="",NRJ
 http://streamingp.shoutcast.com/NRJ
-#EXTINF:-1 tvg-id="" tvg-name="104.0" tvg-logo="belrtl.png" group-title="",13- Bel RTL
+#EXTINF:-1 tvg-id="" tvg-name="104.0" tvg-logo="belrtl.png" group-title="",Bel RTL
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.5" tvg-logo="zenfm.png" group-title="",14- Zen FM
+#EXTINF:-1 tvg-id="" tvg-name="104.5" tvg-logo="zenfm.png" group-title="",Zen FM
 http://lb.zenfm.be/zenfm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.0" tvg-logo="mustfm.png" group-title="",15- Must FM
+#EXTINF:-1 tvg-id="" tvg-name="107.0" tvg-logo="mustfm.png" group-title="",Must FM
 http://mustfm.ice.infomaniak.ch/mustfm-192.mp3
-#EXTINF:-1 tvg-id="" tvg-name="107.6" tvg-logo="rcf.jpg" group-title="",16- R.C.F. Bruxelles
+#EXTINF:-1 tvg-id="" tvg-name="107.6" tvg-logo="rcf.jpg" group-title="",R.C.F. Bruxelles
 http://rcf.streamakaci.com/rcfbruxelles.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="jam.png" group-title="",17- Jam
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="jam.png" group-title="",Jam
 http://radios.rtbf.be/musiclab-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="nostalgieplus.png" group-title="",18- Nostalgie Plus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="nostalgieplus.png" group-title="",Nostalgie Plus
 http://streamingp.shoutcast.com/nostaplus-mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rtbfmix.png" group-title="",19- RTBF Mix
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rtbfmix.png" group-title="",RTBF Mix
 http://radios.rtbf.be/rtbfmix-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="tarmac.jpg" group-title="",20- Tarmac
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="tarmac.jpg" group-title="",Tarmac
 http://radios.rtbf.be/tarmac-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="vivaplus.png" group-title="",21- Viva Plus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="vivaplus.png" group-title="",Viva Plus
 http://radios.rtbf.be/vivaplus-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kifbe.jpg" group-title="",22- KIF
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kifbe.jpg" group-title="",KIF
 http://live.kif.be/kif_aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjbesthitsever.png" group-title="",23- NRJ Best Hits
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjbesthitsever.png" group-title="",NRJ Best Hits
 http://cdn.nrjaudio.fm/adwz1/be/34003/mp3_128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjnouveaute.png" group-title="",24- NRJ Nouveautés
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjnouveaute.png" group-title="",NRJ Nouveautés
 https://streamingp.shoutcast.com/NRJNouveautesBelgique
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrap.png" group-title="",25- NRJ Rap
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrap.png" group-title="",NRJ Rap
 http://cdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrelax.png" group-title="",26- NRJ Relax
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjrelax.png" group-title="",NRJ Relax
 http://cdn.nrjaudio.fm/adwz1/be/56177/mp3_128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjpourlesport.png" group-title="",27- NRJ Sport
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjpourlesport.png" group-title="",NRJ Sport
 http://cdn.nrjaudio.fm/adwz1/be/55527/mp3_128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjhitsweek.png" group-title="",28- NRJ Hits Week
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="nrjhitsweek.png" group-title="",NRJ Hits Week
 http://cdn.nrjaudio.fm/adwz1/be/34011/mp3_128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",29- Nostalgie 60
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta60.png" group-title="",Nostalgie 60
 https://streamingp.shoutcast.com/Nostalgie60-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",30- Nostalgie 70
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta70.png" group-title="",Nostalgie 70
 https://streamingp.shoutcast.com/Nostalgie-70_aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",31- Nostalgie 80
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta80.png" group-title="",Nostalgie 80
 https://streamingp.shoutcast.com/NostalgieDance80-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",32- Nostalgie 90
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Nosta90.png" group-title="",Nostalgie 90
 https://streamingp.shoutcast.com/Nostalgie90-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",33- Nostalgie Love
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaLove.png" group-title="",Nostalgie Love
 https://streamingp.shoutcast.com/NostalgieLove-aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaCinema.png" group-title="",34- Nostalgie Cinema
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NostaCinema.png" group-title="",Nostalgie Cinema
 https://streamingp.shoutcast.com/NostalgieCinema-aac
