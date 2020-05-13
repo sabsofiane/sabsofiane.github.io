@@ -1,71 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="radiomed.jpg" group-title="",01- Med Radio
+#EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="radiomed.jpg" group-title="",Med Radio
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="radiomars.jpg" group-title="",02- Radio Mars
+#EXTINF:-1 tvg-id="" tvg-name="91.2" tvg-logo="radiomars.jpg" group-title="",Radio Mars
 http://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="radioplusagadir.jpg" group-title="",03- Radio Plus Agadir
+#EXTINF:-1 tvg-id="" tvg-name="92.4" tvg-logo="radioplusagadir.jpg" group-title="",Radio Plus Agadir
 http://rpc.ice.infomaniak.ch/rpc-agadir.mp3
-#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="atlantic.jpg" group-title="",04- Atlantic Radio
+#EXTINF:-1 tvg-id="" tvg-name="92.5" tvg-logo="atlantic.jpg" group-title="",Atlantic Radio
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="sawa.png" group-title="",05- Radio Sawa
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="sawa.png" group-title="",Radio Sawa
 http://n06.radiojar.com/whbvyphna3quv?rj=&rj-ttl=5
-#EXTINF:-1 tvg-id="" tvg-name="92.9" tvg-logo="medinafm.png" group-title="",06- Medina FM
+#EXTINF:-1 tvg-id="" tvg-name="92.9" tvg-logo="medinafm.png" group-title="",Medina FM
 http://medinafm.ice.infomaniak.ch/medinafm-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="94.0" tvg-logo="radioplusagadir.jpg" group-title="",07- Radio Plus Casa
+#EXTINF:-1 tvg-id="" tvg-name="94.0" tvg-logo="radioplusagadir.jpg" group-title="",Radio Plus Casa
 http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="cap.png" group-title="",08- Cap FM
+#EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="cap.png" group-title="",Cap FM
 http://eu8.fastcast4u.com:5636/;stream/1
-#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="medi1radio.png" group-title="",09- Medi 1 Radio
+#EXTINF:-1 tvg-id="" tvg-name="99.6" tvg-logo="medi1radio.png" group-title="",Medi 1 Radio
 http://live.medi1.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="arabicfm.png" group-title="",10- Arabic FM
+#EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="arabicfm.png" group-title="",Arabic FM
 http://media.yabiladi.com:8000/;
-#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="hitradio.png" group-title="",11- Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="hitradio.png" group-title="",Hit Radio
 http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="chada.jpg" group-title="",12- Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="chada.jpg" group-title="",Chada FM
 http://icepe12.infomaniak.ch/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="aswat.png" group-title="",13- Aswat
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="aswat.png" group-title="",Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="mfmmaroc.jpg" group-title="",14- MFM Radio
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="mfmmaroc.jpg" group-title="",MFM Radio
 http://newpub-stream01.itols.com:9001/casa.ogg
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",15- Hit Radio Buzz
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Buzz
 http://icepe11.infomaniak.ch/buzz-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",16- Hit Radio Cover
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Cover
 http://cover2.ice.infomaniak.ch/cover2-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",17- Hit Radio Dance
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Dance
 http://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",18- Hit Radio Gold
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Gold
 http://gold.ice.infomaniak.ch/gold-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",19- Hit Radio Metal
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Metal
 http://icepe12.infomaniak.ch/rockmetal-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",20- Hit Radio Mgharba
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Mgharba
 http://icepe1.infomaniak.ch/mgharba-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",21- Hit Radio Latino
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Latino
 http://latino.ice.infomaniak.ch/latino-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",22- Hit Radio Pop
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Pop
 http://poprock.ice.infomaniak.ch/poprock-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",23- Hit Radio Soul
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hitradio.png" group-title="",Hit Radio Soul
 http://icepe12.infomaniak.ch/rockmetal-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",24- Medi1 Andalouse
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Andalouse
 http://live.medi1.com/Andalouse
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",25- Medi1 Dance
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Dance
 http://live.medi1.com/Dj
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",26- Medi1 Hits
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Hits
 http://live.medi1.com/Hits
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",27- Medi1 Jazz
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Jazz
 http://live.medi1.com/Jazz
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",28- Medi1 Latino
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Latino
 http://live.medi1.com/Latino
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",28- Medi1 Lounge
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Lounge
 http://live.medi1.com/Lounge
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",30- Medi1 Maghreb
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Maghreb
 http://streaming07.mit.ovea.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",31- Medi1 Soufi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Soufi
 http://live.medi1.com/Soufi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",32- Medi1 Tarab
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="medi1radio.png" group-title="",Medi1 Tarab
 http://live.medi1.com/Tarab
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="amazigh.png" group-title="",33- Azawan Amazigh
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="amazigh.png" group-title="",Azawan Amazigh
 http://151.80.33.75:9000/;
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiosoleil.jpg" group-title="",34- Radio Soleil
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiosoleil.jpg" group-title="",Radio Soleil
 http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="maxradio.jpg" group-title="",35- Max Radio
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="maxradio.jpg" group-title="",Max Radio
 http://srv4.ipstm.net:10564/;
