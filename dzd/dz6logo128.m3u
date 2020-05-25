@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="21/05/2020<>37'18" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Abderahmane Benbouzid
+https://sabsofiane.github.io/dzd/podcasts/fb454ef8-8f77-4693-86e6-cebeb5d43c72.aac
 #EXTINF:-1 tvg-id="" tvg-name="20/05/2020<>37'09" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Ryad Mahyaoui
 https://sabsofiane.github.io/dzd/podcasts/05b010d3-6c75-4fa3-b179-f751b3b89ec4.aac
 #EXTINF:-1 tvg-id="" tvg-name="19/05/2020<>37'36" tvg-logo="Chaine3.jpg" group-title="Commerce",L'invité Aissa Bekka
