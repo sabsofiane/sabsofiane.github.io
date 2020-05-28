@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="28/05/2020<>37'43" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Lyes Merabet
+https://sabsofiane.github.io/dzd/podcasts/3bebe6f8-3b8c-42eb-8831-b61075022eaf.aac
 #EXTINF:-1 tvg-id="" tvg-name="21/05/2020<>37'18" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Abderahmane Benbouzid
 https://sabsofiane.github.io/dzd/podcasts/fb454ef8-8f77-4693-86e6-cebeb5d43c72.aac
 #EXTINF:-1 tvg-id="" tvg-name="20/05/2020<>37'09" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Ryad Mahyaoui
