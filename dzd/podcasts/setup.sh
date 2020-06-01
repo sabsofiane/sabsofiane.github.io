@@ -1,1 +1,1 @@
-curl -L -O -C - https://podcast.radioalgerie.dz/sources/Chaine3/mp3/3bebe6f8-3b8c-42eb-8831-b61075022eaf.mp3
+curl -L -O -C - https://podcast.radioalgerie.dz/sources/Chaine3/mp3/c18c26ca-9e68-464f-b6fa-e21947e9b51a.mp3
