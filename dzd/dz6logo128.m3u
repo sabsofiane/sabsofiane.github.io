@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="08/06/2020<>37'20" tvg-logo="Chaine3.jpg" group-title="Culture",L'invité Salim Dada 
+https://sabsofiane.github.io/dzd/podcasts/71fa1e90-f7e2-45a8-9c94-79f16d6a9903.aac
+#EXTINF:-1 tvg-id="" tvg-name="07/06/2020<>37'32" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Walid Laggoune 
+https://sabsofiane.github.io/dzd/podcasts/764679f7-d081-4392-b3db-5c30971a81c2.aac
 #EXTINF:-1 tvg-id="" tvg-name="03/06/2020<>34'31" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Dr Mohamed Yousfi 
 https://sabsofiane.github.io/dzd/podcasts/6b62acd8-ea11-4de2-883a-2bab2a66d67c.aac
 #EXTINF:-1 tvg-id="" tvg-name="02/06/2020<>39'31" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Ahmled Laraba
