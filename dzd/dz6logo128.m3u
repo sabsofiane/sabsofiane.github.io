@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="10/06/2020<>35'20" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Lotfi Benbahmed 
+https://sabsofiane.github.io/dzd/podcasts/8863aaf8-faf9-44a8-9280-b6a369c6832a.aac
+#EXTINF:-1 tvg-id="" tvg-name="09/06/2020<>34'22" tvg-logo="Chaine3.jpg" group-title="Retraite",L'invité Slimane Melouka 
+https://sabsofiane.github.io/dzd/podcasts/50f44d46-de8a-4d29-ac66-f065c9d2d8db.aac
 #EXTINF:-1 tvg-id="" tvg-name="08/06/2020<>37'20" tvg-logo="Chaine3.jpg" group-title="Culture",L'invité Salim Dada 
 https://sabsofiane.github.io/dzd/podcasts/71fa1e90-f7e2-45a8-9c94-79f16d6a9903.aac
 #EXTINF:-1 tvg-id="" tvg-name="07/06/2020<>37'32" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Walid Laggoune 
