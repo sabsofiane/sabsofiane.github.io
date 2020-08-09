@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="09/08/2020<>39'15" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Mohamed Belhocine
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/0518ece8-7c95-4528-9b75-aafdbb1a728d.mp3
 #EXTINF:-1 tvg-id="" tvg-name="10/06/2020<>35'20" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Lotfi Benbahmed 
 https://sabsofiane.github.io/dzd/podcasts/8863aaf8-faf9-44a8-9280-b6a369c6832a.aac
 #EXTINF:-1 tvg-id="" tvg-name="09/06/2020<>34'22" tvg-logo="Chaine3.jpg" group-title="Retraite",L'invité Slimane Melouka 
