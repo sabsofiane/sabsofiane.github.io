@@ -21,11 +21,11 @@ http://blida.ice.infomaniak.ch/09.aac
 http://ch1.ice.infomaniak.ch/ch1-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="Chaine2.png" group-title="",Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.png" group-title="",Radio M
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.jpg" group-title="",Radio M
 http://188.165.242.25:8560/stream?s=1404553850
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiowahrai.png" group-title="",Radio Wah Rai
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiowahrai.jpg" group-title="",Radio Wah Rai
 http://radio-dzair.net:8000/;?1459101551153.mp3
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiokhaina.png" group-title="",Radio Kaina
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiokhaina.jpg" group-title="",Radio Kaina
 http://radio-dzair.net:8000/;
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
