@@ -12,7 +12,7 @@ http://radios.rtbf.be/classic21-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="93.8" tvg-logo="rcf.jpg" group-title="",R.C.F. Liège
 http://rcf.streamakaci.com/rcfliege.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="antipode.png" group-title="",Antipode FM
-http://antipode.belstream.net/antipode128.mp3
+http://antipode.shoutcaststream.com:8008/stream
 #EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="maximum.png" group-title="",Maximum FM
 http://maximum.belstream.net/maximum.mp3
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="nostalgieblg.jpg" group-title="",Nostalgie
