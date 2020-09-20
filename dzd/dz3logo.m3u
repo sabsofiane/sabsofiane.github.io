@@ -38,7 +38,7 @@ http://streamingp.shoutcast.com/nostaplus-mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rtbfmix.png" group-title="",RTBF Mix
 http://radios.rtbf.be/rtbfmix-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="tarmac.jpg" group-title="",Tarmac
-http://radios.rtbf.be/tarmac-128.mp3
+http://radios.rtbf.be/tarmac-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="vivaplus.png" group-title="",Viva Plus
 http://radios.rtbf.be/vivaplus-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kifbe.jpg" group-title="",KIF
