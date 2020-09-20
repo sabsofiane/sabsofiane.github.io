@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="20/09/2020<>34'56" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Mohand Berkouk
+https://sabsofiane.github.io/dzd/podcasts/8fca8b2f-e7c2-4c92-9371-ff2080e512a3.aac
+#EXTINF:-1 tvg-id="" tvg-name="17/09/2020<>35'12" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Nacera Haddad
+https://sabsofiane.github.io/dzd/podcasts/04d4604a-0aa7-4f17-b3c9-9592488a96f2.aac
+#EXTINF:-1 tvg-id="" tvg-name="16/09/2020<>36'26" tvg-logo="Chaine3.jpg" group-title="Medicament",L'invité Kamel Mansouri
+https://sabsofiane.github.io/dzd/podcasts/6b1512e0-748a-4520-a07b-90985f76e7d2.aac
 #EXTINF:-1 tvg-id="" tvg-name="16/08/2020<>36'56" tvg-logo="Chaine3.jpg" group-title="Commerce",L'invité Ali Bey Nasri
 https://sabsofiane.github.io/dzd/podcasts/76860f2c-9a51-48cd-a7a1-bdc0aa38a6ef.aac
 #EXTINF:-1 tvg-id="" tvg-name="13/08/2020<>37'45" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Djillali Doumi
