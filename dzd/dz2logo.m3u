@@ -8,7 +8,7 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfimonde.png" group-title="",RFI Monde
 http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="TSF_Jazz_logo.png" group-title="",TSF Jazz
-http://broadcast.infomaniak.net/tsfjazz-high.mp3
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="nostalgie.png" group-title="",Nostalgie France
 http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="90.9" tvg-logo="chante.jpg" group-title="",Chante France
@@ -24,7 +24,7 @@ http://listen.radioking.com/radio/8916/stream/19088
 #EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="franceculture.png" group-title="",France Culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="Jazz-radio.png" group-title="",Jazz
-http://broadcast.infomaniak.net/jazzradio-high.mp3
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
 #EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="radioorient.png" group-title="",Radio Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient
 #EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="radiocourtoisie.jpg" group-title="",Radio Courtoisie
@@ -54,7 +54,7 @@ http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
 #EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="contactfm.jpg" group-title="",Contact FM
 http://radio-contact.ice.infomaniak.ch/radio-contact-high
 #EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="hitwest.jpg" group-title="",Hit West FM
-http://broadcast.infomaniak.net/hitwest-high.mp3
+http://broadcast.infomaniak.ch/hitwest-high.aac
 #EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="classique.png" group-title="",Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="Nova_radio.jpg" group-title="",Nova
@@ -86,7 +86,7 @@ http://icecast.rtl2.fr/rtl2-1-48-192
 #EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="beurfm.png" group-title="",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="Logo_africa_1.jpg" group-title="",Africa 1
-http://broadcast.infomaniak.net:80/african1paris-128.mp3
+http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="francebleu.png" group-title="",France Bleu
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="abc.jpg" group-title="",ABC Lounge Radio
@@ -98,7 +98,7 @@ http://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="crooner.png" group-title="",Crooner Radio
 http://stream.crooner.fr/crooner.aac
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="cfm.png" group-title="",CFM Radio
-http://www.larg.fr:8000/larg.mp3
+http://cfm.streamakaci.com/;stream/1
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="euradio.png" group-title="",Euradio
 http://80.82.229.202/euradio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="larg.png" group-title="",LARG' Radio Golfe
