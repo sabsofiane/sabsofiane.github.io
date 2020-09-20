@@ -29,6 +29,8 @@ http://radio-dzair.net:8000/;?1459101551153.mp3
 http://radio-dzair.net:8000/;
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radioraj.jpg" group-title="",Radio RAJ
 https://listen.radioking.com/radio/81799/stream/119992
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiochaabidialna.jpg" group-title="",Radio Chaabi Dialna
+https://webchaabi.com/audios/MOHAMED_ZERBOUT_MEKNASS.MP3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Dzair Aures
 http://188.165.242.25:8000/;listen.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Dzair Andaloussia
