@@ -18,7 +18,7 @@ http://rai.ice.infomaniak.ch/rai-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="default_logo.jpg" group-title="",Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
 #EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="Chaine1.png" group-title="",Alger Chaine 1
-http://ch1.ice.infomaniak.ch/ch1-32.aac
+http://ch1.ice.infomaniak.ch/ch1-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="Chaine2.png" group-title="",Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.jpg" group-title="",Radio M
