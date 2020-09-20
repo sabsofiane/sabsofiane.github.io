@@ -14,13 +14,13 @@ http://culture.ice.infomaniak.ch/culture.aac
 #EXTINF:-1 tvg-id="" tvg-name="94.7" tvg-logo="jilfm.jpg" group-title="",Jil FM
 http://jil-fm.ice.infomaniak.ch/jilfm.aac
 #EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="rai.png" group-title="",Radio Algérie Inter
-http://rai.ice.infomaniak.ch/rai-64.aac
+https://rai.ice.infomaniak.ch/rai-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="97.5" tvg-logo="default_logo.jpg" group-title="",Radio Blida
 http://blida.ice.infomaniak.ch/09.aac
 #EXTINF:-1 tvg-id="" tvg-name="98.0" tvg-logo="Chaine1.png" group-title="",Alger Chaine 1
-http://ch1.ice.infomaniak.ch/ch1-64.aac
+http://ch1.ice.infomaniak.ch/ch1-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="Chaine2.png" group-title="",Alger Chaine 2
-http://ch2.ice.infomaniak.ch/ch2-64.aac
+http://ch2.ice.infomaniak.ch/ch2-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.jpg" group-title="",Radio M
 http://188.165.242.25:8560/stream?s=1404553850
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiowahrai.jpg" group-title="",Radio Wah Rai
