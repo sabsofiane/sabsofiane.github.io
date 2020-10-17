@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie Chaine 1
-http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/44
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",EchoroukTV
+http://95.111.242.18:25461/XqWTXoYhnU/ij5Um30KIm/47?token=TBEJUkRbRFwUU1VbBQAOB1MDAFsEVwhQUQEEV1pVVVUDAFEADgpQVQESSEEQEEpXAFs6UVdDCwYCTxJBEQYROV5XQwkVAURKFEQNDgZGAgNXBlcBBVcACwJPEkQLB0FcFQBSAQARSkRTSBAGEQpZXj5SAE5aAlQQDw1FWA5PQQlZbAVWWlIIAhQKRlNBSBpbEkZHAl0UXV4ZQVJdFhECElIRWxEDBFFEGhIHDBYKTEAYFF8adTMTHhcGSEAHDRAPWF1DCRVHFUQaEg0QPBZdQRVEAFleBEMQD0EAFk5BDgdPbAJcWV0DBUJZCw0QRgIQUwZVCBFNE19aDVlADRE8Fl5XQwkVClVfDhIZ
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie 1
+http://178.132.3.162:88/canal_algerie/video.m3u8?token=test&checkedby:hlscat.com
