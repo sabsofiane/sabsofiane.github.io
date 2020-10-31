@@ -7,3 +7,5 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w694080661_b1928000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1 Serie
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8 
