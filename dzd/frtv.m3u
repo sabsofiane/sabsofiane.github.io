@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RT France
 http://rt-france.secure.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 5
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",DS5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w694080661_b1928000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_3000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1 Serie
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8 
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RTS 1
+https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd 
