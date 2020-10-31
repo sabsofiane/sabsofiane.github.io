@@ -3,7 +3,7 @@
 http://rt-france.secure.footprint.net/1107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",DS5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w694080661_b1928000.m3u8
