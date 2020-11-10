@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="10/11/2020" tvg-logo="Chaine3.jpg" group-title="Gestion des risques",L'invité Abdelkrim Chelghoum
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/c9b2884c-3c35-462d-8b94-f8a1f771947a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="09/11/2020" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Ryad Mahyaoui
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/7b758201-7f48-49d7-a276-4adc5bd31427.mp3
 #EXTINF:-1 tvg-id="" tvg-name="08/11/2020" tvg-logo="Chaine3.jpg" group-title="Protection civile",L'invité Farouk Achour
