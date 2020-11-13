@@ -1,4 +1,5 @@
 #!/bin/bash
-for mission 
-	do
+for mission in $ (cat dzpodcastmp3last.m3u)
+	do echo 
+	
 	
