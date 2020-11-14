@@ -17,6 +17,8 @@ http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5653
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13004
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",C8
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13006
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",W9
+http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5601
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Cherie 25
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5693
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV2 FRI DK
@@ -177,8 +179,6 @@ http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16910
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/14275
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",M6 Music
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5654
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Bet
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7941
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CStar
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5686
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NRJ Hits
@@ -187,11 +187,7 @@ http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5640
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16911
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trace Urban
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12963
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Rouge TV FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/643095
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Brava
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7940
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mezzo Live
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5652
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",W9
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5601
