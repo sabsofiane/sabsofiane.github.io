@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CORONA VIRUS INFO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12836
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12835
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",FRANCE 2
@@ -73,12 +75,6 @@ http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12800
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12799
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",KTO
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12798
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CORONA VIRUS INFO
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12836
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA MAISON
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12797
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BOOSTER TV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12796
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL 9
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12795
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",THE SWIZZ
