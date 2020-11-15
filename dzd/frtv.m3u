@@ -11,10 +11,12 @@ http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12833
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12832
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",FRANCE 5
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12831
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",6TER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12829
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",M6
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12828
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ARTE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12820
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",6TER
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12829
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1 SERIES-FILMS
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12826
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TFX
@@ -27,22 +29,60 @@ http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12823
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12822
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",W9
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12821
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ARTE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12820
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NAUTICAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12819
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NON STOP PEOPLE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12818
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NOVELAS TV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12817
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ONE TV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12816
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ROUGE TV
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12815
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RTS UN
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12814
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RTS DEUX
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12813
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12734
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12732
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 3
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12731
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12792
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL SPORT
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12791
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL  SERIE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12790
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL FAMILY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12789
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL DECALE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12788
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL CINEMA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12787
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ACTION
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12785
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS MAX
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12784
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CITY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12783
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS GEANTS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12782
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CHOC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12781
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  PREMIERE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12780
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE FRISSON
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12779
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE EMOTION
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12778
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  FAMIZ
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12777
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  CLUB
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12776
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  CLASSIC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12775
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT DECALE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12774
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT CHANNEL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12773
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",POLAR 
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12771
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SYFY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12770
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SERIE CLUB
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12769
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CSTAR
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12812
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LA CHAINE METEO
@@ -173,50 +213,6 @@ http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12609
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12608
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",I 24 NEWS
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12607
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12792
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL SPORT
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12791
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL  SERIE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12790
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL FAMILY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12789
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL DECALE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12788
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL CINEMA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12787
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ACTION
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12785
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS MAX
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12784
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CITY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12783
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS GEANTS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12782
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CHOC
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12781
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  PREMIERE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12780
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE FRISSON
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12779
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE EMOTION
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12778
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  FAMIZ
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12777
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  CLUB
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12776
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  CLASSIC
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12775
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT DECALE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12774
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT CHANNEL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12773
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",POLAR 
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12771
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SYFY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12770
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SERIE CLUB
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12769
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",13 EME RUE
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12768
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="", ALTICE STUDIO
@@ -267,56 +263,6 @@ http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12744
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12743
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANALPLAY 5
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12742
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 1
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12734
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 2
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12732
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A LA CARTE 3
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12731
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12684
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL SPORT
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12683
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL SERIES
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12682
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL FAMILY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12681
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL DECALE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12680
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL CINEMA
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12679
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ACTION
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12677
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS MAX
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12676
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CITY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12675
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS GEANTS
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12674
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CHOC
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12673
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE PREMIER
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12672
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE FRISSON
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12671
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE EMOTION
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12670
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE  FAMIZ
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12669
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE CLUB
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12668
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CINE   CLASSIC
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12667
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT DECALE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12666
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PARAMOUNT CHANNEL
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12665
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",POLAR 
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12663
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SYFY
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12662
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",SERIE CLUB
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12661
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",13EME RUE
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12660
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ALTICE STUDIO
