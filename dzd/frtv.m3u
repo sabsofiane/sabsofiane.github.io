@@ -1,191 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5610
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 2
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5669
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 3
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5668
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 4
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5667
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 5
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5666
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France O
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5664
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",6Ter
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13004
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",C8
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13006
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",W9
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5601
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Cherie 25
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5693
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV2 FRI DK
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8171
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV 5 Monde FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8631
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",6Ter
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5716
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",C8
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5703
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LCP FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5655
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Vosges Télévision
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12932
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OLTV
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5633
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Weo
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5600
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RTL 9
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5620
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TFX
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/50868
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Sport News
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/624939
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Sport 1
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625254
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Sport 3
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625250
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Sport 4
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625253
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Story
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5638
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Canal+ Sport
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5696
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 1
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5710
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 2
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5709
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 3
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12957
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 4 Max FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8562
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 6 Max FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8538
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 7 Max FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8537
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 9 Max FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12954
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sports 10 Max
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12953
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Eurosport 1
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5672
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Eurosport 2
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12951
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM Paris
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8560
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Equidia Life
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12950
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Equipe 21
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5674
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Infosport FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5660
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Golf
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12948
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 24 News FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8630
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RT France
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/648935
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Cnews
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16924
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",i24News FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12931
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM Business FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5707
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LCi
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5656
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Entertainment FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5678
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Non Stop People
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16901
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trek FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5608
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NT1 FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5639
+http://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM PARIS
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM LYON
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LN 24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1 Serie
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TMC
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5607
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NRJ 12
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5641
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",AB1
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5715
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",AB3
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5714
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",13Eme Rue
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5717
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Action FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8629
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS Choc
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8618
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS City
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5636
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS Geants
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8620
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Discovery Investigation
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/9034
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Discovery Science
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5682
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",National Geographic
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8632
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Nat Geo Wild
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5645
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Toute l'Histoire
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/13000
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RMC Decouverte
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5621
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Arte
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5711
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Animaux FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5712
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Histoire FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/8570
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Toute LHistorie FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5606
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Science et Vie
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5615
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Planete
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12998
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",PlanèteCrime Investigation
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12942
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",KTO FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5659
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Voyage TV
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5602
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Boomerang
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5704
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Disney Channel
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5681
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Disney Junior
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12945
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Disney XD
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16920
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mangas
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/625363
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Nickelodeon
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5643
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Nickelodeon 4 Teen
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16903
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Nickelodeon
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16902
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Piwi
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5625
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Tiji
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5609
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Toonami
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16890
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MTV Hits FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16910
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BBlack Africa FR
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/14275
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",M6 Music
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5654
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CStar
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5686
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NRJ Hits
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5640
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MCM Top
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/16911
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trace Urban
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12963
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Brava
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/7940
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mezzo Live
-http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/5652
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ARTE
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",DS5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w694080661_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",My TV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MYCOMEDY
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Antenne Reunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MEZZO
+http://92.43.140.249/s35/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ALPE DUEZ
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ALSACE 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Dici TV
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TVM 3
+https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
