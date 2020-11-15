@@ -39,6 +39,8 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Gong
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CHOC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12781
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MEZZO
 http://92.43.140.249/s35/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV78
