@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E1
-https://salva59sg.tk/validé/s1e1/1.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E2
-https://salva59sg.tk/validé/s1e2/2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E3
-https://salva59sg.tk/validé/s1e3/3.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E4
-https://salva59sg.tk/validé/s1e4/4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E5
-https://salva59sg.tk/validé/s1e5/5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E6
-https://salva59sg.tk/validé/s1e6/6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E7
-https://salva59sg.tk/validé/s1e7/7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E8
-https://salva59sg.tk/validé/s1e8/8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E9
-https://salva59sg.tk/validé/s1e9/9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé S1E10
-https://salva59sg.tk/validé/s1e10/10.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Validé BONUS
-https://salva59sg.tk/validé/bonus1/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 1
+https://nl31.seedr.cc/media/video/lq_hls/58951987d436b027f292fdb0152c3f4ac02adc0a/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 2
+https://nl31.seedr.cc/media/video/hd_hls/e3d033d9a9347d7ca6ac377cdabdc41a5f20ed3b/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 3
+https://nl31.seedr.cc/media/video/hd_hls/3bba424f54ed6e159d97dbf187a7f05cede29726/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 4 P1
+https://fr9.seedr.cc/media/video/lq_hls/092b0a71bda53a5e04182776a4688ef01e944c8e/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 4 P2
+https://fr9.seedr.cc/media/video/lq_hls/5e24c9e14e86aadfd17eccdde66eb928fb1866d4/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission  Impossible 5
+https://nl38.seedr.cc/media/video/hd_hls/5fc20fe2eb0a159887fa0d65cc139fbea6a96124/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Mission Impossible 6
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Mission+Impossible+-+Fallout+streaming+vf+%E2%80%94+Streamay.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Twilight 1
+https://lo1.seedr.cc/media/video/hd_hls/nl35/adceccaa726225349bd1152ceff3f61175c719fa/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Twilight 2
+https://lo1.seedr.cc/media/video/hd_hls/nl35/b292364611bbdf09f29fddf96ec7eb0e8fbb1b9c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Twilight 3
+https://lo1.seedr.cc/media/video/hd_hls/nl35/3e39bf7a7b8d24b3731f0b325bfda3215a35f0f3/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Twilight 4 
+https://lo1.seedr.cc/media/video/hd_hls/nl35/ee81891470f393458f82063417915419581dddb4/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Twilight 5
+https://lo1.seedr.cc/media/video/hd_hls/nl35/71ba610632afdaad624ed1083a2d0ea78ab8c18e/vid.m3u8
