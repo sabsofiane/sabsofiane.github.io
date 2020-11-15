@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RT France
+http://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",TV5 Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="jow.jpg" group-title="",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM PARIS
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM LYON
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LN 24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TF1 Serie
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ARTE
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",DS5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w694080661_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",My TV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MYCOMEDY
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Antenne Reunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",MEZZO
+http://92.43.140.249/s35/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ALPE DUEZ
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ALSACE 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Dici TV
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TVM 3
+https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
