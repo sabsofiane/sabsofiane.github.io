@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E1
+https://fr3.seedr.cc/media/video/lq_hls/d65b74381cf0d402d0e2cdce98df2c85a7fe03ed/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E2
+https://fr3.seedr.cc/media/video/lq_hls/15eaf46f673c04734f51df6332f8107c37163fc0/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E3
+https://fr3.seedr.cc/media/video/lq_hls/571b28e91b1c91a1de25fdc86915698e346af2f0/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E4
+https://fr3.seedr.cc/media/video/lq_hls/5f70d53e89c9d443e919f7f2d576c26b0aa08cf6/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E5
+https://fr3.seedr.cc/media/video/lq_hls/10de079b0d41287fd71099f44bfa2b1dae0ca5ac/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E6
+https://fr3.seedr.cc/media/video/lq_hls/ec0b684f7146d1b3b16477cf4ee0e0bfbea381ed/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E7
+https://fr3.seedr.cc/media/video/lq_hls/75ab5f2e9e8547524f6657a8379258d44ddf3adf/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E8
+https://fr3.seedr.cc/media/video/lq_hls/1b989f248a67c2c183411cd509cdb240a44e58a5/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E9
+https://fr3.seedr.cc/media/video/lq_hls/b351ff384caabe259152c100c08ab0ba874f00d3/vid.m3u8?dvr
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E10
+https://fr3.seedr.cc/media/video/lq_hls/4ad1a155e3c831b8e2d405e6fbff860f33c0b47c/vid.m3u8?dvr
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E1
 http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E01.FRENCH.LD.HDTV.x264-AUTHORiTY.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E2
