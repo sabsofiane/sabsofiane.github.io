@@ -41,8 +41,6 @@ http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",OCS CHOC
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12781
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",CANAL  SERIE
-http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/12790
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NGC
 http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/13046
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",NGC WILD
