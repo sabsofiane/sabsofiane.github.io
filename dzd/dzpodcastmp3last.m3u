@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="17/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Lyes Merabet
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/25a49879-78c8-4ecc-96d9-3115fa3efcba.mp3
 #EXTINF:-1 tvg-id="" tvg-name="16/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Fouzya Benguergoura
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/bb888aa1-794c-46dd-adb4-1cade0c1bafc.mp3
 #EXTINF:-1 tvg-id="" tvg-name="15/11/2020" tvg-logo="Chaine3.jpg" group-title="Sahara",L'invité Said Ayachi
