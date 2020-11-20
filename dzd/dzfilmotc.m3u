@@ -173,3 +173,7 @@ https://fr1.seedr.cc/media/video/lq_hls/b1d617a8b77efc89470bb125dfb687c03b368f6c
 https://sf1.seedr.cc/media/video/hd_hls/fr1/2a061fd7c04b17e04e931ac82335d8b7d512b594/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Papicha
 https://nl28.seedr.cc/media/video/hd_hls/8979fb85fa0ee741f4762158ceed34fb2f214b3d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Deadpool 1
+https://load.hdfilme.ws/playlist/a7832c740941a2fcbf86c16d0c915286/a7832c740941a2fcbf86c16d0c915286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Deadpool 2
+https://load.hdfilme.ws/playlist/859333a50da8870127c7e5cc165ee8df/859333a50da8870127c7e5cc165ee8df.m3u8
