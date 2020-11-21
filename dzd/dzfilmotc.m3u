@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E1
-https://nl37.seedr.cc/media/video/lq_hls/a70285a0f96f11ac273f56493f6aeb5c2d0e0e97/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E2
-https://nl37.seedr.cc/media/video/lq_hls/9e92708c6d888ebf99462c16a342ce46ca4bb228/vid.m3u8?dvr 
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E3
-https://nl37.seedr.cc/media/video/lq_hls/956f35a5e8b99667e1c5179e06898a2a86fcf7f8/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E4
-https://nl37.seedr.cc/media/video/lq_hls/520c2d087f166843835cdd964389563173b77a1a/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E5
-https://nl37.seedr.cc/media/video/lq_hls/234766d8b93935bf52d55d65e183bb79c8efad62/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E6
-https://nl37.seedr.cc/media/video/lq_hls/b8e7e26c46b6401d88a3c5513b85682ea55258d0/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E7
-https://nl37.seedr.cc/media/video/lq_hls/e8d93cf060f3b338174ea05dd20398b3c59a6ab4/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E8
-https://nl37.seedr.cc/media/video/lq_hls/1c966ca8f802b458b40460ac189513780d155084/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E9
-https://nl37.seedr.cc/media/video/lq_hls/ac5838bd056e236e27bcf92ff132379c3315581f/vid.m3u8?dvr
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S1-E10
-https://nl37.seedr.cc/media/video/lq_hls/0fcddcd6e3defc889c54d8e4698b93febbc52d53/vid.m3u8?dvr
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E1
 https://fr8.seedr.cc/media/video/hd_hls/e75cd51b1d298b8c085a98f6a042ce4929e9e548/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E2
