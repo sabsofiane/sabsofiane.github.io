@@ -235,3 +235,9 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5s69c2
 https://nl19.seedr.cc/media/video/hd_hls/82ee1f463f55f9175cd2c0508e1e349133cbec28/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Sincérité
 https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Le dernier loup
+https://nl23.seedr.cc/media/play_hls/443a90d7708c3a09b828231cfdd6ae90c8e26914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Le Dernier Rempart
+https://fr3.seedr.cc/media/video/lq_hls/c33290faa06a3bc8288d6f7bddfed3d7cf3e1d54/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Le Dernier rite
+https://nl28.seedr.cc/media/video/lq_hls/f131cec4fd2dce1df834212da8f4bc38128723ef/vid.m3u8
