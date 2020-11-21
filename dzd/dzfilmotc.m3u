@@ -225,3 +225,13 @@ https://de13.seedr.cc/media/video/lq_hls/5cdb5c10fea483ae554c7224d77800c08b64dda
 https://de13.seedr.cc/media/video/lq_hls/e56311a558c16620292d2b40bb891fed7f1aeee2/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Harry Potter 8
 https://de13.seedr.cc/media/video/lq_hls/d4b42ce750207f8fdbba0be29dca79f6b5f048de/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Plateforme
+https://nl24.seedr.cc/media/video/hd_hls/923f3d38395dd3063633534ba90e3584ef6dd613/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Rage au ventre
+https://nl35.seedr.cc/media/video/lq_hls/1d4677d7988c6caeb2123a08af25e40da3f2ec19/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Remplaçante (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5s69c2
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Souffleuse de verre
+https://nl19.seedr.cc/media/video/hd_hls/82ee1f463f55f9175cd2c0508e1e349133cbec28/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Sincérité
+https://nl25.seedr.cc/media/video/hd_hls/aa27f273528c8b3b35d7102f3940dbcc88ddc6bd/vid.m3u8
