@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E1
+https://nl32.seedr.cc/media/video/hd_hls/41d0f6b12a2a337ee9a2c3886ef19064a7235b0f/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E2
+https://nl32.seedr.cc/media/video/hd_hls/7a0b928c6ea4fe5a20c5e2850293dc39f552310b/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E3
+https://nl32.seedr.cc/media/video/hd_hls/8944afc6a52803bbaaed5165ef39c38594cf9b08/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E4
+https://nl32.seedr.cc/media/video/hd_hls/c2b04c6fea809e11fcae446b7d521a08fd5e52e7/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E5
+https://nl32.seedr.cc/media/video/hd_hls/340598f02a9d74a83af0e30b99cf4048d340ac72/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E6
+https://nl32.seedr.cc/media/video/lq_hls/a6f1890e9f292441d54fec6e20a18699b42cfc80/vid.m3u8?dvr
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E1
 http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E01.FRENCH.LD.HDTV.x264-AUTHORiTY.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E2
