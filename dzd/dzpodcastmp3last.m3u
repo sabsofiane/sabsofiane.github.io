@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="22/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Abderrahmane Benbouzid
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/3f11dfdb-6510-4027-8e94-8d9f160c2b59.mp3
+#EXTINF:-1 tvg-id="" tvg-name="19/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Smail Nourredine
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/d265524f-a173-4b00-9d1c-8fbc7ea570cc.mp3
+#EXTINF:-1 tvg-id="" tvg-name="18/11/2020" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Mahfoud Kaoubi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/77cefac4-7dce-47aa-936e-bc88af070f50.mp3
 #EXTINF:-1 tvg-id="" tvg-name="17/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Lyes Merabet
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/25a49879-78c8-4ecc-96d9-3115fa3efcba.mp3
 #EXTINF:-1 tvg-id="" tvg-name="16/11/2020" tvg-logo="Chaine3.jpg" group-title="Sante",L'invité Fouzya Benguergoura
