@@ -62,7 +62,7 @@ http://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="Vibration.jpg" group-title="",Vibration FM
 http://vibration.ice.infomaniak.ch/vibration-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="funradio.jpg" group-title="",Fun Radio
-http://streaming.radio.funradio.fr/fun-1-48-192
+http://streaming.radio.funradio.fr/fun-1-44-128
 #EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="ouifm.png" group-title="",Oui FM
 http://stream.ouifm.fr/ouifm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="mradio.png" group-title="",M Radio
