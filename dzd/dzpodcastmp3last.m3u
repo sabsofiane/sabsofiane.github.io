@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="25/11/2020" tvg-logo="Chaine3.jpg" group-title="SONELGAZ",L'invité Lotfi Tahar Djouenbi
+#EXTINF:-1 tvg-id="" tvg-name="26/11/2020" tvg-logo="Chaine3.jpg" group-title="DROIT",L'invité Ali Mebroukine
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/8945e419-d454-4859-abec-c7fc4a1bdaa2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="25/11/2020" tvg-logo="Chaine3.jpg" group-title="SONELGAZ",L'invité Tahar Djouenbi
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/ee0f1162-c0e5-4c82-9698-e7b1bf002a3e.mp3
 #EXTINF:-1 tvg-id="" tvg-name="24/11/2020" tvg-logo="Chaine3.jpg" group-title="Pharmacie",L'invité Lotfi Ben bahmed
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/cff5f69f-cb2b-4379-9d64-160a13484186.mp3
