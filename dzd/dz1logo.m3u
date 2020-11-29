@@ -21,6 +21,8 @@ http://blida.ice.infomaniak.ch/09.aac
 http://ch1.ice.infomaniak.ch/ch1-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="100.0" tvg-logo="Chaine2.png" group-title="",Alger Chaine 2
 http://ch2.ice.infomaniak.ch/ch2-32.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="topradio.png" group-title="",Top Radio
+https://topradio.ice.infomaniak.ch/topradio.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.jpg" group-title="",Radio M
 http://188.165.242.25:8560/stream?s=1404553850
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiowahrai.jpg" group-title="",Radio Wah Rai
