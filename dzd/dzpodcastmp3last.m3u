@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="30/11/2020" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Bekkat Berkan
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/9232b9b0-41b2-4c80-8691-46d06443b90f.mp3
 #EXTINF:-1 tvg-id="" tvg-name="29/11/2020" tvg-logo="Chaine3.jpg" group-title="Environnement",L'invité Messaoud Khelif
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/3efa6a2a-525b-47a9-b7bf-c5be8db152df.mp3
 #EXTINF:-1 tvg-id="" tvg-name="26/11/2020" tvg-logo="Chaine3.jpg" group-title="Droit",L'invité Ali Mebroukine
