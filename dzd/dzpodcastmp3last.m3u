@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="01/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Brahim Zitouni
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/398b0749-6903-4252-a96f-b2987e92af50.mp3
 #EXTINF:-1 tvg-id="" tvg-name="30/11/2020" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Bekkat Berkan
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/9232b9b0-41b2-4c80-8691-46d06443b90f.mp3
 #EXTINF:-1 tvg-id="" tvg-name="29/11/2020" tvg-logo="Chaine3.jpg" group-title="Environnement",L'invité Messaoud Khelif
