@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="03/12/2020" tvg-logo="Chaine3.jpg" group-title="JeuxOran2022",L'invité Hassen Kacimi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/ea2f05bc-3d25-48e4-93e7-bcdd155ec5a7.mp3
 #EXTINF:-1 tvg-id="" tvg-name="02/12/2020" tvg-logo="Chaine3.jpg" group-title="JeuxOran2022",L'invité Salim Illes
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/bdd1943c-a196-443a-9f45-01259c92a37b.mp3
 #EXTINF:-1 tvg-id="" tvg-name="01/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Brahim Zitouni
