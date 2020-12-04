@@ -41,15 +41,3 @@ http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sport 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sport 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Bein Sports Extra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Fox Sport 1
-http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Fox Sport 2
-http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Fox Sport 3
-http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
