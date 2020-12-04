@@ -41,3 +41,7 @@ http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",France24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sport 1
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w1159122092_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",beIN Sport 2
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1188923391_b1344100_sleng.m3u8
