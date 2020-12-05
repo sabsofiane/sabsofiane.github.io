@@ -261,14 +261,6 @@ https://nl33.seedr.cc/media/video/hd_hls/5f109e25757cd9d3e4c62168d8e5652522a79aa
 https://de9.seedr.cc/media/video/hd_hls/c347e070f3c687c6f3fb2691f40ba67309da2522/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Gladiator
 https://fr3.seedr.cc/media/video/lq_hls/e323a40e6d474ab26a8f749cc2bd5ad26a6d12bb/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Heat
-https://fr1.seedr.cc/media/video/lq_hls/ae3e0caed860f162a81bd8c8210b12b83f0f7c5d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hellboy
-https://fr8.seedr.cc/media/video/hd_hls/c417f92e0782f2dbf71468d4d5a26a3ef95cf1f0/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hell on the Border
-https://nl33.seedr.cc/media/video/hd_hls/8ed13c637c1eee7d2ec2a6e6314e9ffb8fed0628/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Higher Power
-https://de9.seedr.cc/media/video/hd_hls/fc0d44cea07bbc672ab3aaa226d7d1d581449865/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Harry Potter 1
 https://de13.seedr.cc/media/video/lq_hls/a4f3990ee365448926d61ca2bf49166fc0cbe461/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Harry Potter 2
@@ -285,6 +277,24 @@ https://de13.seedr.cc/media/video/lq_hls/5cdb5c10fea483ae554c7224d77800c08b64dda
 https://de13.seedr.cc/media/video/lq_hls/e56311a558c16620292d2b40bb891fed7f1aeee2/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Harry Potter 8
 https://de13.seedr.cc/media/video/lq_hls/d4b42ce750207f8fdbba0be29dca79f6b5f048de/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Heat
+https://fr1.seedr.cc/media/video/lq_hls/ae3e0caed860f162a81bd8c8210b12b83f0f7c5d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hellboy
+https://fr8.seedr.cc/media/video/hd_hls/c417f92e0782f2dbf71468d4d5a26a3ef95cf1f0/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hell on the Border
+https://nl33.seedr.cc/media/video/hd_hls/8ed13c637c1eee7d2ec2a6e6314e9ffb8fed0628/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Higher Power
+https://de9.seedr.cc/media/video/hd_hls/fc0d44cea07bbc672ab3aaa226d7d1d581449865/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Homefront
+https://nl33.seedr.cc/media/video/lq_hls/da24ce209e51a9fd9f806cd9c5b1dc1702ee7add/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",How It Ends
+https://fr8.seedr.cc/media/video/hd_hls/02018a1fd0e2f5a98c6956d127741f9e7738795d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hulk
+https://fr9.seedr.cc/media/video/lq_hls/2efcade9c75910265788d63075650acb347990fa/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Incroyable Hulk
+https://nl21.seedr.cc/media/video/hd_hls/7dcbc96979004f225573cf7a1f83eae46de4c7d8/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Human Capital
+https://fr13.seedr.cc/media/video/hd_hls/95a92c4fd5f7e7719c09a998dd8d5c3fd81c5b13/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Inception
 https://nl20.seedr.cc/media/video/lq_hls/19a96e8a2d2f0dad4ee85178cea37b4439cbd521/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Iron Man 3
