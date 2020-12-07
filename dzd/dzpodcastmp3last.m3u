@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="07/12/2020" tvg-logo="Chaine3.jpg" group-title="Innovation",L'invité Mounsi Demmouche
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/2874e29d-88c9-4066-8284-60543bdf9504.mp3
 #EXTINF:-1 tvg-id="" tvg-name="06/12/2020" tvg-logo="Chaine3.jpg" group-title="AirAlgerie",L'invité Charef Mohamed
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1a998f9f-783a-4fb6-9fd4-9ff48dce025b.mp3
 #EXTINF:-1 tvg-id="" tvg-name="03/12/2020" tvg-logo="Chaine3.jpg" group-title="Sahel",L'invité Hassen Kacimi
