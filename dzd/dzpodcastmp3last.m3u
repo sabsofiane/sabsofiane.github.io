@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="10/12/2020" tvg-logo="Chaine3.jpg" group-title="Culture",L'invité Noreddine Atmani
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/cc09b37d-42b3-4c29-ac4c-ceb981031f94.mp3
+#EXTINF:-1 tvg-id="" tvg-name="09/12/2020" tvg-logo="Chaine3.jpg" group-title="Medicament",L'invité Kamel Mansouri
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/e2241b1c-155d-4672-bd2a-a17880dadf07.mp3
+#EXTINF:-1 tvg-id="" tvg-name="08/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Mustapha Heddam
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/0d70b26c-5df7-4ed5-94ac-3f11b1540d81.mp3
 #EXTINF:-1 tvg-id="" tvg-name="07/12/2020" tvg-logo="Chaine3.jpg" group-title="Innovation",L'invité Mounsi Demmouche
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/2874e29d-88c9-4066-8284-60543bdf9504.mp3
 #EXTINF:-1 tvg-id="" tvg-name="06/12/2020" tvg-logo="Chaine3.jpg" group-title="AirAlgerie",L'invité Charef Mohamed
