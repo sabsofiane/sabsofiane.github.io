@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="13/12/2020" tvg-logo="Chaine3.jpg" group-title="Strategie",L'invité Abdelaziz Medjahed
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/28d064ea-5d2c-418b-a1e1-907a7f638979.mp3
 #EXTINF:-1 tvg-id="" tvg-name="10/12/2020" tvg-logo="Chaine3.jpg" group-title="Culture",L'invité Noreddine Atmani
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/cc09b37d-42b3-4c29-ac4c-ceb981031f94.mp3
 #EXTINF:-1 tvg-id="" tvg-name="09/12/2020" tvg-logo="Chaine3.jpg" group-title="Medicament",L'invité Kamel Mansouri
