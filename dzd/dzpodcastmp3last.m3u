@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="15/12/2020" tvg-logo="Chaine3.jpg" group-title="Enseignement",L'invité Boualem Saidani
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/e4304b86-db64-4f0a-a570-fc4fb93bde67.mp3
+#EXTINF:-1 tvg-id="" tvg-name="14/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Djillali Sofiane
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/7224b7f0-12c9-495a-9195-2d166fb8fb72.mp3
 #EXTINF:-1 tvg-id="" tvg-name="13/12/2020" tvg-logo="Chaine3.jpg" group-title="Strategie",L'invité Abdelaziz Medjahed
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/28d064ea-5d2c-418b-a1e1-907a7f638979.mp3
 #EXTINF:-1 tvg-id="" tvg-name="10/12/2020" tvg-logo="Chaine3.jpg" group-title="Culture",L'invité Noreddine Atmani
