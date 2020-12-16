@@ -1,24 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E1
-https://fr8.seedr.cc/media/video/hd_hls/e75cd51b1d298b8c085a98f6a042ce4929e9e548/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E2
-https://fr8.seedr.cc/media/video/hd_hls/28e2b652f48131c5feb68df4a32ebb97358a224f/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E3
-https://fr8.seedr.cc/media/video/hd_hls/148ec2317a4cd0bd5fa4fbb4cf5a955182853cb9/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E4
-https://fr8.seedr.cc/media/video/hd_hls/d3d84d01299b424bf23f4a4a96977249066576c2/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E5
-https://fr8.seedr.cc/media/video/hd_hls/085016077612ed4e4365562c6693b4bbe779282c/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E6
-https://fr8.seedr.cc/media/video/hd_hls/7cc37c0de14515675d210dd3afc0ff26e8c59754/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E7
-https://fr8.seedr.cc/media/video/hd_hls/203acd35149f8e07e9efbe4a9a443a0013a6ea68/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E8
-https://fr8.seedr.cc/media/video/hd_hls/b8125f457940ad2907c0149c1fcd91d870df4a79/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E9
-https://fr8.seedr.cc/media/video/hd_hls/7949a8414fb1a407352e06bd5786975e8e7b7d56/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E10
-https://fr8.seedr.cc/media/video/hd_hls/e34742f19e7c844c4f645503bc082ea434f62821/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E1
+https://nl37.seedr.cc/media/video/hd_hls/1e5506817b2f952b0f67bb1edbab02a9aaafc25e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E2
+https://nl37.seedr.cc/media/video/hd_hls/206c12f3d0eb1059669590664af1e61766293185/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E3
+https://nl37.seedr.cc/media/video/hd_hls/e880f29721670bef78d23417a8baef0456b3d601/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E4
+https://nl37.seedr.cc/media/video/hd_hls/0139a20a901ed0750bbd2936e45411eecde679da/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E5
+https://nl37.seedr.cc/media/video/lq_hls/c0eb62272fb3f866299402b9980685da060fc7ea/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E6
+https://fr10.seedr.cc/media/video/lq_hls/152c7b4a69ed309eccb8db1a1bbb11e4ceb4599d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E1
+https://nl35.seedr.cc/media/video/lq_hls/90cb207617aa4573c32bd9c0be59e654d1908855/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E2
+https://nl35.seedr.cc/media/video/lq_hls/1ebc24bcff313cd8126c6304081d893ff3250aff/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E3
+https://nl35.seedr.cc/media/video/lq_hls/9d065bd35b217a2640e5e4cedd017d2be89e28a4/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E4
+https://nl35.seedr.cc/media/video/lq_hls/c668b1cfd560550418e7d674fb732b6991d7561c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E5
+https://nl35.seedr.cc/media/video/lq_hls/0aea30f2131f32c8812a697e52320705f580f1fb/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E6
+https://nl35.seedr.cc/media/video/lq_hls/e0f1fd00b1b54de0a5f9a6ac031448f77c9dd2b9/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E7
+https://nl35.seedr.cc/media/video/lq_hls/426d3af96f7305085c4fdf193666e52ec6fbf1de/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E1
+https://fr3.seedr.cc/media/video/lq_hls/d65b74381cf0d402d0e2cdce98df2c85a7fe03ed/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E2
+https://fr3.seedr.cc/media/video/lq_hls/15eaf46f673c04734f51df6332f8107c37163fc0/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E3
+https://fr3.seedr.cc/media/video/lq_hls/571b28e91b1c91a1de25fdc86915698e346af2f0/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E4
+https://fr3.seedr.cc/media/video/lq_hls/5f70d53e89c9d443e919f7f2d576c26b0aa08cf6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E5
+https://fr3.seedr.cc/media/video/lq_hls/10de079b0d41287fd71099f44bfa2b1dae0ca5ac/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E6
+https://fr3.seedr.cc/media/video/lq_hls/ec0b684f7146d1b3b16477cf4ee0e0bfbea381ed/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E7
+https://fr3.seedr.cc/media/video/lq_hls/75ab5f2e9e8547524f6657a8379258d44ddf3adf/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E8
+https://fr3.seedr.cc/media/video/lq_hls/1b989f248a67c2c183411cd509cdb240a44e58a5/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E9
+https://fr3.seedr.cc/media/video/lq_hls/b351ff384caabe259152c100c08ab0ba874f00d3/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E10
+https://fr3.seedr.cc/media/video/lq_hls/4ad1a155e3c831b8e2d405e6fbff860f33c0b47c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E1
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E01.FRENCH.LD.HDTV.x264-AUTHORiTY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E2
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages%20US%20S01E02%20FRENCH%20LD%20HDTV%20XivD-BOROMIR.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E3
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/hostages.us.s01e03.french.hdtv.x264-sriz.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E4
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E04.french.hdtv.x264-sriz.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E5
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/hostages.us.s01e05.french.hdtv.x264-sriz.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E6
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E06.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E7
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E07.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E8
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E08.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E9
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E09.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E10
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E10.FRENCH.LD.HDTV.XviD-RNT.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E11
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E11.FRENCH.LD.HDTV.XviD-LORD.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E12
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E12.FRENCH.LD.HDTV.XviD-RNT.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E13
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E13.FRENCH.LD.HDTV.XviD-RNT.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E14
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E14.FRENCH.LD.HDTV.XviD-LORD.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E15
+http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E15.FiNAL.FRENCH.LD.HDTV.XviD-LORD.avi
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E1
+https://fr3.seedr.cc/media/video/hd_hls/5c6b86776eebe71bfe7c6dbf396a376c1c43c14d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E2
+https://fr3.seedr.cc/media/video/hd_hls/1415c072fd9fa629e6dba69de02c73904ea70cbe/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E3
+https://fr3.seedr.cc/media/video/hd_hls/5a84419c5fec7c986e16de75143c6e7b5714ff14/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E4
+https://fr3.seedr.cc/media/video/hd_hls/6f36d6a77234bee908e159ba3334c2c0f62fc9be/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E5
+https://fr3.seedr.cc/media/video/hd_hls/21b493c3f04ecc5a0b0255af9824f41697c88dae/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E6
+https://fr3.seedr.cc/media/video/hd_hls/88bd086715a5331629cb4d0bd8f8ce37bc507fc6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E7
+https://fr3.seedr.cc/media/video/hd_hls/bf41f14effb53d5eb2b5c6f8e58bf0e152aebb0e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E8
+https://fr3.seedr.cc/media/video/hd_hls/ba96d37d291d59fc860403a5b35f97b35361b4fe/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Outer Banks S1-E1
 https://fr10.seedr.cc/media/video/hd_hls/225c06afa13f913873c0245e726f5216aec1dbda/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Outer Banks S1-E2
@@ -71,98 +143,66 @@ https://nl32.seedr.cc/media/video/hd_hls/c2b04c6fea809e11fcae446b7d521a08fd5e52e
 https://nl32.seedr.cc/media/video/hd_hls/340598f02a9d74a83af0e30b99cf4048d340ac72/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",The Spy S1-E6
 https://nl32.seedr.cc/media/video/lq_hls/a6f1890e9f292441d54fec6e20a18699b42cfc80/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E1
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E01.FRENCH.LD.HDTV.x264-AUTHORiTY.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E2
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages%20US%20S01E02%20FRENCH%20LD%20HDTV%20XivD-BOROMIR.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E3
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/hostages.us.s01e03.french.hdtv.x264-sriz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E4
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E04.french.hdtv.x264-sriz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E5
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/hostages.us.s01e05.french.hdtv.x264-sriz.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E6
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E06.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E7
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E07.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E8
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E08.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E9
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E09.FRENCH.LD.HDTV.XviD-ASPHiXiAS.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E10
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E10.FRENCH.LD.HDTV.XviD-RNT.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E11
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E11.FRENCH.LD.HDTV.XviD-LORD.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E12
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E12.FRENCH.LD.HDTV.XviD-RNT.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E13
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E13.FRENCH.LD.HDTV.XviD-RNT.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E14
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E14.FRENCH.LD.HDTV.XviD-LORD.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E15
-http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E15.FiNAL.FRENCH.LD.HDTV.XviD-LORD.avi
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E1
-https://nl37.seedr.cc/media/video/hd_hls/1e5506817b2f952b0f67bb1edbab02a9aaafc25e/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E2
-https://nl37.seedr.cc/media/video/hd_hls/206c12f3d0eb1059669590664af1e61766293185/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E3
-https://nl37.seedr.cc/media/video/hd_hls/e880f29721670bef78d23417a8baef0456b3d601/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E4
-https://nl37.seedr.cc/media/video/hd_hls/0139a20a901ed0750bbd2936e45411eecde679da/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E5
-https://nl37.seedr.cc/media/video/lq_hls/c0eb62272fb3f866299402b9980685da060fc7ea/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E6
-https://fr10.seedr.cc/media/video/lq_hls/152c7b4a69ed309eccb8db1a1bbb11e4ceb4599d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E1
-https://nl35.seedr.cc/media/video/lq_hls/90cb207617aa4573c32bd9c0be59e654d1908855/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E2
-https://nl35.seedr.cc/media/video/lq_hls/1ebc24bcff313cd8126c6304081d893ff3250aff/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E3
-https://nl35.seedr.cc/media/video/lq_hls/9d065bd35b217a2640e5e4cedd017d2be89e28a4/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E4
-https://nl35.seedr.cc/media/video/lq_hls/c668b1cfd560550418e7d674fb732b6991d7561c/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E5
-https://nl35.seedr.cc/media/video/lq_hls/0aea30f2131f32c8812a697e52320705f580f1fb/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E6
-https://nl35.seedr.cc/media/video/lq_hls/e0f1fd00b1b54de0a5f9a6ac031448f77c9dd2b9/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E7
-https://nl35.seedr.cc/media/video/lq_hls/426d3af96f7305085c4fdf193666e52ec6fbf1de/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E1
-https://fr3.seedr.cc/media/video/lq_hls/d65b74381cf0d402d0e2cdce98df2c85a7fe03ed/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E2
-https://fr3.seedr.cc/media/video/lq_hls/15eaf46f673c04734f51df6332f8107c37163fc0/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E3
-https://fr3.seedr.cc/media/video/lq_hls/571b28e91b1c91a1de25fdc86915698e346af2f0/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E4
-https://fr3.seedr.cc/media/video/lq_hls/5f70d53e89c9d443e919f7f2d576c26b0aa08cf6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E5
-https://fr3.seedr.cc/media/video/lq_hls/10de079b0d41287fd71099f44bfa2b1dae0ca5ac/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E6
-https://fr3.seedr.cc/media/video/lq_hls/ec0b684f7146d1b3b16477cf4ee0e0bfbea381ed/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E7
-https://fr3.seedr.cc/media/video/lq_hls/75ab5f2e9e8547524f6657a8379258d44ddf3adf/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E8
-https://fr3.seedr.cc/media/video/lq_hls/1b989f248a67c2c183411cd509cdb240a44e58a5/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E9
-https://fr3.seedr.cc/media/video/lq_hls/b351ff384caabe259152c100c08ab0ba874f00d3/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E10
-https://fr3.seedr.cc/media/video/lq_hls/4ad1a155e3c831b8e2d405e6fbff860f33c0b47c/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E1
-https://fr3.seedr.cc/media/video/hd_hls/5c6b86776eebe71bfe7c6dbf396a376c1c43c14d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E2
-https://fr3.seedr.cc/media/video/hd_hls/1415c072fd9fa629e6dba69de02c73904ea70cbe/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E3
-https://fr3.seedr.cc/media/video/hd_hls/5a84419c5fec7c986e16de75143c6e7b5714ff14/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E4
-https://fr3.seedr.cc/media/video/hd_hls/6f36d6a77234bee908e159ba3334c2c0f62fc9be/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E5
-https://fr3.seedr.cc/media/video/hd_hls/21b493c3f04ecc5a0b0255af9824f41697c88dae/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E6
-https://fr3.seedr.cc/media/video/hd_hls/88bd086715a5331629cb4d0bd8f8ce37bc507fc6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E7
-https://fr3.seedr.cc/media/video/hd_hls/bf41f14effb53d5eb2b5c6f8e58bf0e152aebb0e/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E8
-https://fr3.seedr.cc/media/video/hd_hls/ba96d37d291d59fc860403a5b35f97b35361b4fe/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E1
+https://nl24.seedr.cc/media/video/hd_hls/06461e8974ab04b966ab6b7b4e27530058ee3669/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E2
+https://nl24.seedr.cc/media/video/hd_hls/615674f7a8a4e704445267866324e632a4b532ec/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E3
+https://nl24.seedr.cc/media/video/hd_hls/36dc4932fce874f3a276494f20c09242781eb9c0/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E4
+https://nl24.seedr.cc/media/video/hd_hls/9e0eaeae1860600ad1319e90250b97bf7bf2b046/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E5
+https://nl24.seedr.cc/media/video/hd_hls/568241a15e98a1ff4608b8f302df79c90f0d8b21/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E6
+https://nl24.seedr.cc/media/video/hd_hls/96ee3ef90cc254262ef97d8c89f2bebebcbb616b/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E7
+https://nl24.seedr.cc/media/video/hd_hls/701814f3080f530a8795e1a7849a6c2954bf9095/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E8
+https://nl24.seedr.cc/media/video/hd_hls/97b2e6e1095d722bd795dd730cfe67ab39a3e0c9/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E9
+https://nl24.seedr.cc/media/video/hd_hls/c477a8567cfc406668476f3047b9c762c70c5b28/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S1-E10
+https://nl24.seedr.cc/media/video/hd_hls/2399ca4f26880c552a4729e35f21362e577687de/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E1
+https://nl24.seedr.cc/media/video/hd_hls/2ae6950a877368abe117b89beb546beec813358f/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E2
+https://nl24.seedr.cc/media/video/hd_hls/7f3556fcd7d1ee573a7d3c1642cfdc8f831e5887/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E3
+https://nl24.seedr.cc/media/video/hd_hls/09e7ad16d848830fb0d614330baeea12758d19cc/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E4
+https://nl24.seedr.cc/media/video/hd_hls/062cb2e2a36a91c8aabc7202ce0c18eb64f1828c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E5
+https://nl24.seedr.cc/media/video/hd_hls/3950ed99eb39c52c591f32a624aead311b082a67/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E6
+https://nl24.seedr.cc/media/video/lq_hls/e0a0d51dc69c71a17abdda7fcba49055cd2a2556/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E7
+https://nl24.seedr.cc/media/video/hd_hls/b97ba065ca95a8cfea1dc50767f96594c0ee309d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E8
+https://nl24.seedr.cc/media/video/hd_hls/1ad931b7e4973852f694087867d3f192819ee1a6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E9
+https://nl24.seedr.cc/media/video/hd_hls/62c37b89abbdeb232d685a2ce112e98ea98debcd/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Trinkets S2-E10
+https://nl24.seedr.cc/media/video/hd_hls/248d8b650ac06f5a805713ba7fee96be00be93d5/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E1
+https://fr8.seedr.cc/media/video/hd_hls/e75cd51b1d298b8c085a98f6a042ce4929e9e548/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E2
+https://fr8.seedr.cc/media/video/hd_hls/28e2b652f48131c5feb68df4a32ebb97358a224f/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E3
+https://fr8.seedr.cc/media/video/hd_hls/148ec2317a4cd0bd5fa4fbb4cf5a955182853cb9/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E4
+https://fr8.seedr.cc/media/video/hd_hls/d3d84d01299b424bf23f4a4a96977249066576c2/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E5
+https://fr8.seedr.cc/media/video/hd_hls/085016077612ed4e4365562c6693b4bbe779282c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E6
+https://fr8.seedr.cc/media/video/hd_hls/7cc37c0de14515675d210dd3afc0ff26e8c59754/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E7
+https://fr8.seedr.cc/media/video/hd_hls/203acd35149f8e07e9efbe4a9a443a0013a6ea68/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E8
+https://fr8.seedr.cc/media/video/hd_hls/b8125f457940ad2907c0149c1fcd91d870df4a79/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E9
+https://fr8.seedr.cc/media/video/hd_hls/7949a8414fb1a407352e06bd5786975e8e7b7d56/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",You S2-E10
+https://fr8.seedr.cc/media/video/hd_hls/e34742f19e7c844c4f645503bc082ea434f62821/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",365 jours
 https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",After Chapitre 2
