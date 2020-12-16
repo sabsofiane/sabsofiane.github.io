@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="16/12/2020" tvg-logo="Chaine3.jpg" group-title="Exportation",L'invité Ali Bey Nassri
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/cf369d3c-8ab0-4fcd-a88f-56192d7675c9.mp3
 #EXTINF:-1 tvg-id="" tvg-name="15/12/2020" tvg-logo="Chaine3.jpg" group-title="Enseignement",L'invité Boualem Saidani
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/e4304b86-db64-4f0a-a570-fc4fb93bde67.mp3
 #EXTINF:-1 tvg-id="" tvg-name="14/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Djillali Sofiane
