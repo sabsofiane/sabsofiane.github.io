@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E1
+https://fr14.seedr.cc/media/video/hd_hls/49b40cb2b5e15d102e2dca887d8facc96be4cde1/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E2
+https://fr14.seedr.cc/media/video/hd_hls/8183adb58bb7252e581b4362d29b7e39daa4ccd4/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E3
+https://fr14.seedr.cc/media/video/hd_hls/13129583da6447d2920db66c0cd9671a0077433a/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E4
+https://fr14.seedr.cc/media/video/hd_hls/329c4d18f6318503a41436ea5e219520ff47f941/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E5
+https://fr14.seedr.cc/media/video/lq_hls/d2e6916c654e8bd3ae4752db7a0230d37876efa6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E6
+https://fr14.seedr.cc/media/video/lq_hls/faf9f7ee637ea8193cf9e4f75309d5daada5f588/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E7
+https://fr14.seedr.cc/media/video/hd_hls/f03463b8ef48776dc3adbc6620d20f779cdfcc06/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E8
+https://fr14.seedr.cc/media/video/hd_hls/d19aa25ff2f89318c8aae6fb33f4ffac7387fb4d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E9
+https://fr14.seedr.cc/media/video/hd_hls/1e89567126fe08699b21e5bb2f477be3fd8c2a90/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E10
+https://fr14.seedr.cc/media/video/hd_hls/48d5855ce0c44e70a7eb6f9815474f142ac9b212/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E1
 https://nl37.seedr.cc/media/video/hd_hls/1e5506817b2f952b0f67bb1edbab02a9aaafc25e/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Biohackers S1-E2
@@ -45,6 +65,22 @@ https://fr3.seedr.cc/media/video/lq_hls/1b989f248a67c2c183411cd509cdb240a44e58a5
 https://fr3.seedr.cc/media/video/lq_hls/b351ff384caabe259152c100c08ab0ba874f00d3/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E10
 https://fr3.seedr.cc/media/video/lq_hls/4ad1a155e3c831b8e2d405e6fbff860f33c0b47c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E1
+https://nl19.seedr.cc/media/video/hd_hls/82919da36e57fd0674e24bd0cd2af6e0718862da/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E2
+https://nl19.seedr.cc/media/video/hd_hls/dc473c1fedb3fed5bb9ba56db7db5c587421f64a/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E3
+https://nl19.seedr.cc/media/video/hd_hls/0085f4cb7abca65fef2159e81eda8039c56866d0/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E4
+https://nl19.seedr.cc/media/video/hd_hls/2d70afb9efc9ecaa6016d21b2c5e4872cbdcdf2f/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E5
+https://nl19.seedr.cc/media/video/hd_hls/b649abb701bc4b2eef28971fd4e87fbf44961757/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E6
+https://nl19.seedr.cc/media/video/hd_hls/38d47bd740d77f8841871c523fbbfa3040850c31/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E7
+https://nl19.seedr.cc/media/video/hd_hls/7d69c21d82915401df942e0437c45bb4d283bb04/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Freud S1-E8
+https://nl19.seedr.cc/media/video/hd_hls/3d75c1e261535cecbf31915a30790f7b90418da9/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E1
 http://w.sylviethiriez.com/Downloads/series/Hostages%20US/Hostages.US.S01E01.FRENCH.LD.HDTV.x264-AUTHORiTY.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Hostages US S1-E2
@@ -111,6 +147,22 @@ https://fr10.seedr.cc/media/video/hd_hls/645716ca2888b8cba87c9300f88615f787b9913
 https://fr10.seedr.cc/media/video/hd_hls/69a38c31c5657a0300664d5804318043dab8d097/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Outer Banks S1-E10
 https://fr10.seedr.cc/media/video/hd_hls/eb65b79c320807c90c825e1006a514b208c95c2c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E3
+https://nl24.seedr.cc/media/video/lq_hls/bf7a10c7b2d93b98bdfc400f73b54ec820d2b1d1/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E4
+https://nl24.seedr.cc/media/video/lq_hls/62736a655a421c8f7ec1bc92b03bd76ca503c521/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E5
+https://nl24.seedr.cc/media/video/hd_hls/a1eb9d7d5f9d06eac8e81d06937afd38c443b5ff/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E6
+https://nl24.seedr.cc/media/video/hd_hls/7dafea7017a1989789ec2232e576ee2e0902eadc/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E7
+https://nl24.seedr.cc/media/video/hd_hls/c1cb7c54bc3de6f6e89e839c055dae843bb1ba89/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E8
+https://nl24.seedr.cc/media/video/hd_hls/bcbe58d5f044c9b5aebb83d711449748214942e7/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E9
+https://nl24.seedr.cc/media/video/hd_hls/76ef45c5787ec6b5cebb54c3c478067b0acfedb2/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Snowpiercer S1-E10
+https://nl24.seedr.cc/media/video/hd_hls/b6414f06e91ef973b35f0131877126f6f8db0858/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Space Force S1-E1
 https://nl19.seedr.cc/media/video/lq_hls/48205cd6ba913bb40aa331fb932b7876e3714ae8/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Space Force S1-E2
