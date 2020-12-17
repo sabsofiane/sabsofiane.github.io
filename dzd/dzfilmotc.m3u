@@ -503,6 +503,10 @@ https://fr2.seedr.cc/media/video/lq_hls/128370ce2d13090a6fe00ff78a36a997b117f43d
 https://nl36.seedr.cc/media/video/hd_hls/730b00462000ffb810de4af706e7f740a9bc9ea1/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Project Power
 https://nl34.seedr.cc/media/video/hd_hls/1cd7a5dd63b861e8671720cbe20901b68a8d8cd6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Seul au monde
+https://nl24.seedr.cc/media/video/hd_hls/0e88231c4e0baf3fe254a841529e9b38365217d3/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Seul contre tous
+https://nl17.seedr.cc/media/play_hls/a620dcda4f156847202c55c423e1b5f8f88d1da2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Terminator 1
 https://nl22.seedr.cc/media/video/hd_hls/83fa1233ba813881a53cba9c3bdb76b9d9a0b09e/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Terminator 2
@@ -539,3 +543,11 @@ https://fr2.seedr.cc/media/video/hd_hls/b8cbeb31b39b5855ae835608ca784e6a07704005
 https://nl22.seedr.cc/media/video/hd_hls/c0b7a5a73a91906ddb69570f163bf7ce5587b951/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Siberia
 https://fr7.seedr.cc/media/video/hd_hls/c159f0fe9ed528166609ea8b8922a12c78d217a8/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wolverine
+https://load.hdfilme.ws/playlist/57a25ee3dbb208dd37be13aaf7d29a94/57a25ee3dbb208dd37be13aaf7d29a94.m3u8|Referer=https://fcine.tv/wolverine-le-combat-de-limmortel-1351-streaming/vf
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wonder Woman
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Wonder+Woman+streaming+vf+%E2%80%94+Streamay.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",X-Men Dark Phoenix
+https://de13.seedr.cc/media/video/hd_hls/85364d493363581d9363cbdd5a1a99838f5bc46c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",X-Men - Les mutants
+https://fr5.seedr.cc/media/video/lq_hls/a1e378d75722e960a90f04f5fe498bb2750a5ee9/vid.m3u8
