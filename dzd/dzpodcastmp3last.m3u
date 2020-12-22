@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="22/12/2020" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Mohamed Yousfi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/a30eb583-e258-45da-ab65-56cef33e26b8.mp3
 #EXTINF:-1 tvg-id="" tvg-name="21/12/2020" tvg-logo="Chaine3.jpg" group-title="Energie",L'invité Chams Chitour
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/f4feb779-5fce-4fa1-bd29-f684536e8308.mp3
 #EXTINF:-1 tvg-id="" tvg-name="20/12/2020" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Brahim Merrad
