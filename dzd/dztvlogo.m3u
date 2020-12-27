@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk TV
-http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/46
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk News
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/47
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk TV
+http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/46
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Enahar TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/42
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV1
