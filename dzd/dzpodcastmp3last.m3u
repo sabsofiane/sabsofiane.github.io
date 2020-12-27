@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="28/12/2020" tvg-logo="Chaine3.jpg" group-title="Digitalisation",L'invité Chams Bezzitouni
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4fb4d199-9d26-434a-8a83-adf61c46efaf.mp3
 #EXTINF:-1 tvg-id="" tvg-name="24/12/2020" tvg-logo="Chaine3.jpg" group-title="Sahara",L'invité Mohamed Sidati
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/18c4512f-bfa7-47fd-ad9a-acb5d4d8edea.mp3
 #EXTINF:-1 tvg-id="" tvg-name="23/12/2020" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Salah Sahraoui
