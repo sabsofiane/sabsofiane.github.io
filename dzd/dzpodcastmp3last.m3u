@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="29/12/2020" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Hamid Hamdani
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/10d53a56-2c01-420b-a730-1f921297f9e0.mp3
 #EXTINF:-1 tvg-id="" tvg-name="28/12/2020" tvg-logo="Chaine3.jpg" group-title="Vaccination",L'invité Kamel Djenouhat
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/6e0b4c95-ac82-43ac-a865-6355a1c89a08.mp3
 #EXTINF:-1 tvg-id="" tvg-name="27/12/2020" tvg-logo="Chaine3.jpg" group-title="Jeunesse",L'invité Chams Bezzitouni

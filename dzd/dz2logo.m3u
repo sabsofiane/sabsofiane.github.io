@@ -115,16 +115,6 @@ http://91.121.59.45:8280/stream
 http://stream.radios-arra.fr:8000/fmplus
 #EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rplradio.png" group-title="",RPL Radio
 http://listen.radioking.com/radio/2966/stream/63127
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",Swigg 93
-https://swigg-93.ice.infomaniak.ch/swigg-93.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",Swigg FR
-https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",Swigg Marseille
-https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",Swigg US
-https://swigg-us.ice.infomaniak.ch/swigg-us.mp3
-#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="swigg.jpg" group-title="",Swigg Work
-https://swigg-work.ice.infomaniak.ch/swigg-work.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="blackbox.png" group-title="",BlackBox
 https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kissfm-logo.jpg" group-title="",Kiss FM
@@ -215,3 +205,17 @@ https://listen.radioking.com/radio/4952/stream/13217
 https://www.radioking.com/play/top-tonic-france
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="pmPiiwE.jpg" group-title="",RJM Pop
 https://listen.radioking.com/radio/75868/stream/113899
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="r7IdnFY.png" group-title="",LATINA @WORK
+https://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="N1Dpw5x.png" group-title="",LATINA BACHATA
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="HgDoLtJ.png" group-title="",LATINA KIZOMBA
+https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="xqSzHHw.png" group-title="",LATINA LOVE
+https://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Smb5hza.png" group-title="",LATINA REGGAETON 
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="HMzbHFV.png" group-title="",LATINA SALSA
+https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="156sb8h.png" group-title="",LATINA FIESTA 
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
