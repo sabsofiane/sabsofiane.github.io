@@ -119,6 +119,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/kto-14366337/hls/index.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/LuckyJack_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",LUXE.TV
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/luxetv-14366338/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Gulli
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Boing
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Game One
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/GameOne_live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Game One Plus
@@ -137,3 +141,5 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/live/Toute_l_Histoire_live/04.m3u
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/teva-37149/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",TV Breizh
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tvbreizh-27323/hls/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",RTL 9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
