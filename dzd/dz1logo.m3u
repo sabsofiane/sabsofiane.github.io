@@ -21,6 +21,10 @@ https://rai.ice.infomaniak.ch/rai-32.aac
 http://culture.ice.infomaniak.ch/culture.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiocoran.jpg" group-title="",Radio Coran
 http://coran.ice.infomaniak.ch/coran.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jilfmmusic.jpg" group-title="",Jil FM Music
+http://jil-fm_music.ice.infomaniak.ch/jil-fmmusic-32.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jilmfmweb.jpg" group-title="",Jil FM Web
+http://jil-fm_wr.ice.infomaniak.ch/jil-fmwr-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ElBahdja.png" group-title="",Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Radio Blida
