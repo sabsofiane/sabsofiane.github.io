@@ -7,8 +7,6 @@ https://topradio.ice.infomaniak.ch/topradio.aac
 http://188.165.242.25:8560/stream?s=1404553850
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jilfm.jpg" group-title="",Jil FM
 http://jil-fm.ice.infomaniak.ch/jilfm.aac
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="skyrockalger.png" group-title="",Skyrock Alger
-https://icecast.skyrock.net/s/alger_aac_64k
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Chaine1.png" group-title="",Alger Chaine 1
 http://ch1.ice.infomaniak.ch/ch1-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Chaine2.png" group-title="",Alger Chaine 2
@@ -25,6 +23,8 @@ http://coran.ice.infomaniak.ch/coran.aac
 http://jil-fm_music.ice.infomaniak.ch/jil-fmmusic-32.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jilmfmweb.jpg" group-title="",Jil FM Web
 http://jil-fm_wr.ice.infomaniak.ch/jil-fmwr-32.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="skyrockalger.png" group-title="",Skyrock Alger
+https://icecast.skyrock.net/s/alger_aac_64k
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ElBahdja.png" group-title="",Radio El Bahdja
 http://elbahdja.ice.infomaniak.ch/elbahdja-64.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Radio Blida
