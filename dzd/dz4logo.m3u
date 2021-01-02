@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="88.3" tvg-logo="CKIA-martiens.png" group-title="",Québec (CKIA)
+http://ecoutez.ckiafm.org:8000/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.1" tvg-logo="CKRL_Horizontal.png" group-title="",Québec (CKRL)
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.3" tvg-logo="logosism.png" group-title="",Montréal (CISM)
+http://stream03.ustream.ca/cism128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="logo_citkfm1.jpg" group-title="",Québec (CITK)
+http://stream.zoneplus.ca:9978/;audio.mp3
 #EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="logo-medium.jpg" group-title="",Québec (CION)
 http://radiogalilee.com:8000/cionfm.mp3
 #EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="Bqmd9Ak.png" group-title="",Montréal (CKLX-FM)
