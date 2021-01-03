@@ -4,7 +4,7 @@ http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/47
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/46
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Enahar TV
-http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/42
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV1
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/60
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV2
@@ -15,6 +15,8 @@ http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/49
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/45
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV5
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/27
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV6
+http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/57
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Djazaira One
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/31
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Elbilad TV
@@ -41,7 +43,5 @@ http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/37
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/32
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Nessma TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/33
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Dzair Jannah
-http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/57
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",National Geo AD
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/30
