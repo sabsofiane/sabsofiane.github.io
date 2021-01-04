@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="04/01/2021" tvg-logo="Chaine3.jpg" group-title="Medical",L'invité Rachid Belhadj 
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/9cc0890c-989f-48cf-b95e-18511c617201.mp3
 #EXTINF:-1 tvg-id="" tvg-name="03/01/2021" tvg-logo="Chaine3.jpg" group-title="Prospective",L'invité Mohamed Belmihoub
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4d0a7b0a-993d-4543-b74e-3bd853aeec4a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="31/12/2020" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Mahfoud Kaoubi
