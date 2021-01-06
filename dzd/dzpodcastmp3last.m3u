@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="06/01/2021" tvg-logo="Chaine3.jpg" group-title="Science",L'invité Hafid Aourague
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4e1ff6e2-4765-45f1-9ee3-61810bfdd88f.mp3
 #EXTINF:-1 tvg-id="" tvg-name="05/01/2021" tvg-logo="Chaine3.jpg" group-title="Mines",L'invité Mohamed Arkab
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4c8fe0a9-e51f-4e09-87ab-fdf79adc95f6.mp3
 #EXTINF:-1 tvg-id="" tvg-name="04/01/2021" tvg-logo="Chaine3.jpg" group-title="Medical",L'invité Rachid Belhadj 
