@@ -23,6 +23,8 @@ http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/31
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/48
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Al Anis TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/29
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Berbere TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/40
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Beur TV
