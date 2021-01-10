@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="10/01/2021" tvg-logo="Chaine3.jpg" group-title="Pêche",L'invité Ahmed Ferroukhi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/797d1d91-0ce7-4b3c-a6a3-2fc3fb1cf5fe.mp3
 #EXTINF:-1 tvg-id="" tvg-name="07/01/2021" tvg-logo="Chaine3.jpg" group-title="CIPA",L'invité Abdelwaheb Ziani
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/0d5691f1-8df8-44a5-bea6-33c2ca454c85.mp3
 #EXTINF:-1 tvg-id="" tvg-name="06/01/2021" tvg-logo="Chaine3.jpg" group-title="Science",L'invité Hafid Aourague
