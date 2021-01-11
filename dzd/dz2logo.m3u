@@ -261,3 +261,13 @@ https://radiofg.impek.com/max1.mp3
 https://radiofg.impek.com/max2.mp3
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="zNQ9iic.png" group-title="",RadioFG SnowParty
 http://radiofg.impek.com/fg14.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_logoVirageRadio.png" group-title="",Virage
+http://virageradio.ice.infomaniak.ch/virageradio-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-radio-rock-90_small.png" group-title="",Virage Rock 90 
+http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-logos-webradios-popradio-77913.png" group-title="",Virage Pop
+http://virage-pop-radio.ice.infomaniak.ch/virage-pop-radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-logos-webradios-electro.png" group-title="",Virage Electro
+http://virage-electro-rock.ice.infomaniak.ch/virage-electro-rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-radio-musique-de-pub_small.png" group-title="",Virage Musique De Pub
+http://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3
