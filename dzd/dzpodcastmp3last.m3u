@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="13/01/2021" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Adel Bensaci
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/f221700f-cd98-46bc-97c0-d3fcef7dff2a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="11/01/2021" tvg-logo="Chaine3.jpg" group-title="Vaccination",L'invité Djamel Fourar
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/6a861b1b-8ecc-4992-9e22-e78e290a6864.mp3
 #EXTINF:-1 tvg-id="" tvg-name="10/01/2021" tvg-logo="Chaine3.jpg" group-title="Pêche",L'invité Ahmed Ferroukhi
