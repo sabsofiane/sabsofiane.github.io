@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="19/01/2021" tvg-logo="Chaine3.jpg" group-title="Metro",L'invité Ali Arezki
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/92845c89-b1ef-416b-a09a-f33edebb376a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="18/01/2021" tvg-logo="Chaine3.jpg" group-title="Bourse",L'invité Yazid Belmouhoub
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/8b7d0604-78ae-48b4-9d9c-00eac20640b9.mp3
 #EXTINF:-1 tvg-id="" tvg-name="17/01/2021" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Lyes Merabet

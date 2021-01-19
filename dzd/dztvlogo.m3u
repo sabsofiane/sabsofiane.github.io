@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Enahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk News
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/47
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Echorouk TV
 http://62.171.175.99:25461/pFgkGNRPy5/t3Dqth81Zv/46
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Enahar TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV1
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/60
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Algerie TV2
