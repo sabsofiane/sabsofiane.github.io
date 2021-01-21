@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="21/01/2021" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Mhand Barkouk
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/e9e96d02-dcea-4913-a262-c2f34b9175dc.mp3
 #EXTINF:-1 tvg-id="" tvg-name="20/01/2021" tvg-logo="Chaine3.jpg" group-title="Covid",L'invité Ryad Mahyaoui
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/739601cb-6897-4a6d-a675-071c71e16978.mp3
 #EXTINF:-1 tvg-id="" tvg-name="19/01/2021" tvg-logo="Chaine3.jpg" group-title="Metro",L'invité Ali Arezki
