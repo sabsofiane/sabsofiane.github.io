@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E1
+https://fr7.seedr.cc/media/video/hd_hls/ee1121a6a0236bd1a18b21c4fe8d46b304707136/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E2
+https://fr7.seedr.cc/media/video/hd_hls/78bb34e91072d6b16689f0ba42ba1eec21382298/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E3
+https://fr7.seedr.cc/media/video/hd_hls/5c5aa19babf39ec2bea4a24702f020dfb066f66d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E4
+https://fr7.seedr.cc/media/video/hd_hls/f738b8c4527519dbe60e55ca2cf09352188fdc48/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E5
+https://fr7.seedr.cc/media/video/hd_hls/9c4f47319eba1dab81358576d2acce2a0347128f/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E6
+https://fr7.seedr.cc/media/video/hd_hls/4b537eeeebd8ea2010618bda43c1599a3332964c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E7
+https://fr7.seedr.cc/media/video/hd_hls/f7ce6eb62962c7d5307dc9c37fb56d9d65c468de/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E8
+https://fr7.seedr.cc/media/video/hd_hls/f6fce4b3b086b33dded42fb1dc85c33b50eca9fd/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E1
+https://nl19.seedr.cc/media/video/lq_hls/1c763ceb87fc2445c285786f48652081b7b48f6d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E2
+https://nl19.seedr.cc/media/video/lq_hls/49eff203b02c45f30dbe993eaec0bd9d8832a8d6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E3
+https://nl19.seedr.cc/media/video/hd_hls/f0dd52e89b01ebb92993da5e9bd5a27894dff9be/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E4
+https://nl19.seedr.cc/media/video/hd_hls/08ab0f788fde7ceb511a00bdda1db46d77b58fa6/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E5
+https://nl19.seedr.cc/media/video/hd_hls/19b14dc8ff6aaf6cec7a631adc9f97415b390689/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E6
+https://nl19.seedr.cc/media/video/hd_hls/3469cd9c952a6f7c142cbf5aacc67de932ce839d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E7
+https://nl19.seedr.cc/media/video/hd_hls/3469cd9c952a6f7c142cbf5aacc67de932ce839d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E8
+https://nl19.seedr.cc/media/video/hd_hls/bb0b2a429cfeb700dde36d8888f06aaeee6fcd48/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E9
+https://nl19.seedr.cc/media/video/hd_hls/edb33a3703019dac363ae79681a981094e92741e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E10
+https://nl19.seedr.cc/media/video/hd_hls/310f165d6d096409d9424beca262ae805d9f537e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E1
+https://nl26.seedr.cc/media/video/hd_hls/8331f79481c140f8e401bd4607b32248eebca21e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E2
+https://nl26.seedr.cc/media/video/hd_hls/dc3a03725c994ca5589c252fbc412781be9cbd4d/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E3
+https://nl26.seedr.cc/media/video/hd_hls/cc2d4fda52f2a7f4a0549a8ce2ec801e53a44845/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E4
+https://nl26.seedr.cc/media/video/hd_hls/d0dc0d62e7d76753e330dbcee4ff6c6e0a9dc70e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E5
+https://nl26.seedr.cc/media/video/hd_hls/f0c04dfaeaca037f3c6bfef58f6b189970f19d0c/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E6
+https://nl26.seedr.cc/media/video/lq_hls/d704f36230aa60230e5c7d5f71c368a88fa6357e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E7
+https://nl26.seedr.cc/media/video/hd_hls/fd29e98f2ae82d63b1897f44b3a83eaa82016cb4/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E8
+https://nl26.seedr.cc/media/video/hd_hls/fd29e98f2ae82d63b1897f44b3a83eaa82016cb4/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E9
+https://nl26.seedr.cc/media/video/hd_hls/5e8f856aa53178f5083ed5e7058954ac78b38a33/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E10
+https://nl26.seedr.cc/media/video/hd_hls/d543eab5d25031bbd56797d40d0ba8b798d22d2b/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E1
 https://fr14.seedr.cc/media/video/hd_hls/49b40cb2b5e15d102e2dca887d8facc96be4cde1/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Away S1-E2
@@ -45,26 +101,6 @@ https://nl35.seedr.cc/media/video/lq_hls/0aea30f2131f32c8812a697e52320705f580f1f
 https://nl35.seedr.cc/media/video/lq_hls/e0f1fd00b1b54de0a5f9a6ac031448f77c9dd2b9/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E7
 https://nl35.seedr.cc/media/video/lq_hls/426d3af96f7305085c4fdf193666e52ec6fbf1de/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E1
-https://fr3.seedr.cc/media/video/lq_hls/d65b74381cf0d402d0e2cdce98df2c85a7fe03ed/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E2
-https://fr3.seedr.cc/media/video/lq_hls/15eaf46f673c04734f51df6332f8107c37163fc0/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E3
-https://fr3.seedr.cc/media/video/lq_hls/571b28e91b1c91a1de25fdc86915698e346af2f0/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E4
-https://fr3.seedr.cc/media/video/lq_hls/5f70d53e89c9d443e919f7f2d576c26b0aa08cf6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E5
-https://fr3.seedr.cc/media/video/lq_hls/10de079b0d41287fd71099f44bfa2b1dae0ca5ac/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E6
-https://fr3.seedr.cc/media/video/lq_hls/ec0b684f7146d1b3b16477cf4ee0e0bfbea381ed/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E7
-https://fr3.seedr.cc/media/video/lq_hls/75ab5f2e9e8547524f6657a8379258d44ddf3adf/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E8
-https://fr3.seedr.cc/media/video/lq_hls/1b989f248a67c2c183411cd509cdb240a44e58a5/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E9
-https://fr3.seedr.cc/media/video/lq_hls/b351ff384caabe259152c100c08ab0ba874f00d3/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Devils S1-E10
-https://fr3.seedr.cc/media/video/lq_hls/4ad1a155e3c831b8e2d405e6fbff860f33c0b47c/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E1
 https://fr3.seedr.cc/media/video/hd_hls/5c6b86776eebe71bfe7c6dbf396a376c1c43c14d/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E2
@@ -267,8 +303,6 @@ https://nl24.seedr.cc/media/video/lq_hls/e32dad234ecb7bb3c68911b48914e3780e98f20
 https://fr13.seedr.cc/media/video/hd_hls/7bdd1bfeb08918013d144733c3bb977bc574f123/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Bond - Spectre
 https://de11.seedr.cc/media/video/hd_hls/9c2bfa3cad6c53a1375059241b32ae7ca9e06d45/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Bond - Skyfall
-https://fr1.seedr.cc/media/video/lq_hls/b1d617a8b77efc89470bb125dfb687c03b368f6c/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Contagion
 https://nl23.seedr.cc/media/video/lq_hls/2d9405d960f0cd448838f926dd7749639ef2a37f/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Coup de foudre garanti
