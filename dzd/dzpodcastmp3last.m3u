@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="25/01/2021" tvg-logo="Chaine3.jpg" group-title="CNES",L'invité Reda Tir
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/7502d1fb-cc58-4476-ac45-ef1ce7e46234.mp3
 #EXTINF:-1 tvg-id="" tvg-name="24/01/2021" tvg-logo="Chaine3.jpg" group-title="Education",L'invité Abdelbaki Benziane
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4bf189b9-84ee-41c3-9bf6-92c4d01e94a8.mp3
 #EXTINF:-1 tvg-id="" tvg-name="21/01/2021" tvg-logo="Chaine3.jpg" group-title="Politique",L'invité Mhand Barkouk
