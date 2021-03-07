@@ -1,27 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="88.3" tvg-logo="CKIA-martiens.png" group-title="",Québec (CKIA)
+#EXTINF:-1 tvg-id="" tvg-name="88.3" tvg-logo="CKIA-martiens.png" group-title="",Québec CKIA
 http://ecoutez.ckiafm.org:8000/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.1" tvg-logo="CKRL_Horizontal.png" group-title="",Québec (CKRL)
+#EXTINF:-1 tvg-id="" tvg-name="89.1" tvg-logo="CKRL_Horizontal.png" group-title="",Québec CKRL
 http://stream02.ustream.ca:8000/ckrl128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.3" tvg-logo="logosism.png" group-title="",Montréal (CISM)
+#EXTINF:-1 tvg-id="" tvg-name="89.3" tvg-logo="logosism.png" group-title="",Montréal CISM
 http://stream03.ustream.ca/cism128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="logo_citkfm1.jpg" group-title="",Québec (CITK)
+#EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="logo_citkfm1.jpg" group-title="",Québec CITK
 http://stream.zoneplus.ca:9978/;audio.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="logo-medium.jpg" group-title="",Québec (CION)
+#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="logo-medium.jpg" group-title="",Québec CION
 http://radiogalilee.com:8000/cionfm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="Bqmd9Ak.png" group-title="",Montréal (CKLX-FM)
+#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="Bqmd9Ak.png" group-title="",Montréal CKLX
 https://stream.919sports.ca/cklx.mp3
-#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="lb0sPs0.png" group-title="",Québec (CJEC-FM)
+#EXTINF:-1 tvg-id="" tvg-name="91.9" tvg-logo="lb0sPs0.png" group-title="",Québec CJEC
 http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
-#EXTINF:-1 tvg-id="" tvg-name="96.5" tvg-logo="44dMnwA.png" group-title="",Québec (CFTX-FM)
+#EXTINF:-1 tvg-id="" tvg-name="93.3" tvg-logo="dOpFiF9.png" group-title="",Quebec CJMF
+https://cogecomedia.leanstream.co/cogecomedia/CJMFFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="98.5" tvg-logo="Uhckfhq.png" group-title="",Montreal CHMP
+https://cogecomedia.leanstream.co/cogecomedia/CHMPFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="96.5" tvg-logo="44dMnwA.png" group-title="",Québec CFTX
 https://lb0-stream.radiox981.ca/choi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="97.1" tvg-logo="QvlEEq9.png" group-title="",Québec (CHLX-FM)
+#EXTINF:-1 tvg-id="" tvg-name="97.1" tvg-logo="QvlEEq9.png" group-title="",Québec CHLX
 https://stream.wow971.ca/chlx.aac
-#EXTINF:-1 tvg-id="" tvg-name="98.1" tvg-logo="XZj2VCX.png" group-title="",Québec (CHOI-FM)
+#EXTINF:-1 tvg-id="" tvg-name="98.1" tvg-logo="XZj2VCX.png" group-title="",Québec CHOI
 https://lb0-stream.radiox981.ca/choi.mp3
-#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="olKi6nw.png" group-title="",Québec (CHXX-FM)
+#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="olKi6nw.png" group-title="",Québec CHXX
 https://stream.lavibe.fm/chxx.aac
-#EXTINF:-1 tvg-id="" tvg-name="102.1" tvg-logo="NNoLAfH.png" group-title="",Québec (CFEL-FM)
+#EXTINF:-1 tvg-id="" tvg-name="102.1" tvg-logo="NNoLAfH.png" group-title="",Québec CFEL
 http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
-#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="logo-radio-centre-ville.png" group-title="",Montréal (CINQ)
+#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="logo-radio-centre-ville.png" group-title="",Montréal CINQ
 https://players.rcast.net/stream/65388.mp3
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="4OBAWyU.png" group-title="",Gatineau CKOF
+https://cogecomedia.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="gnbuMAe.png" group-title="",Trois-Rivieres CKOB
+https://cogecomedia.leanstream.co/cogecomedia/CKOBFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="odd6FZa.png" group-title="",Sherbrooke CKOY
+https://cogecomedia.leanstream.co/cogecomedia/CKOYFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="730" tvg-logo="3l3M2eP.png" group-title="",Montreal CKAC
+https://cogecomedia.leanstream.co/cogecomedia/CKACAM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ICI-RDI.png" group-title="",ICI RDI Audio
+https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Ottawa
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Moncton
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Edmonton
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Vancouver
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI MusicRimouski
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Sherbrooke
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Winipeg
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Trois-Rivieres
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Quebec
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Saguenay
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Sudbury
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Musique.png" group-title="",ICI Music Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006991/M-7OTOR0_TOR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ICIMUSICCLA.png" group-title="",ICI Music Classique
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/playlist.m3u8

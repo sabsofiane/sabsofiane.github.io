@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="87.8" tvg-logo="franceinter.png" group-title="",France Inter
-http://direct.franceinter.fr/live/franceculture-midfi.mp3
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="generation.jpg" group-title="",Génération
 http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfiafrique.png" group-title="",RFI Afrique

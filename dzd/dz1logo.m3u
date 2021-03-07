@@ -4,7 +4,7 @@ http://str0.creacast.com/jowradio
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="topradio.png" group-title="",Top Radio
 https://topradio.ice.infomaniak.ch/topradio.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiom.jpg" group-title="",Radio M
-http://188.165.242.25:8560/stream?s=1404553850
+https://radio-dzair.net/proxy/radiom?mp=/stream
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jilfm.jpg" group-title="",Jil FM
 http://jil-fm.ice.infomaniak.ch/jilfm.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Chaine1.png" group-title="",Alger Chaine 1

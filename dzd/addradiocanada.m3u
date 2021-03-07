@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="93.3" tvg-logo="dOpFiF9.png" group-title="",Quebec CJMF
+https://cogecomedia.leanstream.co/cogecomedia/CJMFFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="98.5" tvg-logo="Uhckfhq.png" group-title="",Montreal CHMP
+https://cogecomedia.leanstream.co/cogecomedia/CHMPFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="4OBAWyU.png" group-title="",Gatineau CKOF
+https://cogecomedia.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="106.9" tvg-logo="gnbuMAe.png" group-title="",Trois-Rivieres CKOB
+https://cogecomedia.leanstream.co/cogecomedia/CKOBFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="odd6FZa.png" group-title="",Sherbrooke CKOY
+https://cogecomedia.leanstream.co/cogecomedia/CKOYFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="730" tvg-logo="3l3M2eP.png" group-title="",Montreal CKAC
+https://cogecomedia.leanstream.co/cogecomedia/CKACAM.stream/playlist.m3u8

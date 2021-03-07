@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E1
-https://fr7.seedr.cc/media/video/hd_hls/ee1121a6a0236bd1a18b21c4fe8d46b304707136/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E2
-https://fr7.seedr.cc/media/video/hd_hls/78bb34e91072d6b16689f0ba42ba1eec21382298/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E3
-https://fr7.seedr.cc/media/video/hd_hls/5c5aa19babf39ec2bea4a24702f020dfb066f66d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E4
-https://fr7.seedr.cc/media/video/hd_hls/f738b8c4527519dbe60e55ca2cf09352188fdc48/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E5
-https://fr7.seedr.cc/media/video/hd_hls/9c4f47319eba1dab81358576d2acce2a0347128f/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E6
-https://fr7.seedr.cc/media/video/hd_hls/4b537eeeebd8ea2010618bda43c1599a3332964c/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E7
-https://fr7.seedr.cc/media/video/hd_hls/f7ce6eb62962c7d5307dc9c37fb56d9d65c468de/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S1-E8
-https://fr7.seedr.cc/media/video/hd_hls/f6fce4b3b086b33dded42fb1dc85c33b50eca9fd/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E1
-https://nl19.seedr.cc/media/video/lq_hls/1c763ceb87fc2445c285786f48652081b7b48f6d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E2
-https://nl19.seedr.cc/media/video/lq_hls/49eff203b02c45f30dbe993eaec0bd9d8832a8d6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E3
-https://nl19.seedr.cc/media/video/hd_hls/f0dd52e89b01ebb92993da5e9bd5a27894dff9be/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E4
-https://nl19.seedr.cc/media/video/hd_hls/08ab0f788fde7ceb511a00bdda1db46d77b58fa6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E5
-https://nl19.seedr.cc/media/video/hd_hls/19b14dc8ff6aaf6cec7a631adc9f97415b390689/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E6
-https://nl19.seedr.cc/media/video/hd_hls/3469cd9c952a6f7c142cbf5aacc67de932ce839d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E7
-https://nl19.seedr.cc/media/video/hd_hls/3469cd9c952a6f7c142cbf5aacc67de932ce839d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E8
-https://nl19.seedr.cc/media/video/hd_hls/bb0b2a429cfeb700dde36d8888f06aaeee6fcd48/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E9
-https://nl19.seedr.cc/media/video/hd_hls/edb33a3703019dac363ae79681a981094e92741e/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S2-E10
-https://nl19.seedr.cc/media/video/hd_hls/310f165d6d096409d9424beca262ae805d9f537e/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E1
 https://nl26.seedr.cc/media/video/hd_hls/8331f79481c140f8e401bd4607b32248eebca21e/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Atypical S3-E2
@@ -101,22 +65,26 @@ https://nl35.seedr.cc/media/video/lq_hls/0aea30f2131f32c8812a697e52320705f580f1f
 https://nl35.seedr.cc/media/video/lq_hls/e0f1fd00b1b54de0a5f9a6ac031448f77c9dd2b9/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Curon S1-E7
 https://nl35.seedr.cc/media/video/lq_hls/426d3af96f7305085c4fdf193666e52ec6fbf1de/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E1
-https://fr3.seedr.cc/media/video/hd_hls/5c6b86776eebe71bfe7c6dbf396a376c1c43c14d/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E2
-https://fr3.seedr.cc/media/video/hd_hls/1415c072fd9fa629e6dba69de02c73904ea70cbe/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E3
-https://fr3.seedr.cc/media/video/hd_hls/5a84419c5fec7c986e16de75143c6e7b5714ff14/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E4
-https://fr3.seedr.cc/media/video/hd_hls/6f36d6a77234bee908e159ba3334c2c0f62fc9be/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E5
-https://fr3.seedr.cc/media/video/hd_hls/21b493c3f04ecc5a0b0255af9824f41697c88dae/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E6
-https://fr3.seedr.cc/media/video/hd_hls/88bd086715a5331629cb4d0bd8f8ce37bc507fc6/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E7
-https://fr3.seedr.cc/media/video/hd_hls/bf41f14effb53d5eb2b5c6f8e58bf0e152aebb0e/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",La Faille S1-E8
-https://fr3.seedr.cc/media/video/hd_hls/ba96d37d291d59fc860403a5b35f97b35361b4fe/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E1
+https://fr6.seedr.cc/media/video/hd_hls/bbbbcdbab9d8a9173d669397da617ddf4ae4ebda/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E2
+https://fr6.seedr.cc/media/video/hd_hls/3808531d436f8ac17998ebf3c178b4a1f7cc3208/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E3
+https://fr6.seedr.cc/media/video/hd_hls/d74ed112219d32a0148841f17e4280d714ee31ae/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E4
+https://fr6.seedr.cc/media/video/hd_hls/af8f3a2411edd62fabcba12762b1c343eeecb672/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E5
+https://fr6.seedr.cc/media/video/lq_hls/7b519cd6092512f3e2c7e92625dfda6499e6e1b1/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E6
+https://fr6.seedr.cc/media/video/lq_hls/688d47dc6d2f8d857cecf6f932ed57c1f772928e/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E7
+https://fr6.seedr.cc/media/video/lq_hls/c68444827c3e78d244b6555d1378b488c784ac34/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E8
+https://fr6.seedr.cc/media/video/hd_hls/85f7aaa282c74d02e4c06514869c3ae2d666c5be/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E9
+https://fr6.seedr.cc/media/video/hd_hls/85f7aaa282c74d02e4c06514869c3ae2d666c5be/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Les Emmerdeurs S1-E10
+https://fr6.seedr.cc/media/video/lq_hls/f865b6348cf7ca1aa1a16bd08435666d846abd41/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Outer Banks S1-E1
 https://fr10.seedr.cc/media/video/hd_hls/225c06afa13f913873c0245e726f5216aec1dbda/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Outer Banks S1-E2
@@ -237,14 +205,32 @@ https://fr14.seedr.cc/media/video/lq_hls/807cfda1ca3389f6ed768c17bfbff65589b5456
 https://fr14.seedr.cc/media/video/lq_hls/e4f822165d901242af00b89687bc21a02de6da60/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Valeria S1-E8
 https://fr14.seedr.cc/media/video/lq_hls/e2974c9f5b9d49a4c417f446d9b651eb31c33881/vid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E1
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E1+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E2
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E2+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E3
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E3+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E4
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E4+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E5
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E4+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E6
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E6+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E7
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E7+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E8
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E8+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E9
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E9+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Wisting S1-E10
+https://stackspeed.andirek.tv/file/stackspeed-fldot-andirek-fldot-tv/movies/Series/Wisting/Saison+1/Voir+la+s%C3%A9rie+Wisting+S1+E10+en+streaming+VF+et+VOSTFR%2C+SerieStream.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",365 jours
 https://fr13.seedr.cc/media/video/hd_hls/a57541119e8be6f5f52b2ae7b3f00e8a9e18f53c/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",After Chapitre 2
 https://fr8.seedr.cc/media/video/hd_hls/106909c34751abec233883856d7ae4624e984ca5/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Aquaman
 https://de11.seedr.cc/media/video/hd_hls/31a317dc4548e9ba6f5dce77e1c013d37d6f30eb/vid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",A Good Woman
-https://fr3.seedr.cc/media/video/hd_hls/b25c14f3c6cc8a07b946418f3edacda9ae3e7c22/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",ARI
 https://nl23.seedr.cc/media/video/hd_hls/bfcd7156aee25746fd0e94b2bc22bbdbb0b8cd70/vid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="jow.jpg" group-title="",Arkansas
