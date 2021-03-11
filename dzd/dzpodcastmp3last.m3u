@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="09/03/2021" tvg-logo="Chaine3.jpg" group-title="Toxicologie",L'invité Yacine Boumrah
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/2f75ede4-0716-45c3-b939-3c1d102612af.mp3
+#EXTINF:-1 tvg-id="" tvg-name="08/03/2021" tvg-logo="Chaine3.jpg" group-title="DroitFemmme",L'invité Soumia Salhi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1dcb6ea5-462d-4963-b57d-c889bfabcd47.mp3
 #EXTINF:-1 tvg-id="" tvg-name="07/03/2021" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Abderrahmane Benkhalfa
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/aee56123-a41c-4f9f-90f1-a2e94ed7b23a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="04/03/2021" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Brahim Mouhouche

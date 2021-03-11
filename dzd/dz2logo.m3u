@@ -74,7 +74,7 @@ http://ais-live.cloud-services.paris:8000/virgin.mp3
 #EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="rfm.jpg" group-title="",RFM
 https://ais-live.cloud-services.paris:8443/rfm.aac
 #EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="rtl1.png" group-title="",RTL1
-http://streaming.radio.rtl.fr/rtl-1-44-128
+https://icecast.rtl.fr/rtl-1-44-128?id=webRTL&aw_0_1st.playerId=playerliveRTL&aw_0_req.userConsentV2=
 #EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="europe1.png" group-title="",Europe 1
 https://ais-live.cloud-services.paris:8443/europe1.aac
 #EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="fip.png" group-title="",Fip
@@ -82,7 +82,7 @@ http://direct.fipradio.fr/live/fip-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="franceinfo.png" group-title="",France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 #EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="rtl2.jpg" group-title="",RTL2
-http://streaming.radio.rtl2.fr/rtl2-1-44-128
+http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 #EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="beurfm.png" group-title="",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="Logo_africa_1.jpg" group-title="",Africa 1
