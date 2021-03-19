@@ -95,6 +95,8 @@ http://mascara.ice.infomaniak.ch/29.aac
 http://medea.ice.infomaniak.ch/26.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Mostaganem
 http://setif.ice.infomaniak.ch/27.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Mila
+https://mila.ice.infomaniak.ch/43.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Msila
 http://msila.ice.infomaniak.ch/28.aac
 #EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="default_logo.jpg" group-title="",Naama

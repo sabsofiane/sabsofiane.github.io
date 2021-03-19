@@ -1,10 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="18/03/2021" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Mohamed Henne
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/f9f8cec9-45c2-420f-aaff-487cb1b40133.mp3
+#EXTINF:-1 tvg-id="" tvg-name="17/03/2021" tvg-logo="Chaine3.jpg" group-title="Journalisme",L'invité Rima Rouibi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/b70b7509-4120-46a5-8182-942f5759b174.mp3
+#EXTINF:-1 tvg-id="" tvg-name="16/03/2021" tvg-logo="Chaine3.jpg" group-title="CNCPME",L'invité Adel Bensaci
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/8d478c02-7660-4a0f-923f-e82a419a3001.mp3
+#EXTINF:-1 tvg-id="" tvg-name="15/03/2021" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Lyes Merabet
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/03b5e578-83a7-442b-8321-3a2ef1ff4c56.mp3
+#EXTINF:-1 tvg-id="" tvg-name="14/03/2021" tvg-logo="Chaine3.jpg" group-title="Telecom",L'invité Brahim Boumzar
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/3391581d-f178-4b47-b00e-678af037b671.mp3
+#EXTINF:-1 tvg-id="" tvg-name="13/03/2021" tvg-logo="mabulle.png" group-title="Culture",Kamel Louafi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/8efa0e72-b3ba-4d9d-a682-d945193e4152.mp3
+#EXTINF:-1 tvg-id="" tvg-name="11/03/2021" tvg-logo="Chaine3.jpg" group-title="Enseignement",L'invité Rachid Belhadj
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/a6930c54-d213-4d38-9cf9-3b27353c3d18.mp3
+#EXTINF:-1 tvg-id="" tvg-name="10/03/2021" tvg-logo="Chaine3.jpg" group-title="CAPC",L'invité Samy Agli
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/78486a49-dd10-4d35-ad29-99fd94621bba.mp3
 #EXTINF:-1 tvg-id="" tvg-name="09/03/2021" tvg-logo="Chaine3.jpg" group-title="Toxicologie",L'invité Yacine Boumrah
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/2f75ede4-0716-45c3-b939-3c1d102612af.mp3
 #EXTINF:-1 tvg-id="" tvg-name="08/03/2021" tvg-logo="Chaine3.jpg" group-title="DroitFemmme",L'invité Soumia Salhi
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1dcb6ea5-462d-4963-b57d-c889bfabcd47.mp3
 #EXTINF:-1 tvg-id="" tvg-name="07/03/2021" tvg-logo="Chaine3.jpg" group-title="Economie",L'invité Abderrahmane Benkhalfa
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/aee56123-a41c-4f9f-90f1-a2e94ed7b23a.mp3
+#EXTINF:-1 tvg-id="" tvg-name="06/03/2021" tvg-logo="mabulle.png" group-title="Culture",Nihal Hadj Hanni
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/c9d41b60-698d-49ea-a105-d29b7353fe3f.mp3
 #EXTINF:-1 tvg-id="" tvg-name="04/03/2021" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Brahim Mouhouche
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/51eede3f-7c9c-45c9-b51e-c3d09cde3703.mp3
 #EXTINF:-1 tvg-id="" tvg-name="03/03/2021" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Fatoum Lakhdari
