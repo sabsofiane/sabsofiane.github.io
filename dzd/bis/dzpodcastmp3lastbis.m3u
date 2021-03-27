@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="25/03/2021" tvg-logo="Chaine3.jpg" group-title="Assurance",L'invité Hamza Arbane
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/3f58bb61-496e-4e35-937c-37ed01f750b5.mp3
+#EXTINF:-1 tvg-id="" tvg-name="24/03/2021" tvg-logo="Chaine3.jpg" group-title="Santé",L'invité Mohamed Yousfi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/e606b0cb-8e29-41a0-80a8-95795037d8e9.mp3
+#EXTINF:-1 tvg-id="" tvg-name="23/03/2021" tvg-logo="Chaine3.jpg" group-title="Finance",L'invité Aymen Benabderahmane
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/78c4e5a5-fbfc-416a-8d5f-bf14f0420aa6.mp3
+#EXTINF:-1 tvg-id="" tvg-name="22/03/2021" tvg-logo="Chaine3.jpg" group-title="ADE",L'invité Hocine Zair
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1461a00d-14e6-4a97-96d2-d8a464a70f73.mp3
+#EXTINF:-1 tvg-id="" tvg-name="21/03/2021" tvg-logo="Chaine3.jpg" group-title="ViandeLegume",L'invité Mohamed Kharroubi
+https://podcast.radioalgerie.dz/sources/Chaine3/mp3/8a2c5933-10ac-423a-b363-c43f78ce4377.mp3
 #EXTINF:-1 tvg-id="" tvg-name="18/03/2021" tvg-logo="Chaine3.jpg" group-title="Agriculture",L'invité Mohamed Henne
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/f9f8cec9-45c2-420f-aaff-487cb1b40133.mp3
 #EXTINF:-1 tvg-id="" tvg-name="17/03/2021" tvg-logo="Chaine3.jpg" group-title="Journalisme",L'invité Rima Rouibi
@@ -317,21 +327,3 @@ https://podcast.radioalgerie.dz/sources/Chaine3/mp3/40f39c1d-fb8e-4837-a4a4-d04a
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4735d30f-367c-4574-bdf0-f788a699ffbb.mp3
 #EXTINF:-1 tvg-id="" tvg-name="01/04/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Djamel Nibiouche
 https://podcast.radioalgerie.dz/sources/Chaine3/mp3/65cd3018-f5c0-4607-8023-637117243241.mp3
-#EXTINF:-1 tvg-id="" tvg-name="31/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Cherif Omari
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/9be96ba8-3d35-4dd5-962b-216a46bc82b2.mp3
-#EXTINF:-1 tvg-id="" tvg-name="30/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Samy Agli
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/4e48b5c1-62d6-4eba-879c-036cd89ebb0c.mp3
-#EXTINF:-1 tvg-id="" tvg-name="29/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Lotfi Benbahmed
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/519b602e-39e0-4cdb-a04b-560db22b03b6.mp3
-#EXTINF:-1 tvg-id="" tvg-name="25/03/2020" tvg-logo="Chaine3.jpg" group-title="Environnement",L'invité Nassira Benharrat
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/7d2bd883-2c90-44a4-99d5-01df9e80cf77.mp3
-#EXTINF:-1 tvg-id="" tvg-name="24/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Smain Mesbah
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/49192266-9a1b-48da-8c58-0d92226074e8.mp3
-#EXTINF:-1 tvg-id="" tvg-name="23/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Lyes Merabet
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/1817af1d-10c8-4ab7-9852-f046ab3f0231.mp3
-#EXTINF:-1 tvg-id="" tvg-name="22/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Youcef Chawki
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/9aa4c6fb-0a54-42ff-82b1-9dc4ec60356d.mp3
-#EXTINF:-1 tvg-id="" tvg-name="19/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Yacine Oualid
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/ed4f609b-6533-4d63-997c-70062693d0a4.mp3
-#EXTINF:-1 tvg-id="" tvg-name="18/03/2020" tvg-logo="Chaine3.jpg" group-title="Coronavirus",L'invité Mohamed Berkani
-https://podcast.radioalgerie.dz/sources/Chaine3/mp3/ee6cba72-fa46-4ef6-bbda-f646d4fabec7.mp3

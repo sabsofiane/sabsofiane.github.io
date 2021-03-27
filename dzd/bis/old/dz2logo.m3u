@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="87.8" tvg-logo="franceinter.png" group-title="",France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="88.2" tvg-logo="generation.jpg" group-title="",Génération
+http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfiafrique.png" group-title="",RFI Afrique
+http://live02.rfi.fr/rfiafrique-96k.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.0" tvg-logo="rfimonde.png" group-title="",RFI Monde
+http://live02.rfi.fr/rfimonde-64.mp3
+#EXTINF:-1 tvg-id="" tvg-name="89.9" tvg-logo="TSF_Jazz_logo.png" group-title="",TSF Jazz
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="90.4" tvg-logo="nostalgie.png" group-title="",Nostalgie France
+http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id="" tvg-name="90.9" tvg-logo="chante.jpg" group-title="",Chante France
+https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="91.3" tvg-logo="cheriefm.png" group-title="",Chérie FM
+http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id="" tvg-name="91.7" tvg-logo="francemusique.png" group-title="",France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="92.1" tvg-logo="Mouv.png" group-title="",Mouv'
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="92.6" tvg-logo="tropiques.jpg" group-title="",Tropiques FM
+http://listen.radioking.com/radio/8916/stream/19088
+#EXTINF:-1 tvg-id="" tvg-name="93.5" tvg-logo="franceculture.png" group-title="",France Culture
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="94.1" tvg-logo="Jazz-radio.png" group-title="",Jazz
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="94.3" tvg-logo="radioorient.png" group-title="",Radio Orient
+http://stream3.broadcast-associes.com:8405/Radio-Orient
+#EXTINF:-1 tvg-id="" tvg-name="95.6" tvg-logo="radiocourtoisie.jpg" group-title="",Radio Courtoisie
+http://radiocourtoisie.nex-informatique.com/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="96.0" tvg-logo="skyrock.png" group-title="",Skyrock
+http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="96.4" tvg-logo="BFMBusiness.png" group-title="",BFM Business
+http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
+#EXTINF:-1 tvg-id="" tvg-name="96.9" tvg-logo="voltage.jpg" group-title="",Voltage
+http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="97.4" tvg-logo="rire.jpg" group-title="",Rire & Chansons
+http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id="" tvg-name="97.8" tvg-logo="swigg.jpg" group-title="",Swigg
+http://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="98.2" tvg-logo="radiofg.png" group-title="",Radio FG
+http://radiofg.impek.com/fg.mp3
+#EXTINF:-1 tvg-id="" tvg-name="98.8" tvg-logo="espacefm.jpg" group-title="",Espace FM
+https://listen.radioking.com/radio/16769/stream/63784
+#EXTINF:-1 tvg-id="" tvg-name="99.0" tvg-logo="latina.png" group-title="",Latina
+http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="99.5" tvg-logo="frmaghreb.png" group-title="",France Maghreb 2
+http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="99.9" tvg-logo="sudradio.jpg" group-title="",Sud Radio
+https://start-sud.ice.infomaniak.ch/start-sud-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="100.3" tvg-logo="Nrj2014.jpg" group-title="",NRJ
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1 tvg-id="" tvg-name="100.8" tvg-logo="contactfm.jpg" group-title="",Contact FM
+http://radio-contact.ice.infomaniak.ch/radio-contact-high
+#EXTINF:-1 tvg-id="" tvg-name="100.9" tvg-logo="hitwest.jpg" group-title="",Hit West FM
+http://broadcast.infomaniak.ch/hitwest-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="101.1" tvg-logo="classique.png" group-title="",Classique
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="101.5" tvg-logo="Nova_radio.jpg" group-title="",Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="101.7" tvg-logo="Vibration.jpg" group-title="",Vibration FM
+http://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="101.9" tvg-logo="funradio.jpg" group-title="",Fun Radio
+http://streaming.radio.funradio.fr/fun-1-44-128
+#EXTINF:-1 tvg-id="" tvg-name="102.3" tvg-logo="ouifm.png" group-title="",Oui FM
+http://stream.ouifm.fr/ouifm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="102.7" tvg-logo="mradio.png" group-title="",M Radio
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="103.1" tvg-logo="rmcinfo.png" group-title="",RMC Info
+http://chai5she.cdn.dvmr.fr/rmcinfo
+#EXTINF:-1 tvg-id="" tvg-name="103.5" tvg-logo="virgin.png" group-title="",Virgin
+http://ais-live.cloud-services.paris:8000/virgin.mp3
+#EXTINF:-1 tvg-id="" tvg-name="103.9" tvg-logo="rfm.jpg" group-title="",RFM
+https://ais-live.cloud-services.paris:8443/rfm.aac
+#EXTINF:-1 tvg-id="" tvg-name="104.3" tvg-logo="rtl1.png" group-title="",RTL1
+https://icecast.rtl.fr/rtl-1-44-128?id=webRTL&aw_0_1st.playerId=playerliveRTL&aw_0_req.userConsentV2=
+#EXTINF:-1 tvg-id="" tvg-name="104.7" tvg-logo="europe1.png" group-title="",Europe 1
+https://ais-live.cloud-services.paris:8443/europe1.aac
+#EXTINF:-1 tvg-id="" tvg-name="105.1" tvg-logo="fip.png" group-title="",Fip
+http://direct.fipradio.fr/live/fip-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="105.5" tvg-logo="franceinfo.png" group-title="",France Info
+http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="105.9" tvg-logo="rtl2.jpg" group-title="",RTL2
+http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
+#EXTINF:-1 tvg-id="" tvg-name="106.7" tvg-logo="beurfm.png" group-title="",Beur FM
+http://broadcast.infomaniak.ch/beurfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.5" tvg-logo="Logo_africa_1.jpg" group-title="",Africa 1
+http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="107.7" tvg-logo="francebleu.png" group-title="",France Bleu
+http://direct.francebleu.fr/live/fb1071-midfi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="abc.jpg" group-title="",ABC Lounge Radio
+http://str1.openstream.co/589
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="banquisefm.jpg" group-title="",Banquise FM
+http://stream.banquisefm.com:10050/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="deltafm.png" group-title="",Delta FM
+http://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.aac
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="crooner.png" group-title="",Crooner Radio
+http://stream.crooner.fr/crooner.aac
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="cfm.png" group-title="",CFM Radio
+http://cfm.streamakaci.com/;stream/1
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="euradio.png" group-title="",Euradio
+http://80.82.229.202:8000/euradio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="maritima.jpg" group-title="",Maritima Radio
+http://radiomaritima.streamakaci.com/radiomaritima.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="melodyvintage.png" group-title="",Melody Vintage
+http://str0.creacast.com/melody2
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="monafm.jpg" group-title="",Mona FM
+http://monafm.ice.infomaniak.ch/monafm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="planetefm.jpg" group-title="",Planete FM
+http://planetefm.ice.infomaniak.ch/planetefm-64.aac
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="playloud.jpg" group-title="",Playloud
+http://91.121.59.45:8280/stream
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="radioplus.jpg" group-title="",Radio Plus
+http://stream.radios-arra.fr:8000/fmplus
+#EXTINF:-1 tvg-id="" tvg-name="DAB+" tvg-logo="rplradio.png" group-title="",RPL Radio
+http://listen.radioking.com/radio/2966/stream/63127
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="blackbox.png" group-title="",BlackBox
+https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kissfm-logo.jpg" group-title="",Kiss FM
+http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="mistralfm.png" group-title="",Mistral FM
+http://mistralfm.bcast.infomaniak.ch/mistralfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radioraj.jpg" group-title="",Radio RAJ
+https://listen.radioking.com/radio/81799/stream/119992
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="radiostar.png" group-title="",Radio Star
+https://listen.radioking.com/radio/11606/stream/49337
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="hHZEBeu.png" group-title="",Urban Hit
+https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="L3Q8dcZ.png" group-title="",Urban Hit Ancienne
+https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="HW3DwEn.png" group-title="",Urban Hit Afro
+https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="MWA7gCP.png" group-title="",Urban Hit Funk
+http://urbanhitfunk.ice.infomaniak.ch/urbanhitfunk-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="1Vt3mJQ.png" group-title="",Urban Hit Latino
+https://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="mTX9umD.png" group-title="",Urban Hit Rai&b
+https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="aJQ50DU.png" group-title="",Urban Hit Rap
+https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="RHS4ktb.png" group-title="",Urban Hit US
+https://urbanhitus.ice.infomaniak.ch/urbanhitus-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="iDfdktF.png" group-title="",RFM Hit Party
+https://stream.rfm.fr/rfm-wr8.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="sRZOnmx.png" group-title="",RFM Musique Fraîche 
+https://stream.rfm.fr/rfm-wr14.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="r9Xmpin.png" group-title="",Le HIT RFM
+https://stream.rfm.fr/rfm-wr7.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="yijuWr9.png" group-title="",RFM 100 % Français
+https://stream.rfm.fr/rfm-wr11.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="kd1ED6Z.png" group-title="",RFM Night Fever
+https://stream.rfm.fr/rfm-wr2.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="vNQvA7r.png" group-title="",RFM 100% Femmes
+https://stream.rfm.fr/rfm-wr3.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="s39QDbf.png" group-title="",RFM Cinéma
+https://stream.rfm.fr/rfm-wr15.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="RU1tAJx.png" group-title="",RFM Collector
+https://stream.rfm.fr/rfm-wr1.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Ix573LN.png" group-title="",RFM Lounge
+https://stream.rfm.fr/rfm-wr6.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Unfy2Nt.png" group-title="",RFM Party 90
+https://stream.rfm.fr/rfm-wr5.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ZOY908C.png" group-title="",RFM Slow
+https://stream.rfm.fr/rfm-wr13.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="GDz0XET.png" group-title="",RFM 100 % New Wave
+https://stream.rfm.fr/rfm-wr12.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="wHdngqN.png" group-title="",RFM 80's
+https://stream.rfm.fr/rfm-wr4.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="IWlrmks.png" group-title="",RFM Pop Rock
+https://stream.rfm.fr/rfm-wr10.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Ic9tMg9.png" group-title="",RFM Run & Fit
+https://stream.rfm.fr/rfm-wr9.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="8mrZ144.png" group-title="",RFM 70's
+https://stream.rfm.fr/rfm-wr16.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="gwl7jF4.jpg" group-title="",Virgin Nouvelle Scène
+https://stream.virginradio.fr/vr-wr8.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="DptnkR7.png" group-title="",Virgin Hits
+https://stream.virginradio.fr/vr-wr4.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Bc6ImYl.png" group-title="",Virgin Classics
+https://stream.virginradio.fr/vr-wr2.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="aCNfxDK.png" group-title="",Virgin Tonic
+https://stream.virginradio.fr/vr-wr6.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="rshAG7V.png" group-title="",Virgin Rock
+https://stream.virginradio.fr/vr-wr5.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="assmjFR.png" group-title="",Virgin New
+https://stream.virginradio.fr/vr-wr1.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="NTwIJIx.png" group-title="",Virgin Electroshock
+https://stream.virginradio.fr/vr-wr3.aac
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="C28aHk4.jpg" group-title="",RJM Groove
+https://listen.radioking.com/radio/181675/stream/223462
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="MGsaJZu.jpg" group-title="",RJM Love
+https://www.radioking.com/play/the-river-of-calm
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="P4iVz98.jpg" group-title="",RJM Lounge
+https://www.radioking.com/play/rjm-lounge
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="VGuPKYz.jpg" group-title="",RJM Dance
+https://listen.radioking.com/radio/120304/stream/159802
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="mfGlgeM.jpg" group-title="",RJM Jazzy
+https://listen.radioking.com/radio/127546/stream/167344
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="lxKT80s.jpg" group-title="",RJM RnB
+https://www.radioking.com/play/old-school-90-s-r-b
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="9U8TFeK.jpg" group-title="",RJM 80
+https://listen.radioking.com/radio/4952/stream/13217
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="QCXW1Ev.jpg" group-title="",RJM French
+https://www.radioking.com/play/top-tonic-france
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="pmPiiwE.jpg" group-title="",RJM Pop
+https://listen.radioking.com/radio/75868/stream/113899
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="r7IdnFY.png" group-title="",LATINA @WORK
+https://latinawork.ice.infomaniak.ch/latinawork.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="N1Dpw5x.png" group-title="",LATINA BACHATA
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="HgDoLtJ.png" group-title="",LATINA KIZOMBA
+https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="xqSzHHw.png" group-title="",LATINA LOVE
+https://latinalove.ice.infomaniak.ch/latinalove.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Smb5hza.png" group-title="",LATINA REGGAETON 
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="HMzbHFV.png" group-title="",LATINA SALSA
+https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="156sb8h.png" group-title="",LATINA FIESTA 
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="M5od1yo.png" group-title="",Wit FM
+https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="XhjdG1i.png" group-title="",Wit FM 80
+https://wit80s.ice.infomaniak.ch/wit80s.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="ovmn9bj.png" group-title="",Wit FM 90
+https://wit90s.ice.infomaniak.ch/wit90s.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="FbOkrrG.png" group-title="",Wit FM 2000
+https://wit2000.ice.infomaniak.ch/wit2000.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="D7iUKbU.png" group-title="",Wit FM Club 
+https://witclub.ice.infomaniak.ch/witclub.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="T3gmc1D.png" group-title="",Wit FM Latina
+https://witlatina.ice.infomaniak.ch/witlatina.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="GyT8X3P.png" group-title="",Wit FM Lounge
+https://witlounge.ice.infomaniak.ch/witlounge.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="fY7rQmG.png" group-title="",Wit FM Love 
+https://witlove.ice.infomaniak.ch/witlove.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="cN14vSb.png" group-title="",Wit FM @Work
+https://witwork.ice.infomaniak.ch/witwork.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="1vGCrFS.png" group-title="",Wit FM en francais
+https://witenfrancais.ice.infomaniak.ch/witenfrancais-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="vCq5eg9.png" group-title="",RadioFG Chic
+http://radiofg.impek.com/fgc.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="GSnYvZM.png" group-title="",RadioFG Deep Dance
+http://radiofg.impek.com/fgd.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="qwD64zi.png" group-title="",RadioFG Home Party
+http://radiofg.impek.com/fg6.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="tMm5v4L.jpg" group-title="",RadioFG Nomade
+http://radiofg.impek.com/fg13.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="sG25twY.png" group-title="",RadioFG NonStop
+http://radiofg.impek.com/fge.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="wVJ4DWA.jpg" group-title="",RadioFG Starter
+http://radiofg.impek.com/fgv.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="MHF0rfi.png" group-title="",RadioFG Underground
+http://radiofg.impek.com/ufg.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="PS5lqZ8.jpg" group-title="",RadioFG -xtra
+http://stream1.impek.com:8300/stream
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="Z6Ay0HZ.jpg" group-title="",RadioFG Max
+https://radiofg.impek.com/max1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="VynttSO.jpg" group-title="",RadioFG Max Clas
+https://radiofg.impek.com/max2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="zNQ9iic.png" group-title="",RadioFG SnowParty
+http://radiofg.impek.com/fg14.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_logoVirageRadio.png" group-title="",Virage
+http://virageradio.ice.infomaniak.ch/virageradio-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-radio-rock-90_small.png" group-title="",Virage Rock 90 
+http://vir-wr01.ice.infomaniak.ch/vir-wr01.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-logos-webradios-popradio-77913.png" group-title="",Virage Pop
+http://virage-pop-radio.ice.infomaniak.ch/virage-pop-radio.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-logos-webradios-electro.png" group-title="",Virage Electro
+http://virage-electro-rock.ice.infomaniak.ch/virage-electro-rock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="WEB" tvg-logo="100x100_virage-radio-musique-de-pub_small.png" group-title="",Virage Musique De Pub
+http://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3
